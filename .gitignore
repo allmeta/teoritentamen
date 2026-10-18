@@ -28,3 +28,4 @@ dist-ssr
 .playwright-mcp
 # Screenshots of third-party site (local reference only)
 research/*.png
+.vercel
