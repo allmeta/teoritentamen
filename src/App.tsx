@@ -1,0 +1,317 @@
+import { createMemo, createSignal, For, Match, onCleanup, Show, Switch } from 'solid-js'
+import { Button } from '~/components/ui/button'
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '~/components/ui/card'
+import { Badge } from '~/components/ui/badge'
+import { cn } from '~/lib/utils'
+import {
+  type Attempt, type Mode, type Question,
+  PASS_MIN, TEST_SIZE, highscores, loadAttempts, passed, pickQuestions, saveAttempt, shuffleOptions,
+} from '~/lib/quiz'
+import { questions as bank } from '~/data/questions'
+
+const fmtTime = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`
+const fmtDate = (iso: string) =>
+  new Date(iso).toLocaleString('nb-NO', { dateStyle: 'short', timeStyle: 'short' })
+const NAME_KEY = 'teoritentamen.name'
+const readName = () => { try { return localStorage.getItem(NAME_KEY) ?? '' } catch { return '' } }
+
+export default function App() {
+  const [view, setView] = createSignal<'home' | 'quiz' | 'result'>('home')
+  const [attempts, setAttempts] = createSignal<Attempt[]>(loadAttempts())
+  const [name, setName] = createSignal(readName())
+  const [mode, setMode] = createSignal<Mode>('eksamen')
+  const [qs, setQs] = createSignal<Question[]>([])
+  const [answers, setAnswers] = createSignal<(number | undefined)[]>([])
+  const [checked, setChecked] = createSignal<boolean[]>([])
+  const [idx, setIdx] = createSignal(0)
+  const [started, setStarted] = createSignal(0)
+  const [now, setNow] = createSignal(Date.now())
+  const [last, setLast] = createSignal<Attempt>()
+
+  const timer = setInterval(() => setNow(Date.now()), 1000)
+  onCleanup(() => clearInterval(timer))
+  const elapsed = () => Math.max(0, Math.floor((now() - started()) / 1000))
+
+  const q = () => qs()[idx()]
+  const correctCount = createMemo(() => qs().filter((x, i) => answers()[i] === x.answer).length)
+  const answeredCount = () => answers().filter((a) => a !== undefined).length
+
+  const start = () => {
+    try { localStorage.setItem(NAME_KEY, name()) } catch {}
+    const picked = pickQuestions(bank).map(shuffleOptions)
+    setQs(picked)
+    setAnswers(picked.map(() => undefined))
+    setChecked(picked.map(() => false))
+    setIdx(0)
+    setStarted(Date.now())
+    setNow(Date.now())
+    setView('quiz')
+    scrollTo(0, 0)
+  }
+
+  const choose = (i: number) => {
+    if (checked()[idx()]) return
+    setAnswers((a) => a.map((v, j) => (j === idx() ? i : v)))
+  }
+  const check = () => setChecked((c) => c.map((v, j) => (j === idx() ? true : v)))
+
+  const finish = () => {
+    const unanswered = qs().length - answeredCount()
+    if (unanswered && !confirm(`Du har ${unanswered} ubesvarte spørsmål. Levere likevel?`)) return
+    const a: Attempt = {
+      name: name().trim() || 'Anonym', date: new Date().toISOString(), mode: mode(),
+      correct: correctCount(), total: qs().length, seconds: Math.round((Date.now() - started()) / 1000),
+    }
+    setAttempts(saveAttempt(a))
+    setLast(a)
+    setView('result')
+    scrollTo(0, 0)
+  }
+
+  const optionClass = (i: number, reveal: boolean, chosen: number | undefined, answer: number) =>
+    cn(
+      'w-full text-left rounded-lg border px-4 py-3 transition-colors flex gap-3 items-start',
+      !reveal && chosen === i && 'border-primary bg-accent ring-2 ring-primary/30',
+      !reveal && chosen !== i && 'hover:bg-accent cursor-pointer',
+      reveal && i === answer && 'border-success bg-success/15',
+      reveal && chosen === i && i !== answer && 'border-destructive bg-destructive/15',
+    )
+
+  return (
+    <main class="mx-auto max-w-3xl px-4 py-8 sm:py-12">
+      <Switch>
+        <Match when={view() === 'home'}>
+          <header class="mb-8">
+            <h1 class="text-3xl font-bold tracking-tight">Teoriprøven klasse B</h1>
+            <p class="mt-2 text-muted-foreground">
+              Øv til teoriprøven for personbil. {TEST_SIZE} spørsmål fra alle kategorier — du må ha minst{' '}
+              {PASS_MIN} riktige for å bestå, som på den ekte prøven hos Statens vegvesen.
+            </p>
+          </header>
+
+          <Card>
+            <CardHeader>
+              <CardTitle>Ny prøve</CardTitle>
+              <CardDescription>Spørsmålsbanken har {bank.length} spørsmål.</CardDescription>
+            </CardHeader>
+            <CardContent class="space-y-5">
+              <label class="block">
+                <span class="text-sm font-medium">Navn (vises i highscore)</span>
+                <input
+                  class="mt-1.5 h-9 w-full rounded-md border border-input bg-transparent px-3 text-sm shadow-xs focus-visible:outline-none focus-visible:ring-[3px] focus-visible:ring-ring/50"
+                  value={name()} onInput={(e) => setName(e.currentTarget.value)} placeholder="Anonym" maxLength={30}
+                />
+              </label>
+              <fieldset>
+                <legend class="text-sm font-medium mb-1.5">Modus</legend>
+                <div class="grid gap-2 sm:grid-cols-2">
+                  <For each={[
+                    { id: 'eksamen' as Mode, title: 'Eksamensmodus', desc: 'Som den ekte prøven. Fasit vises når du leverer.' },
+                    { id: 'ovelse' as Mode, title: 'Øvingsmodus', desc: 'Sjekk svaret og se forklaring underveis.' },
+                  ]}>
+                    {(m) => (
+                      <label class={cn('rounded-lg border p-3 cursor-pointer has-[:checked]:border-primary has-[:checked]:ring-2 has-[:checked]:ring-primary/30')}>
+                        <input type="radio" name="mode" class="sr-only" checked={mode() === m.id} onChange={() => setMode(m.id)} />
+                        <div class="font-medium">{m.title}</div>
+                        <div class="text-sm text-muted-foreground">{m.desc}</div>
+                      </label>
+                    )}
+                  </For>
+                </div>
+              </fieldset>
+            </CardContent>
+            <CardFooter>
+              <Button size="lg" class="w-full sm:w-auto" onClick={start}>Start prøve</Button>
+            </CardFooter>
+          </Card>
+
+          <div class="mt-8 grid gap-6 md:grid-cols-2">
+            <Card>
+              <CardHeader><CardTitle>Highscore</CardTitle></CardHeader>
+              <CardContent>
+                <Show when={attempts().length} fallback={<p class="text-sm text-muted-foreground">Ingen prøver ennå.</p>}>
+                  <ol class="space-y-2 text-sm">
+                    <For each={highscores(attempts())}>
+                      {(a, i) => (
+                        <li class="flex items-center gap-3">
+                          <span class="w-5 text-muted-foreground tabular-nums">{i() + 1}.</span>
+                          <span class="flex-1 truncate font-medium">{a.name}</span>
+                          <span class="tabular-nums">{a.correct}/{a.total}</span>
+                          <span class="w-12 text-right text-muted-foreground tabular-nums">{fmtTime(a.seconds)}</span>
+                        </li>
+                      )}
+                    </For>
+                  </ol>
+                </Show>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader><CardTitle>Historikk</CardTitle></CardHeader>
+              <CardContent>
+                <Show when={attempts().length} fallback={<p class="text-sm text-muted-foreground">Ingen prøver ennå.</p>}>
+                  <ul class="space-y-2 text-sm max-h-80 overflow-y-auto">
+                    <For each={attempts()}>
+                      {(a) => (
+                        <li class="flex items-center gap-2">
+                          <span class="flex-1 truncate">
+                            <span class="font-medium">{a.name}</span>{' '}
+                            <span class="text-muted-foreground">{fmtDate(a.date)}</span>
+                          </span>
+                          <span class="tabular-nums">{a.correct}/{a.total}</span>
+                          <Badge variant={passed(a) ? 'success' : 'error'}>{passed(a) ? 'Bestått' : 'Ikke bestått'}</Badge>
+                        </li>
+                      )}
+                    </For>
+                  </ul>
+                </Show>
+              </CardContent>
+            </Card>
+          </div>
+        </Match>
+
+        <Match when={view() === 'quiz' && q()}>
+          {(_) => {
+            const reveal = () => mode() === 'ovelse' && checked()[idx()]
+            return (
+              <div class="space-y-4">
+                <div class="flex items-center justify-between text-sm text-muted-foreground">
+                  <span>Spørsmål {idx() + 1} av {qs().length}</span>
+                  <span class="tabular-nums">⏱ {fmtTime(elapsed())}</span>
+                </div>
+                <div class="h-1.5 w-full rounded-full bg-muted overflow-hidden">
+                  <div class="h-full bg-primary transition-all" style={{ width: `${(answeredCount() / qs().length) * 100}%` }} />
+                </div>
+
+                <Card>
+                  <CardHeader>
+                    <Badge variant="secondary" class="w-fit">{q().category}</Badge>
+                    <CardTitle class="text-xl leading-snug">{q().text}</CardTitle>
+                  </CardHeader>
+                  <CardContent class="space-y-4">
+                    <Show when={q().image}>
+                      <img src={q().image} alt="" class="mx-auto max-h-48 object-contain" />
+                    </Show>
+                    <div class="space-y-2" role="radiogroup">
+                      <For each={q().options}>
+                        {(opt, i) => (
+                          <button
+                            type="button" role="radio" aria-checked={answers()[idx()] === i()}
+                            class={optionClass(i(), !!reveal(), answers()[idx()], q().answer)}
+                            onClick={() => choose(i())}
+                          >
+                            <span class="font-semibold text-muted-foreground">{'ABCDE'[i()]}</span>
+                            <span>{opt}</span>
+                          </button>
+                        )}
+                      </For>
+                    </div>
+                    <Show when={reveal()}>
+                      <div class={cn('rounded-lg p-4 text-sm', answers()[idx()] === q().answer ? 'bg-success/10' : 'bg-destructive/10')}>
+                        <p class="font-semibold mb-1">{answers()[idx()] === q().answer ? 'Riktig!' : 'Feil svar'}</p>
+                        <p>{q().explanation}</p>
+                        <Show when={q().source}>
+                          <a href={q().source} target="_blank" rel="noreferrer" class="mt-2 inline-block underline text-muted-foreground">Kilde</a>
+                        </Show>
+                      </div>
+                    </Show>
+                  </CardContent>
+                  <CardFooter class="justify-between gap-2">
+                    <Button variant="outline" disabled={idx() === 0} onClick={() => setIdx(idx() - 1)}>Forrige</Button>
+                    <div class="flex gap-2">
+                      <Show when={mode() === 'ovelse' && !checked()[idx()]}>
+                        <Button variant="secondary" disabled={answers()[idx()] === undefined} onClick={check}>Sjekk svar</Button>
+                      </Show>
+                      <Show
+                        when={idx() < qs().length - 1}
+                        fallback={<Button onClick={finish}>Lever prøven</Button>}
+                      >
+                        <Button onClick={() => setIdx(idx() + 1)}>Neste</Button>
+                      </Show>
+                    </div>
+                  </CardFooter>
+                </Card>
+
+                <nav class="flex flex-wrap gap-1.5" aria-label="Gå til spørsmål">
+                  <For each={qs()}>
+                    {(x, i) => (
+                      <button
+                        type="button"
+                        class={cn(
+                          'size-8 rounded-md border text-xs tabular-nums cursor-pointer',
+                          i() === idx() && 'ring-2 ring-primary',
+                          answers()[i()] !== undefined && !(mode() === 'ovelse' && checked()[i()]) && 'bg-primary text-primary-foreground',
+                          mode() === 'ovelse' && checked()[i()] && (answers()[i()] === x.answer ? 'bg-success text-white' : 'bg-destructive text-white'),
+                        )}
+                        onClick={() => setIdx(i())}
+                      >{i() + 1}</button>
+                    )}
+                  </For>
+                </nav>
+                <div class="flex justify-between">
+                  <Button variant="ghost" onClick={() => confirm('Avbryte prøven? Resultatet lagres ikke.') && setView('home')}>Avbryt</Button>
+                  <Button variant="outline" onClick={finish}>Lever prøven</Button>
+                </div>
+              </div>
+            )
+          }}
+        </Match>
+
+        <Match when={view() === 'result' && last()}>
+          {(a) => (
+            <div class="space-y-6">
+              <Card class={cn('border-2', passed(a()) ? 'border-success' : 'border-destructive')}>
+                <CardHeader class="items-center text-center">
+                  <CardTitle class="text-3xl">{passed(a()) ? 'Bestått!' : 'Ikke bestått'}</CardTitle>
+                  <CardDescription class="text-base">
+                    {a().correct} av {a().total} riktige · {a().total - a().correct} feil · {fmtTime(a().seconds)}
+                  </CardDescription>
+                  <p class="text-sm text-muted-foreground">Krav: minst {PASS_MIN} riktige (maks {TEST_SIZE - PASS_MIN} feil)</p>
+                </CardHeader>
+                <CardFooter class="justify-center gap-2">
+                  <Button onClick={start}>Ny prøve</Button>
+                  <Button variant="outline" onClick={() => setView('home')}>Til forsiden</Button>
+                </CardFooter>
+              </Card>
+
+              <h2 class="text-xl font-semibold">Gjennomgang</h2>
+              <For each={qs()}>
+                {(x, i) => {
+                  const chosen = answers()[i()]
+                  const ok = chosen === x.answer
+                  return (
+                    <Card>
+                      <CardHeader>
+                        <div class="flex gap-2">
+                          <Badge variant={ok ? 'success' : 'error'}>{ok ? 'Riktig' : chosen === undefined ? 'Ubesvart' : 'Feil'}</Badge>
+                          <Badge variant="secondary">{x.category}</Badge>
+                        </div>
+                        <CardTitle class="text-base leading-snug">{i() + 1}. {x.text}</CardTitle>
+                      </CardHeader>
+                      <CardContent class="space-y-3">
+                        <Show when={x.image}><img src={x.image} alt="" class="max-h-24 object-contain" /></Show>
+                        <div class="space-y-1.5">
+                          <For each={x.options}>
+                            {(opt, j) => (
+                              <div class={optionClass(j(), true, chosen, x.answer)}>
+                                <span class="font-semibold text-muted-foreground">{'ABCDE'[j()]}</span>
+                                <span>{opt}</span>
+                              </div>
+                            )}
+                          </For>
+                        </div>
+                        <p class="text-sm text-muted-foreground">
+                          {x.explanation}{' '}
+                          <Show when={x.source}><a href={x.source} target="_blank" rel="noreferrer" class="underline">Kilde</a></Show>
+                        </p>
+                      </CardContent>
+                    </Card>
+                  )
+                }}
+              </For>
+            </div>
+          )}
+        </Match>
+      </Switch>
+    </main>
+  )
+}

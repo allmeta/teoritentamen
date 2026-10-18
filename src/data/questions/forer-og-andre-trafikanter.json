@@ -1,0 +1,424 @@
+[
+  {
+    "id": "trafikanter-01",
+    "category": "Fører og andre trafikanter",
+    "text": "Du skal svinge til venstre i et kryss. Hvilket møtende kjøretøy vil det være vanskeligst å vurdere avstanden til?",
+    "options": [
+      "Lastebil",
+      "Varebil",
+      "Motorsykkel",
+      "Traktor med henger"
+    ],
+    "answer": 2,
+    "explanation": "Et smalt kjøretøy med lite frontareal, som en motorsykkel, ser ut til å være lenger unna og kjøre saktere enn det gjør. Vær derfor ekstra varsom med å svinge foran møtende motorsykler (vegtrafikkloven § 3).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§3"
+  },
+  {
+    "id": "trafikanter-02",
+    "category": "Fører og andre trafikanter",
+    "text": "Et kjøretøy i feltet ved siden av deg har stanset like foran et gangfelt, slik at du ikke ser hele gangfeltet. Hva er riktig?",
+    "options": [
+      "Du kan kjøre forbi hvis du holder lav fart",
+      "Du må ikke kjøre forbi det stansede kjøretøyet",
+      "Du kan kjøre forbi hvis du gir et kort lydsignal",
+      "Du kan kjøre forbi fordi du er i et annet felt"
+    ],
+    "answer": 1,
+    "explanation": "Det er forbudt å kjøre forbi et kjøretøy som hindrer sikten til et gangfelt, fordi en fotgjenger kan være på veg ut foran det (trafikkreglene § 12). Ulovlig forbikjøring foran gangfelt gir prikker.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§12"
+  },
+  {
+    "id": "trafikanter-03",
+    "category": "Fører og andre trafikanter",
+    "text": "Du har parkert langs kanten i en gate med mye sykkeltrafikk. Hva bør du gjøre før du åpner døra?",
+    "options": [
+      "Åpne døra raskt så du er ute fort",
+      "Se i speilet og over skulderen etter syklister",
+      "Åpne døra litt og vente på at syklister stanser",
+      "Ingenting, syklister skal holde avstand til biler"
+    ],
+    "answer": 1,
+    "explanation": "En dør som åpnes brått foran en syklist, kan gi en alvorlig ulykke. Sjekk speil og blindsone bakover før du åpner (vegtrafikkloven § 3 – vær aktsom og ikke volde fare).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§3"
+  },
+  {
+    "id": "trafikanter-04",
+    "category": "Fører og andre trafikanter",
+    "text": "Du ser en fotgjenger med hvit stokk ved vegen. Hva sier trafikkreglene?",
+    "options": [
+      "Du skal gi lydsignal så personen vet at du kommer",
+      "Du skal holde vanlig fart så personen kan høre hvor du er",
+      "Du skal holde særlig lav fart og om nødvendig stanse",
+      "Du har bare plikt til å stanse ved gangfelt"
+    ],
+    "answer": 2,
+    "explanation": "Hvit stokk eller førerhund viser at personen er blind eller sterkt svaksynt. Da skal du holde særlig lav fart og om nødvendig stanse straks (trafikkreglene § 13 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-05",
+    "category": "Fører og andre trafikanter",
+    "text": "Hvor skal gående som hovedregel gå når de må bruke kjørebanen?",
+    "options": [
+      "Ytterst til høyre",
+      "Midt i kjørefeltet",
+      "Der det er minst trafikk",
+      "Ytterst til venstre"
+    ],
+    "answer": 3,
+    "explanation": "Gående på kjørebanen skal gå ytterst til venstre, slik at de møter trafikken (trafikkreglene § 19). Som bilfører må du derfor regne med gående i motsatt kjøreretning langs din vegkant.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§19"
+  },
+  {
+    "id": "trafikanter-06",
+    "category": "Fører og andre trafikanter",
+    "text": "Du kjører med nærlys i mørket. Omtrent hvor langt unna kan du regne med å se en mørkkledd fotgjenger uten refleks?",
+    "options": [
+      "Ca. 25 meter",
+      "Ca. 75 meter",
+      "Ca. 140 meter",
+      "Ca. 300 meter"
+    ],
+    "answer": 0,
+    "explanation": "Uten refleks blir en fotgjenger synlig først på ca. 25–30 meter i nærlys, med refleks på ca. 140 meter (Trygg Trafikk). Tilpass farten etter hvor langt du faktisk ser (vegtrafikkloven § 3).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§3"
+  },
+  {
+    "id": "trafikanter-07",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva betyr skiltet?",
+    "image": "/skilt/142.svg",
+    "options": [
+      "Gangfelt like fram",
+      "Fare for at barn ferdes på eller ved vegen",
+      "Gågate – kjør i gangfart",
+      "Gang- og sykkelveg begynner like etter skiltet"
+    ],
+    "answer": 1,
+    "explanation": "Fareskilt 142 Barn varsler at barn ofte ferdes på eller ved vegen, f.eks. nær skole eller lekeplass (skiltforskriften § 4).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§4"
+  },
+  {
+    "id": "trafikanter-08",
+    "category": "Fører og andre trafikanter",
+    "text": "Hvorfor må du være ekstra varsom når det er barn ved vegen?",
+    "options": [
+      "Barn har alltid vikeplikt, men de glemmer den ofte i lek",
+      "Barn går nesten alltid i store grupper",
+      "Barn bedømmer fart og avstand dårlig og er uforutsigbare",
+      "Barn har forkjørsrett overalt i trafikken"
+    ],
+    "answer": 2,
+    "explanation": "Barn er små, uforutsigbare og vurderer ikke trafikken som voksne. Trafikkreglene krever særlig lav fart og om nødvendig stans ved barn på eller ved vegen (§ 13 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-09",
+    "category": "Fører og andre trafikanter",
+    "text": "Du nærmer deg en skolepatrulje ved vegen. Hva sier trafikkreglene?",
+    "options": [
+      "Du kan holde vanlig fart når ingen barn er i vegen",
+      "Du skal holde særlig lav fart og om nødvendig stanse",
+      "Du har bare vikeplikt når patruljen står i gangfelt",
+      "Du skal alltid stanse helt, også når ingen skal over"
+    ],
+    "answer": 1,
+    "explanation": "Ved passering av skolepatrulje skal du i særlig grad holde lav fart og om nødvendig stanse straks (trafikkreglene § 13 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-10",
+    "category": "Fører og andre trafikanter",
+    "text": "En eldre fotgjenger er på veg over gangfeltet foran deg. Hva bør du være forberedt på?",
+    "options": [
+      "At hun bruker lang tid og kanskje ikke har oppfattet deg",
+      "At hun vil gå raskere når hun ser at bilen kommer",
+      "At hun vil stanse midt i gangfeltet og la deg kjøre",
+      "At hun bare vil krysse når det er helt fritt for biler i begge retninger"
+    ],
+    "answer": 0,
+    "explanation": "Eldre kan ha nedsatt syn, hørsel og bevegelighet og trenger mer tid. Du har vikeplikt for gående i gangfeltet (trafikkreglene § 9 nr. 2) og skal vise hensyn etter vegtrafikkloven § 3.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§9"
+  },
+  {
+    "id": "trafikanter-11",
+    "category": "Fører og andre trafikanter",
+    "text": "En buss har stanset ved en holdeplass på din side av vegen. Hva sier trafikkreglene om hvordan du skal passere?",
+    "options": [
+      "Du skal holde særlig lav fart og om nødvendig stanse",
+      "Du kan holde vanlig fart når bussen står helt stille",
+      "Du skal alltid stanse bak bussen til den har kjørt",
+      "Du skal gi et kort lydsignal før du kjører forbi"
+    ],
+    "answer": 0,
+    "explanation": "Passasjerer kan gå ut i vegen foran bussen. Trafikkreglene § 13 nr. 2 krever særlig lav fart og om nødvendig stans ved passering av buss som har stanset ved holdeplass.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-12",
+    "category": "Fører og andre trafikanter",
+    "text": "Du står i et kryss rett ved høyre side av en lastebil som skal svinge til høyre. Hva er den største faren?",
+    "options": [
+      "At lastebilen må rygge litt før den kan svinge",
+      "At sjåføren ikke ser deg og svinger inn mot deg",
+      "At lastebilen skjuler trafikklyset for deg",
+      "At lastebilen kjører raskere enn deg ut av krysset først"
+    ],
+    "answer": 1,
+    "explanation": "Tunge kjøretøy har store blindsoner langs høyre side, og bakhjulene skjærer innover i svingen. Hold deg unna blindsonen og gi plass (vegtrafikkloven § 3).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§3"
+  },
+  {
+    "id": "trafikanter-13",
+    "category": "Fører og andre trafikanter",
+    "text": "Du møter et begravelsesfølge som går i kjørebanen. Hva sier trafikkreglene?",
+    "options": [
+      "Du kan kjøre gjennom følget i lav fart",
+      "Du må ikke hindre eller forstyrre følget",
+      "Du skal gi lydsignal så følget gir plass",
+      "Følget har vikeplikt for kjørende i kjørebanen"
+    ],
+    "answer": 1,
+    "explanation": "Trafikant må ikke hindre eller forstyrre gående i gruppe under tilsyn av leder, prosesjon, begravelsesfølge eller militær kjøretøykolonne (trafikkreglene § 10 nr. 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§10"
+  },
+  {
+    "id": "trafikanter-14",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva må et utrykningskjøretøy bruke for å kreve fri veg?",
+    "options": [
+      "Sirene alene",
+      "Blinkende blått lys",
+      "Blinkende gult lys",
+      "Fjernlys og lydsignal"
+    ],
+    "answer": 1,
+    "explanation": "Fri veg kreves med blinkende blått lys; sirene kan brukes i tillegg når det er nødvendig (trafikkreglene §§ 10 og 14). Blinkende gult lys brukes av f.eks. vegarbeidskjøretøy.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§14"
+  },
+  {
+    "id": "trafikanter-15",
+    "category": "Fører og andre trafikanter",
+    "text": "Du møter en rytter på hest på en smal veg. Hva er riktig?",
+    "options": [
+      "Gi et kort lydsignal så hesten merker deg",
+      "Kjør raskt forbi så støyen varer kortest mulig tid",
+      "Hold vanlig fart, rytteren skal vike helt ut",
+      "Senk farten, hold god avstand og unngå brå lyder"
+    ],
+    "answer": 3,
+    "explanation": "Hester kan skvette av lyd og raske bevegelser. Unødig lydsignal er forbudt (trafikkreglene § 14 nr. 1), og du skal ferdes slik at det ikke oppstår fare (vegtrafikkloven § 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§14"
+  },
+  {
+    "id": "trafikanter-16",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva betyr skiltet?",
+    "image": "/skilt/155.svg",
+    "options": [
+      "Fare for ridende",
+      "Forbudt for ridende",
+      "Fare for dyr i vegen",
+      "Ridesti – forbudt for motorvogn"
+    ],
+    "answer": 0,
+    "explanation": "Fareskilt 155 Ridende varsler at det kan være ridende på vegen. Forbud for ridende er et rundt forbudsskilt (306.9), og fare for dyr er skilt 146 (skiltforskriften § 4).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§4"
+  },
+  {
+    "id": "trafikanter-17",
+    "category": "Fører og andre trafikanter",
+    "text": "Hvorfor må du holde god sideavstand når du kjører forbi en syklist?",
+    "options": [
+      "Syklisten har plikt til å sykle midt i kjørefeltet",
+      "Luftpress og vindkast kan få syklisten ut av balanse",
+      "Syklisten har vikeplikt for den som kjører forbi",
+      "Det er forbudt å kjøre forbi syklister i tettbygd strøk"
+    ],
+    "answer": 1,
+    "explanation": "Luftpresset fra en bil kan få syklisten til å vingle, og syklisten kan måtte svinge unna hull eller hindringer. Den som kjører forbi, skal ikke volde fare for den forbikjørte (trafikkreglene § 12 nr. 3). Statens vegvesen tolker dette som minst 1,5 meter; kan du ikke gi trygg plass, må du vente.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§12"
+  },
+  {
+    "id": "trafikanter-18",
+    "category": "Fører og andre trafikanter",
+    "text": "Du står i kø før et kryss. En syklist kjører forbi køen på høyre side. Hva er riktig?",
+    "options": [
+      "Syklisten bryter trafikkreglene ved å gjøre dette",
+      "Syklisten har bare lov til dette i et sykkelfelt",
+      "Syklende kan kjøre forbi biler på høyre side",
+      "Syklisten har vikeplikt og må stille seg i køen"
+    ],
+    "answer": 2,
+    "explanation": "Syklende kan kjøre forbi til høyre for andre kjøretøy enn sykkel og elsparkesykkel (trafikkreglene § 18). Sjekk derfor speil og blindsone før du svinger til høyre.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§18"
+  },
+  {
+    "id": "trafikanter-19",
+    "category": "Fører og andre trafikanter",
+    "text": "En person leier en sykkel over et gangfelt uten trafikklys. Hva gjelder?",
+    "options": [
+      "Personen regnes som syklende og har vikeplikt",
+      "Personen regnes som gående, og du har vikeplikt",
+      "Ingen har vikeplikt, dere må bare samhandle",
+      "Du har bare vikeplikt hvis personen sykler over"
+    ],
+    "answer": 1,
+    "explanation": "Den som leier sykkel regnes som gående (trafikkreglene § 2), og du har vikeplikt for gående i gangfeltet (§ 9).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§2"
+  },
+  {
+    "id": "trafikanter-20",
+    "category": "Fører og andre trafikanter",
+    "text": "Du føler deg syk og svekket, men har en viktig avtale. Hva sier vegtrafikkloven?",
+    "options": [
+      "Du kan kjøre hvis du holder lav fart hele vegen",
+      "Du kan kjøre med en passasjer som har førerkort",
+      "Det er bare forbudt å kjøre når du har feber",
+      "Du må ikke kjøre når du ikke kan kjøre trygt"
+    ],
+    "answer": 3,
+    "explanation": "Ingen må føre kjøretøy når de ikke er skikket til å kjøre trygt, f.eks. fordi de er syke, svekket, slitne eller trette (vegtrafikkloven § 21).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§21"
+  },
+  {
+    "id": "trafikanter-21",
+    "category": "Fører og andre trafikanter",
+    "text": "Du skal skifte felt på en veg med to felt i samme retning. Hvorfor er et blikk over skulderen viktig?",
+    "options": [
+      "Det viser andre at du skal skifte felt",
+      "En motorsykkel kan skjule seg i blindsonen",
+      "Det er bare nødvendig når det er mørkt ute",
+      "Det trengs ikke når bilen har ryggekamera"
+    ],
+    "answer": 1,
+    "explanation": "Speilene har en blindsone der særlig smale kjøretøy som motorsykler og sykler kan skjules. Den som skifter felt skal ikke volde fare for andre (vegtrafikkloven § 3).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§3"
+  },
+  {
+    "id": "trafikanter-22",
+    "category": "Fører og andre trafikanter",
+    "text": "Du er sint og stresset etter en krangel. Hvordan kan det påvirke kjøringen?",
+    "options": [
+      "Du blir mer oppmerksom på andre trafikanter",
+      "Det påvirker ikke kjøringen når du er edru",
+      "Du tar større sjanser og oppfatter mindre",
+      "Du reagerer raskere enn du ellers gjør"
+    ],
+    "answer": 2,
+    "explanation": "Sterke følelser tar oppmerksomhet bort fra trafikken og gir mer risikovillig kjøring. Vurder om du er skikket til å kjøre trygt (vegtrafikkloven §§ 3 og 21).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§21"
+  },
+  {
+    "id": "trafikanter-23",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva sier trafikkreglene om tomgangskjøring i eller ved bebyggelse?",
+    "options": [
+      "Det er tillatt så lenge motoren er kald",
+      "Unødvendig tomgangskjøring er forbudt",
+      "Det er bare forbudt om natten",
+      "Det er bare forbudt for dieselbiler"
+    ],
+    "answer": 1,
+    "explanation": "I og ved bebyggelse er unødvendig kjøring, tomgangskjøring og unødig støy eller utslipp forbudt (trafikkreglene § 16).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§16"
+  },
+  {
+    "id": "trafikanter-24",
+    "category": "Fører og andre trafikanter",
+    "text": "Hvilken kjøremåte gir lavest drivstofforbruk og utslipp?",
+    "options": [
+      "Høyt turtall i lave gir hele tiden",
+      "Hyppig akselerasjon og hard oppbremsing",
+      "Varme opp motoren på tomgang i noen minutter før avreise",
+      "Jevn fart, god planlegging og lavt turtall"
+    ],
+    "answer": 3,
+    "explanation": "Økonomisk kjøring betyr å planlegge og holde jevn fart, unngå unødvendige oppbremsinger og kjøre på lavt turtall. Tomgang gir utslipp uten at du kommer noen veg (trafikkreglene § 16).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§16"
+  },
+  {
+    "id": "trafikanter-25",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva skjer med synsfeltet ditt når farten øker?",
+    "options": [
+      "Det blir smalere",
+      "Det blir bredere",
+      "Det endrer seg ikke",
+      "Det blir bredere i mørket"
+    ],
+    "answer": 0,
+    "explanation": "Jo høyere fart, desto mer fester blikket seg langt fram, og du oppfatter mindre av det som skjer ute på sidene («tunnelsyn»). Det er en viktig grunn til lav fart der barn og andre kan komme fra siden.",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-26",
+    "category": "Fører og andre trafikanter",
+    "text": "Omtrent hvor lang reaksjonstid regner man med for en opplagt og oppmerksom fører?",
+    "options": [
+      "Ca. 0,1 sekund",
+      "Ca. 1 sekund",
+      "Ca. 3 sekunder",
+      "Ca. 5 sekunder"
+    ],
+    "answer": 1,
+    "explanation": "I føreropplæringen regner man med ca. 1 sekund for en opplagt fører; tretthet, rus og uoppmerksomhet gjør den lengre. Kjør slik at du kan stanse på strekningen du har oversikt over (trafikkreglene § 13).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-27",
+    "category": "Fører og andre trafikanter",
+    "text": "Du dobler farten. Hva skjer med reaksjonslengden når reaksjonstiden er den samme?",
+    "options": [
+      "Den er uendret",
+      "Den blir halvert",
+      "Den blir dobbelt så lang",
+      "Den blir fire ganger så lang"
+    ],
+    "answer": 2,
+    "explanation": "Reaksjonslengden er strekningen du kjører før du begynner å bremse, og den øker i samme forhold som farten. (Bremselengden derimot blir omtrent fire ganger så lang.)",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§13"
+  },
+  {
+    "id": "trafikanter-28",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva av dette gjør reaksjonstiden din lengre?",
+    "options": [
+      "At du holder lav fart",
+      "At du er trett",
+      "At du har god avstand til bilen foran",
+      "At du har begge hender på rattet"
+    ],
+    "answer": 1,
+    "explanation": "Tretthet gir tregere oppfatning og reaksjon. Du må ikke kjøre når du er så sliten eller trett at du ikke er skikket til å kjøre trygt (vegtrafikkloven § 21).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§21"
+  },
+  {
+    "id": "trafikanter-29",
+    "category": "Fører og andre trafikanter",
+    "text": "Du kjører i 80 km/t og ser ned på telefonen i 2 sekunder. Omtrent hvor langt kjører du uten å se på vegen?",
+    "options": [
+      "Ca. 11 meter",
+      "Ca. 22 meter",
+      "Ca. 44 meter",
+      "Ca. 88 meter"
+    ],
+    "answer": 2,
+    "explanation": "80 km/t er ca. 22 meter i sekundet, så 2 sekunder gir ca. 44 meter i blinde. Derfor er all betjening av mobiltelefon under kjøring forbudt (mobilforskriften).",
+    "source": "https://lovdata.no/forskrift/1999-12-17-1309/§2"
+  },
+  {
+    "id": "trafikanter-30",
+    "category": "Fører og andre trafikanter",
+    "text": "Hva er tillatt bruk av mobiltelefon under kjøring?",
+    "options": [
+      "Å lese meldinger når farten er under 30 km/t",
+      "Å holde telefonen i hånden under korte samtaler",
+      "Å skrive inn en adresse i kartappen mens du kjører",
+      "Å snakke i telefonen når den sitter i fast holder"
+    ],
+    "answer": 3,
+    "explanation": "Enhver betjening av mobiltelefon er forbudt under kjøring, unntatt å starte, gjennomføre og avslutte samtaler når telefonen er håndfri eller i holder fastmontert nær rattet (mobilforskriften § 2). Brudd gir 3 prikker.",
+    "source": "https://lovdata.no/forskrift/1999-12-17-1309/§2"
+  }
+]

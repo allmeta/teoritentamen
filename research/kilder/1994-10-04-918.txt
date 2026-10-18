@@ -1,0 +1,1177 @@
+KILDE: https://lovdata.no/dokument/SF/forskrift/1994-10-04-918 (hentet 2026-10-18)
+
+===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_1 =====
+ 🔍
+
+Hovedmeny
+
+Verktøylinje
+
+Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+
+
+Trykk Escape for å lukke innholdsfortegnelse
+
+    Ditt søk ga dessverre ingen treff.
+   
+    Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+    Kap. 1. Generelle bestemmelser
+
+    § 1-1.Forskriftens virkeområde m.m.
+
+    1. Denne forskrift får anvendelse for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1995 eller senere.
+
+    Den får også anvendelse for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1995 eller senere.
+
+    For bil og tilhenger til bil registrert første gang i Norge før 15. september 2012, får denne forskriften anvendelse kun der forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger
+    til bil (bilforskriften) fastsetter dette.
+
+    2. For kjøretøy eller deler typegodkjent i Norge før 1. januar 1995 gjelder forskrifter for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1996
+    (for moped 1. januar 1997) eller senere.
+
+    Tilsvarende gjelder for typegodkjente deler som omsettes eller tas i bruk e.l.– avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1996 eller senere.
+
+    3. For kjøretøy registrert eller tatt i bruk første gang før hhv. 1. januar 1995 (jfr. nr. 1), 1. januar 1996 (jfr. nr. 2) eller 1. januar 1997 (moped, jfr. nr. 2), gjelder forskrift om krav til
+    kjøretøy av 25. januar 1990 nr. 91, herunder definisjonene der.
+
+    Tilsvarende gjelder for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – før 1. januar 1995.
+
+    Kravene i denne forskrift tillates fulgt for kjøretøy og deler som nevnt i første og andre ledd.
+
+    4. Forskriften får også virkning for deler og utstyr til kjøretøy registrert eller tatt bruk første gang før hhv. 1. januar 1995 jfr. nr. 1) eller 1. januar 1996 (jfr. nr. 2), i den utstrekning
+    dette blir fastsatt i vedlegg til denne forskrift. I vedlegget fastsettes også andre eventuelle endringer i forskrift om krav til kjøretøy.
+
+    5. Forskriften gjelder ikke for:
+
+    - sykkel
+
+    - kjøretøy, dersom føreren regnes som gående etter trafikkreglene.
+
+    - pansrede stridskjøretøy
+
+    6. Med unntak av kap. 24, 25 og 27, gjelder ikke forskriften for motorvogn bestemt til å føres av gående.
+
+    7. Kjøretøy som utelukkende brukes i forbindelse med organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område, med unntak av lisensiert rallybil, trial- og
+    enduromotorsykkel, omfattes ikke av denne forskrift.
+
+    0 Endret ved forskrifter 5 juli 2012 nr. 818 (i kraft 15 sep 2012), 18 juni 2021 nr. 2127, 19 sep 2022 nr. 1594 (i kraft 1 okt 2022).
+
+    🔗Del paragraf
+   
+    § 1-2.Forholdet til tidligere bestemmelser
+
+    Når det ved endring i denne forskrift iverksettes nye og strengere bestemmelser, skal tidligere bestemmelser på området fortsette å gjelde for kjøretøy/deler allerede registrert/tatt i bruk/
+    omsatt, med mindre noe annet er spesielt fastsatt.
+
+    🔗Del paragraf
+   
+    § 1-3.Forholdet til nye bestemmelser
+
+    Når det i denne forskrift er fastsatt at en bestemmelse trer i kraft en viss dato, skal dette ikke være til hinder for at bestemmelsen følges straks, med mindre noe annet fremgår av sammenhengen.
+
+    Når det i denne forskrift er vist til et EF-direktiv, skal det ikke være til hinder for at senere endringer av dette direktiv kan godtas.
+
+    For bil og tilhenger til bil som omfattes av denne forskrift godtas også dokumentasjon av krav og kravnivå som følger av forskrift 5. juli 2012 nr. 817 om godkjenning av bil og tilhenger til bil.
+    For bil gruppe M1 eller N1(hele bilen) produsert i store serier for land utenom EØS-området kan også forordning (EF) nr. 183/2011 benyttes.
+
+    0 Endret ved forskrift 5 juli 2012 nr. 818 (i kraft 15 sep 2012).
+
+    🔗Del paragraf
+   
+    § 1-4.Ombygging av kjøretøyer
+
+    1. Når et kjøretøy ombygges til annen kjøretøygruppe, skal kjøretøyet tilfredsstille de krav som gjelder for den nye gruppen. Dog kan kjøretøy som har vært registrert i Norge i minst 3 år,
+    ombygges til annen kjøretøygruppe uten at kjøretøyet kreves å oppfylle de krav til støy, avgass, bremser og kollisjonsegenskaper som gjelder for den nye gruppen.
+
+    2. Med mindre annet fremgår, og bortsett fra unntaket i nr. 1, skal de kravene gjelde som gjaldt på det tidspunktet kjøretøyet ble registrert første gang eller tatt i bruk uten registreringsplikt
+    i Norge.
+
+    3. Når et kjøretøy ombygges til annen kjøretøygruppe, skal, med mindre annet fremgår, de definisjoner og klassifiseringsregler gjelde som gjelder på tidspunktet for omregistreringen. For
+    kjøretøy, som ikke er registreringspliktig (når ombyggingen er foretatt), gjelder tilsvarende, dog slik at tidspunktet for avsluttet ombygging er avgjørende.
+
+    4. Bestemmelsene i denne paragraf gjelder ikke dersom annet fremgår av reglene for EØF-typegodkjenning.
+
+    🔗Del paragraf
+   
+    § 1-5.Krav til kjøretøy/utstyr i bruk
+
+    Kjøretøy/utstyr i bruk skal opprettholdes i slik utførelse/vedlikeholdes slik at de til en hver tid tilfredsstiller de krav som gjaldt ved første gangs registrering, eller ibruktagelse uten
+    registreringsplikt, med mindre annet fremgår i de enkelte kapitler.
+
+    🔗Del paragraf
+   
+    § 1-6.Unntak ved ikrafttredelse av nye bestemmelser
+
+    1. Kjøretøy – forutsatt at det dreier seg om rimelig antall – som er importert eller produsert har i landet før ikrafttredelsesdatoen for en ny bestemmelse og som ikke tilfredsstiller denne
+    bestemmelse, kan godkjennes (registreres) også etter denne dato når de tilfredsstiller de krav som ble stilt til kjøretøyene før denne dato.
+
+    2. Ved godkjenning/registrering skal Statens vegvesen forlange dokumentert at kjøretøyet er importert eller produsert her i landet før vedkommende bestemmelses ikrafttredelsesdato. Som bevis vil
+    kunne godtas den på registreringsmeldingen (blankett nr. 221) påførte fortollingsdato. Når kjøretøyet har stått på transittlager og blitt fortollet først etter nevnte ikrafttredelsesdato, kan
+    f.eks. erklæring fra tollvesenet i form av eget dokument eller anmerkning på registreringsmeldingen godtas.
+
+    3. På registerkortet og i vognkortet skal gjøres anmerkning om at kjøretøyet er godkjent etter foranstående dispensasjonsordning og hvilke bestemmelser det gjelder.
+
+    4. Bestemmelsene i denne paragraf gjelder ikke ved EØF-typegodkjenning av motorkjøretøy og deres tilhenger, jfr. § 3-10.
+
+    0 Endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 1-7.Unntak for bruktimporterte kjøretøy
+
+    Kjøretøy som tidligere har vært registrert, eller tatt i bruk uten registreringsplikt i annet land skal tilfredsstille de krav som i Norge gjaldt på det tidspunkt kjøretøyet ble registrert eller
+    tatt i bruk i annet land.
+
+    🔗Del paragraf
+   
+    § 1-8.Godkjenning av kjøretøy importert som arvegods eller ved eiers flytting, eller som registreres på internasjonale organisasjoner eller utenlandsk myndighet mfl. i Norge
+
+    1. Kjøretøy som har vært registrert i utlandet og som importeres som arvegods, kan godkjennes uten at kravene i denne forskrift er oppfylt. Se dog nr. 2 og 3.
+
+    Forutsetningen for at kjøretøyet kan anses som arvegods, er at avgiftsmyndighetene har godtatt det som arvegods («motorvogner som innføres som arvegods») ved å innvilge det avgiftsfradrag eller
+    avgiftsfritak.
+
+    Unntak fra kravene i denne forskrift kan også gis til kjøretøy som tas med fra utlandet i forbindelse med flytting til eller etablering i Norge, og som registreres på kjennemerker med gule tegn
+    på blå, reflekterende bunn («diplomatkjennemerker») eller som registreres på internasjonale organisasjoner i Norge eller deres personale som nyter personlig tollfrihet, i den grad dette følger av
+    folkeretten eller av særskilt overenskomst, forutsatt at kjøretøyet importeres til eget bruk, og det gis avgiftsfrihet, avgiftsnedsettelse eller avgiftstilskudd for engangsavgift. Slikt kjøretøy
+    anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
+
+    2. Kjøretøy som godkjennes etter nr. 1 må tilfredsstille kravene i motorvognforskriftene av 3. juni 1942 samt bestemmelser gitt med hjemmel i disse.
+
+    3. Likeledes skal følgende krav i denne forskrift være tilfredsstilt:
+
+    a. Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.
+
+       Krav om bilbelter i forsetet, jfr. kap. 16, dog slik at bilbelter som er montert ved importen skal godkjennes, såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere
+    b. registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd
+       fast forbundet med hverandre (ikke delbart).
+
+    Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.
+
+    c. Krav om speil, jfr. kap. 30.
+
+    d. Krav til LPG-drivstoffanlegg på bil, jf. § 22-6.
+
+    4. Kjøretøy som tas med til Norge og registreres på det amerikanske forsvaret eller dets avtalepartnere, eller på deres personale eller personalets familie, i henhold til Tilleggsavtale mellom
+    Norge og USA om forsvarssamarbeid av 16. april 2021 artikkel IX, skal godkjennes uten ytterligere krav. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i
+    landet hva angår tekniske krav.
+
+    5. I vognkortet gjøres merknad om at kjøretøyet er godkjent etter foranstående bestemmelser.
+
+    0 Endret ved forskrifter 17 juli 2008 nr. 921 (i kraft 1 okt 2008), 15 sep 2010 nr. 1273, 23 des 2015 nr. 1844 (i kraft 1 jan 2016), 4 okt 2022 nr. 1714.
+
+    🔗Del paragraf
+   
+    § 1-9.Bevaringsverdige kjøretøy
+
+    1. Bestemmelsene i denne paragraf gjelder for:
+
+    - kjøretøy som tidligere ikke har vært registrert i Norge,
+
+    - kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,
+
+    - kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,
+
+    - kjøretøy som tidligere har vært registrert på forsvaret.
+
+    2. Med original utførelse menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle
+    endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.
+
+    Tilnærmet original utførelse vil videre si at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært
+    å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og
+    godkjent i den periode da kjøretøyet var i vanlig bruk.
+
+    3. Kjøretøy som er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelsen selv om det
+    ikke oppfyller betingelsene i § 1-7. Innretning/utstyr som har betydning for sikkerheten, må virke tilfredsstillende.
+
+    Kjøretøy i denne gruppen omfattes ikke av senere tekniske bestemmelser som er gjort tilbakevirkende.
+
+    4. Kjøretøy som er 15 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), men yngre enn 30 år, og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne
+    utførelse selv om det ikke oppfyller betingelsene i § 1-7, såfremt det er av spesiell interesse. «Spesiell interesse» vil i denne forbindelse vanligvis avhenge av alder og sjeldenhet (i Norge),
+    slik at det til et 15 år gammelt kjøretøy stilles meget strenge krav til sjeldenhet.
+
+    Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+
+    5. Kjøretøy som er yngre enn 15 år og er i tilnærmet original stand, kan i helt spesielle tilfelle godtas som bevaringsverdig og godkjennes selv om det ikke oppfyller betingelsene i § 1-7.
+
+    Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+
+    6. Kjøretøy som er godkjent etter nr. 3, 4 eller 5, skal ha følgende påtegning i vognkortets anmerkningsrubrikk ved registreringen:
+
+        «Bevaringsverdig kjøretøy. Må ikke endres konstruktivt eller utseendemessig.»
+
+    7. Kjøretøy som er godkjent etter nr. 3 eller 4, skal ha følgende påtegning i tillegg:
+
+        «Må bare benyttes
+
+        - ved spesielle anledninger som f.eks. motorhistoriske samlinger og løp
+
+        - ellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.»
+
+    8. Ved deltagelse i motorhistoriske samlinger og løp, men ikke kjøring til eller fra, kan kjørtøy, som et unntak fra nr. 2, ha den utførelse det hadde fra fabrikantens side.
+
+    9. Hvis kjøretøy som er godkjent etter ovenstående unntak for bevaringsverdige kjøretøy, endres konstruktivt eller utseendemessig etter registreringen, omfattes det ikke lenger av disse
+    unntaksbestemmelsene. Kjøretøyet må da fremstilles for ny godkjenning og § 1-7 må tilfredsstilles.
+
+    10. Kjøretøy som er ordinært registrert i Norge, kan tilbakebygges til original utførelse. Kjøretøyet får da status som bevaringsverdig kjøretøy og pålegges de aktuelle restriksjoner med hensyn
+    til endring og bruk.
+
+    11. Kjøretøy som er registrert etter unntaksbestemmelsene for bevaringverdig kjøretøy, men som etter gjeldende bestemmelser kunne vært ordinært registrert, kan registreres ordinært og eventuelle
+    restriksjoner strykes.
+
+    12. Militærtaktiske kjøretøy som tildligere har vært registrert på forsvaret, må, for å kunne registreres ordinært, tilfredsstille de ordinære kravene som gjaldt da kjøretøyene ble registrert
+    første gang på forsvaret, pluss eventuelle senere tekniske bestemmelser som er gjort tilbakevirkende. Kjøretøy kan om ønskes beholdes i original militær stand mot at det gis status som
+    bevaringsverdig kjøretøy. Det skal da ha påtegningen i nr. 6 ovenfor i vognkortet pluss hele eller første del av påtegningen i nr. 7 ovenfor. Dette avgjøres av Statens vegvesen etter vurdering av
+    om kjøretøyet kan bevege seg sammen med øvrig trafikk med rimelig sikkerhet.
+
+    0 Endret ved forskrifter 21 nov 2007 nr. 1275 (i kraft 1 mai 2008), 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 1-10.Unntak for kjøretøy som brukes utenfor offentlig veg m.m.
+
+    1. Kjøretøy som bare brukes utenfor offentlig veg er unntatt fra bestemmelsene i kap. 33 og 47. Tilhenger med konstruktiv hastighet ikke over 30 km/t som bare brukes utenfor offentlig veg og
+    tilhengerredskap som bare brukes utenfor offentlig veg er unntatt fra kravet om bremser i kap. 26. Det forutsettes at kjøretøyene likevel kan brukes på forsvarlig måte.
+
+    2. Kjøretøy som er registrert på kjennemerker med lysegule tegn på sort bunn kan av Statens vegvesen unntas fra bestemmelsene i denne forskrift, med unntak av kap. 1, 2, 3, 4, 5, 6, 7, 41, 42,
+    43, 46 og 47 i den utstrekning det finnes rimelig og forsvarlig.
+
+    3. Kjøretøy som ikke er registreringspliktig og som bare brukes utenfor offentlig veg er unntatt fra bestemmelsene i denne forskrift, med unntak av kapitlene 1, 2, 3, 4, 5, 6, 7, 41, 42, 43, 46
+    og 47 i den utstrekning kjøretøyene likevel kan brukes på forsvarlig måte.
+
+    0 Endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 1-11.Andre unntak
+
+    1. Statens vegvesen kan gjøre generelle unntak eller unntak i enkelttilfelle fra denne forskrift. Fra kap. 2 kan det bare gjøres generelle unntak.
+
+    2. Statens vegvesen kan gjøre unntak i enkelttilfelle fra bestemmelsene i denne forskrift, med unntak av kap. 1, 2, 3, 4, 5, 6, 7, 41, 42, 43, 46 og 47.
+
+    3. Bestemmelsene i denne paragraf gjelder bare i den utstrekning EØS-avtalen tillater unntak.
+
+    0 Endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 1-12.Generelt om ikrafttredelse
+
+    1. Når det i denne forskrift er fastsatt at en bestemmelse trer i kraft en viss dato, skal det innebære at bestemmelsen skal gjelde for kjøretøy registrert første gang eller tatt i bruk uten
+    registreringsplikt i Norge på denne dato eller senere, med mindre annet fremgår av sammenhengen.
+
+    🔗Del paragraf
+   
+    § 1-13.Ikrafttredelse av denne forskrift
+
+    Denne forskrift gjelder fra 1. januar 1995.
+
+    🔗Del paragraf
+   
+    § 1-14.Betaling for godkjenning av kjøretøyer
+
+    1. Gebyrplikt
+
+    1.1 For enkeltgodkjenning og nasjonal typegodkjenning av kjøretøyer jf. kap. 6 og 7, herunder etterkontroll, skal det betales gebyr etter satser som nevnt i forskrift om gebyr på tjenester utført
+    av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 4 og 8.
+
+    1.2 Gebyrplikten gjelder bare godkjenning av kjøretøy foretatt av Statens vegvesen.
+
+    2. Gebyrpliktens omfang, definisjoner mv.
+
+    2.1 Gebyrplikten omfatter følgende typer godkjenning:
+
+    a. Godkjenning av bruktimporterte kjøretøy. (Unntatt EØF-typegodkjent kjøretøy)
+
+    b. Enkeltgodkjenning av kjøretøy hvor det ikke foreligger typegodkjenning.
+
+    c. Ny godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy når dette kreves etter § 6-9 eller § 7-2 nr. 2.1, 3.1 eller 4.1.
+
+    d. Nasjonal typegodkjenning av kjøretøyer.
+
+    2.2 Det er uten betydning om godkjenningen er betegnet som godkjenning, kontroll e.l. så lenge det gjelder vedtak som gjelder enkeltgodkjenning eller typegodkjenning i henhold til kap. 6 (unntatt
+    § 6-15) eller 7.
+
+    2.3 Med etterkontroll menes kontroll av at tidligere påpekte tekniske mangler er rettet opp.
+
+    2.4 Det skal betales gebyr for hvert enkelt kjøretøy som fremstilles for godkjenning.
+
+    2.5 Det skal ikke betales gebyr for klagebehandling.
+
+    2.6 Innbetalt gebyr for godkjenninger som angitt i pkt. 2.1 bokstav a, b og c vil ikke refunderes dersom kunden unnlater å fremstille kjøretøyet til kontroll. Dette gjelder likevel ikke dersom
+    timen er avbestilt senest nest siste virkedag før dato for bestilt time. Selv om fristen for avbestilling er utløpt, kan gebyret for manglende fremstilling frafalles av Statens vegvesen dersom
+    det fremlegges helseattest eller dokumentasjon for andre forhold som gjør det rimelig å frafalle gebyret.
+
+    3. (Opphevet)
+
+    4. Betaling av gebyr
+
+    4.1 Gebyr skal være betalt før søknad om enkeltgodkjenning behandles, og før etterkontroll foretas.
+
+    4.2 Ved omgjøring av vedtak skal gebyr tilbakebetales, i den grad det omgjorte vedtak har hatt betydning for gebyrplikten.
+
+    5. Ikrafttredelse
+
+    5.1 Bestemmelsene i denne paragraf gjelder fra 15. mai 2000 for enkeltgodkjenning og 1. januar 2002 for typegodkjenning.
+
+    5.2 Bestemmelsene i denne paragraf får ikke virkning for enkeltgodkjenning av kjøretøy som er påbegynt før 15. mai 2000, og typegodkjenning av kjøretøy som er påbegynt før 1. januar 2002. Dersom
+    det ikke foreligger skriftlig søknad, eller det på annen måte er vanskelig å tidfeste søknad, skal denne regnes som innkommet den dag kjøretøyet fremstilles for godkjenning, gebyr betales,
+    eventuelt bevis for betalt gebyr fremlegges, eller godkjenningen på annen måte påbegynnes.
+
+      Endret ved forskrifter 11 juni 2004 nr. 833 (i kraft 1 juli 2004), 12 des 2006 nr. 1410 (i kraft 1 jan 2007), 27 okt 2008 nr. 1157, 21 mai 2010 nr. 712 som erstattet forskrift 7 mai 2010 nr.
+      677, 17 des 2010 nr. 1748 (i kraft 1 jan 2011), 28 mars 2011 nr. 323, 7 des 2011 nr. 1237 (i kraft 1 jan 2012), 11 des 2012 nr. 1222 (i kraft 1 jan 2013), 10 des 2013 nr. 1501 (i kraft 1 jan
+    0 2014), 5 des 2014 nr. 1543 (i kraft 1 jan 2015), 18 des 2015 nr. 1786 (i kraft 1 jan 2016), 22 des 2015 nr. 1838 (i kraft 1 jan 2016), 15 des 2016 nr. 1649 (i kraft 1 jan 2017), 8 des 2017 nr.
+      1980 (i kraft 1 jan 2018), 17 des 2018 nr. 2082 (i kraft 1 jan 2019), 26 nov 2019 nr. 1603, 10 des 2019 nr. 1723 (i kraft 1 jan 2020), 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 21 des 2020 nr.
+      3082 (i kraft 1 jan 2021), 14 des 2021 nr. 3558 (i kraft 1 jan 2022), 20 des 2022 nr. 2392 (i kraft 1 jan 2023), 10 okt 2023 nr. 1664.
+
+    🔗Del paragraf
+   
+    § 1-15.Spesielle unntak for bil i gruppe M1 og N1
+
+    (1) Denne paragraf gjelder bil i gruppe M1 og N1 som er godkjent etter bestemmelsene i § 1-15 før 1. juni 2017.
+
+    (2) Bilen skal vedlikeholdes i henhold til § 1-5. Endringer av bilen tillates etter de samme regler som gjelder for ordinært registrerte kjøretøy, jf. § 1-4 og § 6-9 samt kapittel 7. Endring til
+    lysutrustning som er i henhold til FMVSS eller CMVSS tillates uten ny godkjenning.
+
+    0 Tilføyd ved forskrift 17 juni 2004 nr. 924 (i kraft 1 juli 2004), endret ved forskrifter 15 mai 2006 nr. 525 (i kraft 1 juni 2006), 21 nov 2007 nr. 1275 (i kraft 1 mai 2008), 15 sep 2010 nr.
+      1273, 24 mai 2017 nr. 644 (i kraft 1 juni 2017), 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 1-16.Spesielle unntak for bil i gruppe M2 og M3, N2 og N3
+
+    (1) Denne paragraf gjelder bil i gruppe M2, M3, N2 og N3 som er godkjent etter bestemmelsene i § 1-15 før 1. juni 2006.
+
+    (2) Bilen skal vedlikeholdes i henhold til § 1-5. Moderate endringer som ikke påvirker bilens sikkerhets- og miljøegenskaper i negativ grad tillates.
+
+    (3) For bil som per 1. juni 2017 ikke har godkjenning for trekking av tilhenger, gjelder følgende for tildeling av slik godkjenning:
+
+    a. største tilhengervekt settes til det laveste av alternativene 1 og 2:
+
+    1. fabrikantens garanti,
+
+    2. tilhengerfestets vektgaranti,
+
+    b. for tilhengervekter over 3500 kg kreves gjennomgående driftsbrems,
+
+    c. for bil gruppe M2 og M3 skal største tilhengervekt ikke overstige 3500 kg,
+
+    d. dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,
+
+    e. dersom bil med trykkluftbremser ikke har kobling for ABS/EBS i henhold til ISO 7638-1, skal det gjøres merknad om dette i vognkortet,
+
+    f. følgende vognkortanmerkning(er) benyttes slik det passer:
+
+    - «Bilen er ikke utstyrt med standard europeisk tilhengerkobling.»
+
+    - «Bilen er ikke utstyrt med standard europeisk kontakt for ABS/EBS, og kan ikke trekke tilhenger som krever slik tilkobling.»
+
+    - «Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
+
+    (4) Godkjenning av endringer i henhold til annet og tredje ledd skal gjøres av Statens vegvesen. Endring til lysutrustning som er i henhold til FMVSS eller CMVSS tillates uten ny godkjenning.
+
+    0 Tilføyd ved forskrift 24 mai 2017 nr. 644 (i kraft 1 juni 2017), endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+    ×
+
+    Del dokument
+
+    Brukerveiledning
+
+    ❓ ␡  
+
+    Trenger du brukerveiledning?
+
+    Få svar på ofte stilte spørsmål her (FAQ)
+
+    Lovdata kan dessverre ikke svare på spørsmål angående juridiske problemer. Lovdata kan heller ikke bidra med å tolke regelverket eller finne frem til rettsregler som passer i et bestemt tilfelle.
+    Kontakt den offentlige etaten spørsmålet gjelder, eventuelt advokat eller rettshjelper hvis du har behov for slik bistand.
+
+    Fant du ikke det du lette etter?
+
+    Send en e-post til support@lovdata.no
+
+    🍪Om informasjonskapsler
+
+===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_3 =====
+ 🔍
+
+Hovedmeny
+
+Verktøylinje
+
+Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+
+
+Trykk Escape for å lukke innholdsfortegnelse
+
+    Ditt søk ga dessverre ingen treff.
+   
+    Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+    Kap. 3. EØF-typegodkjenning av biler og deres tilhengere
+
+    § 3-0.
+
+    Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29. april 2009 jf. også § 6-3 nr. 1.
+
+    0 Tilføyd ved forskrift 28 april 2009 nr. 458.
+
+    🔗Del paragraf
+   
+    § 3-1.Generelt
+
+    1. Bestemmelsene i dette kapittel gjelder EØF-typegodkjenning i henhold til direktiv 70/156/EØF, som senest endret ved direktiv 2007/37/EF.
+
+    Den som ønsker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i kap. 6, så langt disse passer. Se særlig § 6-9 nr. 7.
+
+    2. Henvisninger til vedlegg gjelder ovennevnte rettsakter.
+
+    3. Bestemmelser, definisjoner m.m. i overnevnte rettsakter skal legges til grunn, selv om de ikke er uttrykkelig nevnt i denne forskrift.
+
+    4. Bestemmelsene i dette kapittel gjelder også for deler, utstyr m.m. som nevnt i overnevnte rettsakter.
+
+    5. Vegdirektoratet er godkjenningsmyndighet etter dette kap.
+
+    6. EØF-typegodkjenninger fra andre EØS-stater skal uten videre legges til grunn.
+
+    EØF-typegodkjenninger som nevnt i første ledd er ikke til hinder for at Vegdirektoratet kan fastsette saksbehandlingsregler m.m. for å sikre en praktisk gjennomføring av nødvendige rutiner for
+    EØF-typegodkjenningenes anvendelse i Norge.
+
+    7. Nr. 6 gjelder tilsvarende for typegodkjenninger fra andre EØS-stater i samsvar med likeverdige standarder oppført i vedlegg IV del II, herunder eventuelle tilsvarende typegodkjenningsmerker,
+    jf. § 3-11.
+
+    8. EØF-typegodkjenning etter dette kapittel er obligatorisk, så langt det finnes relevante særdirektiver. I vedlegg 1 til denne forskrift inntas oversikt over de særdirektivene som skal anvendes
+    for de forskjellige kjøretøytyper.
+
+    For kjøretøytyper gjelder obligatorisk EØF-typegodkjenning foreløpig bare for gruppe M 1 med forbrenningsmotor.
+
+    Kjøretøy som kan enkeltgodkjennes etter kapittel 6, jf. § 6-11 er unntatt fra kravet om EØF-typegodkjenning, jf. også § 1-15.
+
+    9. Inntil 31. desember 1995 for ferdigoppbygde kjøretøyer, og inntil 31. desember 1997 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, anvendes bestemmelsene i
+    dette kapittel bare etter anmodning fra produsenten.
+
+    For spesialkjøretøytyper nevnt i vedlegg XI, anvendes inntil videre bestemmelsene i dette kapittel bare etter anmodning fra produsenten.
+
+    10. For andre kjøretøytyper enn den som er nevnt i nr. 8 annet ledd eller for kjøretøy som ikke søkes EØF-typegodkjent etter nr. 9, gjelder reglene om nasjonal typegodkjenning, eventuelt reglene
+    for enkeltgodkjenning. Se likevel § 3-16.
+
+    Ved nasjonal typegodkjenning (jf. § 3-16) og ved enkeltgodkjenning skal EØF-typegodkjenninger av systemer, deler, tekniske enheter eller delvis oppbygde kjøretøy, gitt i henhold til direktiv 70/
+    156/EØF, som senest endret ved direktiv 2007/37/EF godtas.
+
+    11. Inntil 31. desember 1997 for ferdigoppbygde kjøretøyer og inntil 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, gjelder § 3-6 nr. 1 første
+    ledd og nr. 2 første ledd ikke for kjøretøyer, deler og tekniske enheter av en type som det er gitt nasjonal typegodkjenning for før hhv. 1. januar 1996 og 1. januar 1998, eller på en type som er
+    tillatt omsatt eller tatt i bruk i Norge før hhv. 1. januar 1996 og 1. januar 1998.
+
+    Typegodkjenninger som er gitt i henhold til de særdirektiver som utgjør en del av den nasjonale typegodkjenningsordningen, jf. § 3-16, skal fortsatt gjelde etter 31. desember 1997 for
+    ferdigoppbygde kjøretøyer, og etter 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, med mindre ett av vilkårene i § 3-4 nr. 3 første ledd kommer
+    til anvendelse.
+
+    12. Bestemmelsene i dette kap. gjelder ikke firehjuls motorsykler som nevnt i § 2-3 nr. 2 bokstav c annet ledd, jf. tredje ledd.
+
+    13. Søknad som gjelder en type kjøretøy, system, del eller teknisk enhet kan fremlegges i hvilken som helst EØS-stat, men bare i en slik stat. Det skal fremlegges en egen søknad for hver type det
+    søkes godkjenning for.
+
+    14. Bestemmelsene i dette kap. gjelder for EØF-typegodkjenning i Norge, med mindre annet fremgår. Prosedyrene er imidlertid tilsvarende også i andre EØS-stater.
+
+    0 Endret ved forskrifter 17 juni 2004 nr. 924 (i kraft 1 juli 2004), 18 jan 2005 nr. 31, 30 juni 2006 nr. 867, 2 nov 2006 nr. 1204, 27 feb 2008 nr. 212.
+
+    🔗Del paragraf
+   
+    § 3-2.Søknad om typegodkjenning
+
+    1. Søknad om typegodkjenning for en kjøretøytype skal fremlegges for Vegdirektoratet av produsenten. Søknaden skal ledsages av en opplysningsmappe som inneholder opplysningene som kreves i
+    henhold til vedlegg III, og av typegodkjenningsdokumentene i henhold til hvert av de særdirektiver som gjelder, i samsvar med vedlegg IV eller XI. Opplysningspakken for hvert særdirektiv skal
+    også gjøres tilgjengelig for godkjenningsmyndigheten inntil typegodkjenning utstedes eller nektes.
+
+    2. Som unntak fra nr. 1 skal dokumentene som ledsager en søknad, dersom det ikke finnes typegodkjenningsdokumenter for noen av de relevante særdirektivene, bestå av en opplysningsmappe med de
+    relevante opplysninger som kreves i henhold til vedlegg I med hensyn til særdirektivene angitt i vedlegg 4 eller 9 og eventuelt opplysninger i vedlegg III del II.
+
+    3. Ved etappevis typegodkjenning skal søkeren fremlegge følgende opplysninger:
+
+    - i første etappe: de deler av opplysningsmappen og de godkjenningsdokumentene som kreves for et etappevis ferdigoppbygd kjøretøy, og som tilsvarer basiskjøretøyets stadium i
+      oppbyggingsprosessen,
+
+      i annen og etterfølgende etapper: de deler av opplysningsmappen og de godkjenningsdokumentene som tilsvarer det aktuelle oppbyggingsstadium, og en kopi av typegodkjenningsdokumentet for det
+    - delvis oppbygde kjøretøyet utstedt på forrige oppbyggingsstadium; produsenten skal også fremlegge en fullstendig liste over endringer og tillegg som er foretatt på det delvis oppbygde
+      kjøretøyet.
+
+    4. Søknad om typegodkjenning for et system, en del eller en teknisk enhet skal fremlegges for Vegdirektoratet av produsenten. Søknaden skal ledsages av en opplysningsmappe som skal inneholde
+    opplysningene angitt i opplysningsdokumentet i det relevante særdirektivet.
+
+    🔗Del paragraf
+   
+    § 3-3.Typegodkjenning
+
+    1. Det skal utstedes:
+
+    a. kjøretøytypegodkjenning for:
+
+    - kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i alle relevante særdirektiver som nevnt i vedlegg IV,
+
+    - spesialkjøretøytyper nevnt i vedlegg XI som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i de relevante særdirektivene som er angitt i den
+      aktuelle kolonnen i vedlegg XI.
+
+    Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg V.
+
+    b. etappevis typegodkjenning for de typer basiskjøretøyer, delvis oppbygde kjøretøyer, som er i samsvar med spesifikasjonene i opplysningsmappen og som oppfyller de tekniske kravene i de
+       relevante særdirektivene som angitt i vedlegg IV eller XI, avhengig av kjøretøytypens stadium i den etappevise oppbyggingen.
+
+    Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg XIV.
+
+    c. systemgodkjenning for kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i det relevante særdirektiv nevnt i vedlegg IV eller XI.
+
+    d. typegodkjenning av deler eller tekniske enheter for alle typer deler eller tekniske enheter som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i
+       det relevante særdirektivet, nevnt i vedlegg IV eller XI, dersom særdirektivet uttrykkelig gir mulighet for det.
+
+       hvis det er snakk om typegodkjenning av et kjøretøy i henhold til vedlegg XI eller § 3-10, eller hvis det er snakk om typegodkjenning av et system, deler eller teknisk enhet i henhold til
+    e. vedlegg XI eller § 3-10, som innebærer begrensninger i eller unntagelser fra bestemmelsene i det relevante særdirektiv, skal de aksepterte begrensningene og unntagelsene fremgå av
+       typegodkjenningsdokumentet, som tildeles et særlig typegodkjenningsnummer i henhold til bestemmelsene i vedlegg VII.
+
+    f. hvis opplysningene i informasjonsdokumentene, som det henvises til i bokstavene a, b, c og d angir bestemmelser for spesialkjøretøytyper, som angitt i de relevante kolonner i vedlegg XI med
+       tillegg, skal slike bestemmelser og unntak også fremgå av typegodkjenningsdokumentet.
+
+    2. Dersom Vegdirektoratet finner at et kjøretøy, et system, en del eller en teknisk enhet som etterkommer bestemmelsene i nr. 1, likevel utgjør en alvorlig fare for trafikksikkerheten kan
+    typegodkjenning nektes. Vegdirektoratet skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om sitt vedtak og begrunnelsen for det.
+
+    3. Det skal for hver type kjøretøy, system eller teknisk enhet som godkjennes, fylles ut alle aktuelle deler av et typegodkjenningsdokument (se mønstre i vedlegg VI og i vedleggene til
+    særdirektivene). I tillegg skal det fylles ut de relevante rubrikkene i prøveresultatvedlegget til typegodkjenningsdokumentet for kjøretøyet (se mønster i vedlegg XIII) og utarbeides eller
+    kontrolleres innholdet i innholdsfortegnelsen til opplysningspakken. Typegodkjenningsdokumenter skal nummereres etter fremgangsmåten beskrevet i vedlegg VII. Det utfylte dokumentet og vedleggene
+    skal sendes til søkeren.
+
+    Typegodkjenninger som er gitt i henhold til § 3-10 eller vedlegg XI skal tildeles et særlig typegodkjenningsnummer beskrevet i vedlegg VII.
+
+    4. Dersom delen eller den tekniske enheten som skal godkjennes, fyller sin funksjon eller utviser en særlig egenskap bare sammen med andre deler på kjøretøydeler, enten de er reelle eller
+    simulerte, skal omfanget av typegodkjenningen begrenses tilsvarende. Typegodkjenningsdokumentet for delen eller den tekniske enheten skal da angi eventuelle restriksjoner på bruken, og eventuelle
+    krav til montering. Kontrollen med at disse restriksjonene og kravene etterkommes skal skje når kjøretøyet gis typegodkjenning.
+
+    5. Vegdirektoratet skal innen en måned oversende godkjenningsmyndighetene i de andre EFTA-statene og EFTA-statenes faste komité en kopi av typegodkjenningsdokumentet (med vedlegg) for hver
+    kjøretøytype den har gitt, nektet eller tilbakekalt typegodkjenning for.
+
+    6. Vegdirektoratet skal hver måned oversende godkjenningsmyndighetene i de andre EFTA-statene og til EFTA-statenes faste komité en liste (med alle opplysningene angitt i vedlegg XIII) over
+    typegodkjenninger for systemer, deler eller tekniske enheter den har gitt, nektet eller tilbakekalt i løpet av den aktuelle måneden. Det skal også, når en godkjenningsmyndighet i en EØS-stat ber
+    om det, umiddelbart sende en kopi av typegodkjenningsdokumentet for systemet, delen eller den tekniske enheten og/eller opplysningspakken for hver type system, del eller teknisk enhet som
+    medlemsstaten har gitt, nektet eller tilbakekalt typegodkjenning for.
+
+    🔗Del paragraf
+   
+    § 3-4.Endringer av typegodkjenninger
+
+    1. Produsenten skal gi informasjon om enhver endring av opplysningene i opplysningspakken til godkjenningsmyndigheten.
+
+    2. Søknad om endring eller utvidelse av en typegodkjenning skal fremlegges utelukkende for den EØS-staten som har gitt den opprinnelige typegodkjenningen.
+
+    3. Dersom det er gjort endringer i opplysningene i opplysningspakken for en typegodkjenning av et system, en del eller en teknisk enhet, skal det:
+
+    - om nødvendig utstedes ajourførte sider i opplysningspakken, og merkes hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver
+      ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser den siste datoen for de siste endringer,
+
+    - utstedes et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det inneholder endrede opplysninger (bortsett fra vedleggene), eller dersom kravene i direktivet er endret
+      etter datoen som er påført typegodkjenningen; det ajourførte dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.
+
+    Dersom en finner at en endring i en opplysningspakke tilsier nye prøver eller kontroller, skal en underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de nye
+    prøvene eller kontrollene er gjennomført med tilfredsstillende resultat.
+
+    4. Dersom det er gjort endringer i opplysningspakken for en typegodkjenning av et kjøretøy, skal godkjenningsmyndigheten:
+
+    - om nødvendig utstede ajourførte sider i opplysningspakken, og merke hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver
+      ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser datoen for de siste endringer.
+
+      utstede et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det er nødvendig med flere kontroller, dersom typegodkjenningsdokumentet inneholder endrede opplysninger
+    - (bortsett fra i vedleggene) eller dersom kravene i et av de særdirektivene som gjelder på en dato da det gis forbud mot å ta i bruk kjøretøyet, er endret siden den datoen som er påført
+      typegodkjenningsdokumentet. Det nye dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.
+
+    Dersom godkjenningsmyndigheten finner at en endring i en opplysningspakke tilsier nye kontroller, skal den underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de
+    nye kontrollene er gjennomført med tilfredsstillende resultat. Alle ajourførte dokumenter skal sendes til de andre godkjenningsmyndighetene innen en måned.
+
+    5. Dersom en typegodkjenning av et kjøretøy ikke lenger er gyldig fordi en eller flere typegodkjenninger gitt i henhold til særdirektivene som det er henvist til i opplysningspakken, ikke lenger
+    er gyldige, eller at det innføres et nytt særdirektiv i vedlegg IV del I, skal Vegdirektoratet innen en måned underrette godkjenningsmyndighetene i de andre EFTA-statene og EFTA-statenes faste
+    komité om dette, samt opplyse om datoen eller identifikasjonsnummeret for det siste kjøretøyet som ble produsert i samsvar med det gamle godkjenningsdokumentet.
+
+    6. For kjøretøygrupper, som ikke berøres av at kravene i særdirektiver eller i typegodkjenningsdirektivet endres, skal typegodkjenningen ikke nødvendigvis endres.
+
+    🔗Del paragraf
+   
+    § 3-5.Samsvarssertifikat
+
+    1. Som innehaver av et typegodkjenningsdokument for en kjøretøytype, skal produsenten fylle ut et samsvarssertifikat. Dette sertifikatet, som det finnes et mønster for i vedlegg IX, skal følge
+    hvert kjøretøy, enten ferdig oppbygd eller delvis oppbygd, som er produsert i samsvar med den godkjente kjøretøytypen. For delvis oppbygde og etappevis ferdigoppbygde kjøretøytyper skal
+    produsenten fylle ut bare de punktene på side 2 i samsvarssertifikatet som er lagt til eller endret på det aktuelle stadiet av typegodkjenningen, og eventuelt legge ved alle samsvarssertifikater
+    som er levert på tidligere stadier.
+
+    Samsvarssertifikatet skal utføres på en slik måte at forfalskning forhindres. Det skal trykkes på papir som enten er beskyttet med kulørt grafikk eller er forsynt med et vannmerke med
+    fabrikantens identifikasjonsmerke. Samsvarssertifikat i henhold til vedlegg IX i direktiv 70/156/EØF som endret ved direktiv 2006/28/EF skal brukes for alle ferdigbygde kjøretøy i gruppe M1 som
+    produseres etter 1. oktober 1999 og for alle kjøretøy som er ferdigstilt etter rutinen for etappevis typegodkjenning etter 1.april 2000. Fra og med 1. juli 2003 skal samsvarssertifikater være
+    utformet i henhold til vedlegg IX i direktiv 70/156/EØF som endret ved direktiv 2001/116/EF eller som senest endret ved direktiv 2006/28/EF.
+
+    2. Som innehaver av et typegodkjenningsdokument for en del eller en teknisk enhet skal produsenten påføre hver del eller enhet som er produsert i samsvar med den godkjente type, sitt handelsnavn
+    eller varemerke, typebetegnelse og/eller, dersom det er fastsatt i særdirektivet, typegodkjenningsmerket eller -nummeret. I det sistnevnte tilfellet kan produsenten velge ikke å påføre
+    handelsnavnet, varemerket eller typebetegnelsen.
+
+    3. Som innehaver av et typegodkjenningsdokument som i samsvar med bestemmelsene i § 3-3 nr. 4 inneholder restriksjoner for bruk av den aktuelle del eller teknisk enhet, skal produsenten for hver
+    enkelt del eller enhet gi detaljerte opplysninger om restriksjonene og gjøre oppmerksom på vilkår for montering.
+
+    0 Endret ved forskrifter 18 jan 2005 nr. 32, 30 juni 2006 nr. 867, 2 nov 2006 nr. 1204.
+
+    🔗Del paragraf
+   
+    § 3-6.Registrering og bruk
+
+    1. Kjøretøy skal tillates registrert dersom, og bare dersom, det er utstyrt med gyldig samsvarssertifikat. Delvis oppbygd kjøretøy kan omsettes men tillates ikke registrert.
+
+    Dette gjelder ikke for kjøretøy typegodkjent i henhold til § 3-7.
+
+    Vegdirektoratet kan unnta kjøretøy, som er beregnet på å brukes av væpnede styrker, sivilforsvar, brannvesen og instanser som er ansvarlig for å ivareta offentlig orden, fra bestemmelsen i første
+    ledd, dersom dette er nødvendig av hensyn til konstruksjon eller bruk.
+
+    2. Deler og tekniske enheter tillates bare omsatt eller tatt i bruk dersom de er i samsvar med kravene i det aktuelle særdirektiv og er påført de opplysninger m.m. som nevnt i § 3-5 nr. 2.
+
+    Dette gjelder ikke for deler og enheter som er beregnet for kjøretøy som ikke omfattes av direktiv 70/156/EØF, som senest endret ved direktiv 2007/37/EF.
+
+    3. Dersom Vegdirektoratet finner at kjøretøyer, deler eller tekniske enheter av en bestemt type utgjør en alvorlig fare for trafikksikkerheten, selv om de er utstyrt med et gyldig
+    samsvarssertifikat eller er tilfredsstillende merket, kan det, for et tidsrom på høyst 6 måneder, treffes vedtak om å nekte å registrere slike kjøretøyer eller forby at slike kjøretøyer, deler
+    eller tekniske enheter selges eller tas i bruk i Norge.
+
+    Vegdirektoratet skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om vedtaket og begrunnelsen for det. Dersom EØS-staten som har gitt typegodkjenning, bestrider
+    påstanden om at det er fare for trafikksikkerheten, skal de berørte EØS-stater forsøke å bilegge tvisten. EFTAs overvåkningsorgan og EFTA-statenes faste komité skal holdes underrettet.
+
+    4. Nr. 1 og 2 får ikke anvendelse, før 1. januar 1998 for ferdigoppbygde kjøretøyer, og 1. januar 2000 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, for
+    kjøretøyer, deler og tekniske enheter av en type som det er gitt nasjonaltypegodkjenning for før hhv. 1. januar 1996 og 1. januar 1998. Tilsvarende gjelder for en type som har vært tillatt solgt,
+    registrert eller tatt i bruk før hhv. 1. januar 1996 og 1. januar 1998.
+
+    0 Endret ved forskrifter 18 jan 2005 nr. 31, 30 juni 2006 nr. 867, 2 nov 2006 nr. 1204, 27 feb 2008 nr. 212.
+
+    🔗Del paragraf
+   
+    § 3-7.Unntak – alternative rutiner
+
+    1. Vegdirektoratet kan gjøre unntak fra en eller flere av bstemmelsene i ett eller flere særdirektiver for kjøretøy som nevnt i § 3-8–§ 3-10 dersom vilkårene er til stede.
+
+    2. Typegodkjenningsdokumenter utstedt i samsvar med nevnte paragrafer, og som det finnes mønster for i vedlegg VI, kan ikke ha overskriften «EØF-typegodkjenning», bortsett fra for unntaket i §
+    3-10, forutsatt at EFTAs overvåkningsorgan eller EFTA-statenes faste komité har godkjent rapporten.
+
+    🔗Del paragraf
+   
+    § 3-8.Kjøretøyer produsert i små serier
+
+    1. For slike kjøretøyer skal antallet kjøretøyer i en typegruppe som registreres i Norge hvert år ikke overskride:
+
+    a. for gruppe M1: 50 stk.
+
+    2. Med typegruppe forstås kjøretøy som ikke skiller seg fra hverandre med hensyn til følgende punkter.
+
+    a. produsent
+
+    b. vesentlige forskjeller i konstruksjon og utforming:
+
+    - understell/bunnplate (åpenbare og grunnleggende forskjeller)
+
+    - motor (forbrenningsmotor/elektrisk/hybrid).
+
+    3. Vegdirektoratet skal hvert år sende en liste over slike typegodkjenninger til EFTAs overvåkningsorgan.
+
+    4. Vegdirektoratet skal sende kopi av godkjenningsdokumentet med vedlegg til godkjenningsmyndigheter i de andre EØS-land som produsenten ber om, med opplysning om hva slags unntak som er gitt.
+
+    5. Vegdirektoratet kan bestemme at prinsippet for typegodkjenning (art. 3, 4, 5, 6, 10 og 11 i direktiv 70/156/EØF, som senest endret ved direktiv 2007/37/EF), også skal gjelde for
+    typegodkjenninger etter denne paragraf. Ellers gjelder fremgangsmåten ved nasjonal typegodkjenning.
+
+    6. Vegdirektoratet skal innen 3 måneder etter å ha mottatt typegodkjenning for liten serie, utstedt i annen EØS-stat, bestemme om godkjenningen godtas og hvor mange som tillates registrert i
+    Norge.
+
+    0 Endret ved forskrifter 18 jan 2005 nr. 32, 30 juni 2006 nr. 867, 2 nov 2006 nr. 1204, 27 feb 2008 nr. 212.
+
+    🔗Del paragraf
+   
+    § 3-9.Restkjøretøyer
+
+    1. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg XII del B og for et begrenset tidsrom på 12 måneder for ferdigoppbygde kjøretøyer og 18 måneder for etappevis
+    ferdigoppbygde kjøretøyer, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye kjøretøyer av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig i henhold til § 3-4 nr. 5.
+
+    Denne bestemmelsen får anvendelse bare på kjøretøyer
+
+    - som befant seg i EØS-området, og
+
+    - som var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert før denne typegodkjenningen ble
+      ugyldig.
+
+    2. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal produsenten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
+
+    Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøyer aksepteres registrert.
+
+    Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg XII del B.
+
+    Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
+
+    🔗Del paragraf
+   
+    § 3-10.Spesielle kjøretøyer
+
+    1. Dette gjelder kjøretøyer, deler eller tekniske enheter som er fremstilt på grunnlag av teknikker som på grunn av sin art ikke kan oppfylle ett eller flere av kravene i ett eller flere av
+    særdirektivene.
+
+    2. Vegdirektoratet kan utstede en typegodkjenning, som er gyldig i Norge, men skal for slike typegodkjenninger senest innen en måned oversende kopi av typegodkjenningsdokumentet med vedlegg til
+    godkjenningsmyndighetene i de andre EFTA-statene og EFTAs overvåkningsorgan. Samtidig skal det sendes en søknad til EFTAs overvåkningsorgan om tillatelse til å utstede typegodkjenning i henhold
+    til direktiv 70/156/EØF, som senest endret ved direktiv 2007/37/EF. Søknaden skal ledsages av en rapport som inneholder følgende:
+
+    - begrunnelsen for at de aktuelle teknikker eller prinsippene hindrer at kjøretøyet, delen eller den tekniske enheten oppfyller kravene i ett eller flere av de relevante særdirektivene,
+
+    - en beskrivelse av hvilke sikkerhets- og miljøvernaspekter som berøres, og tiltakene som er truffet,
+
+    - en beskrivelse av prøver og prøveresultater som viser at sikkerheten og miljøvernet er på et minst like høyt nivå som det kravene fastsatt i ett eller flere av de relevante særdirektiver
+      tilsier,
+
+    - forslag til endringer i de relevante særdirektivene eller eventuelt forslag til nye særdirektiver.
+
+    3. EFTAs overvåkningsorgan eller EFTA-statenes faste komité skal innen tre måneder etter mottak av den fullstendige rapporten beslutte i henhold til prosedyrene i artikkel 13 i direktiv 70/156/
+    EØF som senest endret ved direktiv 2007/37/EF, om det tillates at Vegdirektoratet kan utstede typegodkjenning i henhold til direktiv 70/156/EØF som senest endret ved direktiv 2007/37/EF.
+
+    4. Kun søknaden om tillatelse til å utstede typegodkjenning og utkastet til vedtak sendes de andre EFTA-statene og EFTAs overvåkningsorgan på deres offisielle språk, men EFTA-statene og EFTAs
+    overvåkningsorgan kan be om å få tilsendt deler av eller hele rapportens innhold på originalspråket som en forutsetning for å kunne treffe vedtak etter prosedyrene i artikkel 13 i direktiv 70/156
+    /EØF som senest endret ved direktiv 2007/37/EF.
+
+    5. Hvis det besluttes å godkjenne søknaden, kan Vegdirektoratet utstede typegodkjenning i henhold til direktiv 70/156/EØF som senest endret ved direktiv 2007/37/EF. Det skal også fremgå at det
+    aktuelle vedtaket, om det gjelder noen begrensninger, f.eks. en tidsfrist for gyldigheten. Gyldighetsperioden for enhver typegodkjenning bør være minst 36 måneder.
+
+    6. Når det/de aktuelle særdirektivet(ene) er blitt tilpasset til den tekniske utvikling, således at de kjøretøy, deler, eller tekniske enheter, som det er utstedt typegodkjenning til i henhold
+    til bestemmelsene i denne paragraf, tilfredsstiller kravene i det/de endrede direktiv(er), skal Vegdirektoratet konvertere slike typegodkjenninger til normale typegodkjenninger, hvor det gis en
+    rimelig frist, så f.eks. produsenter får tid til å endre typegodkjenningsmerker på deler. Dette omfatter opphør av enhver begrensning og unntak samt erstatning av særlige typegodkjenningsnumre
+    med normale typegodkjenningsnumre.
+
+    7. Hvis de nødvendige foranstaltninger til tilpassing av særdirektivet(ene) ikke er gjennomført, kan gyldigheten til typegodkjenninger, som er utstedt i henhold til denne paragraf, forlenges
+    etter anmodning fra Vegdirektoratet, ved ytterligere vedtak i henhold til artikkel 13 i direktiv 70/156/EØF som senest endret ved direktiv 2001/116/EF.
+
+    0 Endret ved forskrifter 18 jan 2005 nr. 32, 30 juni 2006 nr. 867. 2 nov 2006 nr. 1204, 27 feb 2008 nr. 212.
+
+    🔗Del paragraf
+   
+    § 3-11.Likeverdige standarder
+
+    De internasjonale standarder oppført i vedlegg IV del II skal anerkjennes som likeverdige med de aktuelle særdirektivene.
+
+    🔗Del paragraf
+   
+    § 3-12.Tiltak som gjelder produksjonsansvar
+
+    1. Den stat som foretar typegodkjenning, skal for denne typegodkjenning treffe de nødvendige tiltak i samsvar med vedlegg X, og eventuelt i samarbeid med de andre EØS-statenes
+    godkjenningsmyndigheter, for å kontrollere om tiltakene nevnt i nr. 1 fortsatt er tilstrekkelig og at de produserte kjøretøyer, systemer, deler eller tekniske enheter er i samsvar med den
+    godkjente type.
+
+    2. Den stat som har foretatt typegodkjenning, skal for denne typegodkjenning treffe de nødvendige tiltak i samsvar med vedlegg X, og eventuelt i samarbeid med de andre EØS-statenes
+    godkjenningsmyndigheter, for å kontrollere om tiltakene nevnt i nr. 1 fortsatt er tilstrekkelige og at de produserte kjøretøyer, systemer, deler eller tekniske enheter, forblir i samsvar med den
+    godkjente type. Kontroll med at produksjonen er i overensstemmelse med den godkjente type skal begrenses til rutinene fastsatt i vedlegg X nr. 2 og 3 i de særdirektivene som inneholder særlige
+    krav.
+
+    🔗Del paragraf
+   
+    § 3-13.Mangel på samsvar med den godkjente type
+
+    1. Mangel på samsvar med den godkjente type foreligger når det i forhold til typegodkjenningsdokumentet og/eller opplysningspakken fastslås avvik som det ikke er gitt tillatelse til etter § 3-4
+    nr. 3 eller 4 av den staten som ga typegodkjenningen. Et kjøretøy skal ikke anses å avvike fra den godkjente type dersom eventuelle toleranser fastsatt i særdirektivene overholdes.
+
+    2. Dersom Vegdirektoratet (for typegodkjenning i Norge) fastslår at flere kjøretøyer, deler eller tekniske enheter utstyrt med samme type samsvarssertifikat eller typegodkjenningsmerke ikke er i
+    samsvar med den godkjente type, skal Vegdirektoratet treffe de nødvendige tiltak for å sikre at produserte kjøretøyer, deler eller tekniske enheter, forblir i samsvar med den godkjente typen.
+    Vegdirektoratet skal underrette godkjenningsmyndighetene i andre EØS-stater om tiltakene, som eventuelt kan omfatte tilbakekalling av typegodkjenningen.
+
+    3. Dersom en EØS-stat fastslår at kjøretøyer, deler eller tekniske enheter utstyrt med samsvarssertifikat eller typegodkjenningsmerke, ikke er i samsvar med den godkjente type, kan den anmode den
+    stat som ga typegodkjenningen, om å kontrollere om de produserte kjøretøyer, deler eller tekniske enheter samsvarer med den godkjente type. Slike kontroller skal utføres så raskt som mulig, og
+    senest innen 6 måneder etter datoen for anmodning.
+
+    4. Den myndighet som har typegodkjent kjøretøyet skal anmode den staten(e) som har utstedet typegodkjenning for den/det relevante system, del, tekniske enhet eller delvis oppbygde kjøretøy, om å
+    treffe de nødvendige tiltak for å sikre at kjøretøyene som er i produksjon, igjen samsvarer med den godkjente typen. Slike tiltak skal treffes så raskt som mulig og senest seks måneder etter
+    datoen for anmodningen, om nødvendig i samarbeid med den staten som kom med anmodningen. Dette gjelder både:
+
+    - typegodkjenning av en kjøretøytype der et kjøretøys manglende samsvar utelukkende skyldes et systems, en dels eller teknisk enhets manglende ansvar, og
+
+    - etappevis typegodkjenning der et etappevis ferdigoppbygd kjøretøys manglende samsvar utelukkende skyldes manglende samsvar for et system, en del eller en teknisk enhet som er en del av det
+      delvis oppbygde kjøretøyet, eller for selve det delvis oppbygde kjøretøyet.
+
+    Dersom det konstanteres manglende samsvar, skal godkjenningsmyndighetene i den staten som ga typegodkjenning for systemet, delen, den tekniske enheten eller det delvis oppbygde kjøretøyet, treffe
+    tiltakene fastsatt i nr. 2.
+
+    5. Godkjenningsmyndighetene i EØS-statene skal innen én måned underrette hverandre om enhver tilbakekalling av typegodkjenninger og om begrunnelsen for dette tiltaket.
+
+    6. Dersom den staten som har foretatt typegodkjenningen, bestrider at det foreligger en slik mangel på samsvar som den er blitt underrettet om skal de berørte EØS-stater forsøke å bilegge
+    tvisten. EFTAs overvåkingsorgan skal holdes underrettet og skal om nødvendig få i stand passende samråd for å komme fram til en løsning.
+
+    🔗Del paragraf
+   
+    § 3-14.Melding om vedtak
+
+    Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrering eller forby salg, truffet i henhold til bestemmelser som er vedtatt for å gjennomføre direktiv 70/156/EØF, som
+    senest endret ved direktiv 2007/37/EF, skal være utførlig begrunnet.
+
+    0 Endret ved forskrifter 18 jan 2005 nr. 31, 30 juni 2006 nr. 867, 2 nov 2006 nr. 1204, 27 feb 2008 nr. 212.
+
+    🔗Del paragraf
+   
+    § 3-15.Underretning om godkjenningsmyndigheter og tekniske instanser
+
+    1. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:
+
+    - godkjenningsmyndighetene, og eventuelt hvilke fagområder myndighetene er ansvarlig for,
+
+    - de tekniske instanser de har utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte
+      standard for drift av prøvelaboratorier (EN 45001), idet følgende bestemmelser skal overholdes:
+
+    i. en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene gir mulighet for det,
+
+    ii. for dette direktivs formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at godkjenningsmyndigheten har gitt sitt samtykke til det.
+
+    2. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden.
+
+    Tredjestaters instanser kan bare utpekes til tekniske instanser innenfor rammene av multilaterale eller bilaterale avtaler mellom EØS og tredjestater.
+
+    🔗Del paragraf
+   
+    § 3-16.Nasjonal typegodkjenning basert på særdirektivene
+
+    1. Etter hvert som særdirektivene trer i kraft:
+
+    - skal det når kjøretøyer eller en kategori kjøretøyer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale
+      bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette. Dette gjelder likevel ikke for bilbelter som nevnt i § 3-1 nr. 6.
+
+      skal det når kjøretøyer eller en kategori kjøretøyer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering, omsetning eller bruk av disse kjøretøyer på
+    - grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende
+      godkjenningsmyndighet,
+
+    - skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningene som kreves etter særdirektivet, fylle ut typegodkjenningsdokumentet i samsvar
+      med det relevante særdirektiv. En kopi av dokumentet skal utstedes til søkeren. For kjøretøy av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
+
+    2. Med unntak av § 3-8 og § 3-9, skal bestemmelsene i denne paragraf ikke gi adgang til unntak frå bestemmelser i særdirektiver som er ufravikelige.
+
+    🔗Del paragraf
+    ×
+
+    Del dokument
+
+    Brukerveiledning
+
+    ❓ ␡  
+
+    Trenger du brukerveiledning?
+
+    Få svar på ofte stilte spørsmål her (FAQ)
+
+    Lovdata kan dessverre ikke svare på spørsmål angående juridiske problemer. Lovdata kan heller ikke bidra med å tolke regelverket eller finne frem til rettsregler som passer i et bestemt tilfelle.
+    Kontakt den offentlige etaten spørsmålet gjelder, eventuelt advokat eller rettshjelper hvis du har behov for slik bistand.
+
+    Fant du ikke det du lette etter?
+
+    Send en e-post til support@lovdata.no
+
+    🍪Om informasjonskapsler
+
+===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_4 =====
+ 🔍
+
+Hovedmeny
+
+Verktøylinje
+
+Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+
+
+Trykk Escape for å lukke innholdsfortegnelse
+
+    Ditt søk ga dessverre ingen treff.
+   
+    Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
+
+    Kap. 4. EØF-typegodkjenning av to- og trehjulede motorvogner
+
+    § 4-1.Generelt
+
+    1. Bestemmelsene i dette kapitel gjelder typegodkjenning av to- og trehjulede motorvogner og deres deler og tekniske enheter i samsvar med direktiv 92/61/EØF, fra 9. november 2003 erstattet av
+    direktiv 2002/24/EF, som senest endret ved direktiv 2013/60/EU.
+
+    Den som søker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i kap. 6, så langt disse passer. Se særlig § 6-9 nr. 7.
+
+    2. Henvisninger til vedlegg gjelder overnevnte rettsakt.
+
+    3. Bestemmelser, definisjoner m.m. i overnevnte rettsakt skal legges til grunn, selv om de ikke er uttrykkelig nevnt i denne forskrift.
+
+    4. Vegdirektoratet er godkjenningsmyndighet etter dette kap.
+
+    5. Bestemmelsene får ikke anvendelse for:
+
+    a. Motorvogn med høyeste konstruksjonshastighet på 6 km/t eller mindre.
+
+    b. Motorvogner beregnet på å styres av gående.
+
+    c. Motorvogner beregnet på bruk av fysisk funksjonshemmede personer.
+
+    d. Motorvogner beregnet på bruk i konkurranser på veg eller i terrenget.
+
+    e. Landbrukstraktorer og -maskiner eller lignende maskiner.
+
+    f. Motorvogner konstruert hovedsaklig for terrengkjøring og fritidsbruk, med tre symmetrisk plasserte hjul, der det ene er plassert foran.
+
+    g. Tråsykler med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller
+       tidligere hvis syklisten slutter å trå.
+
+    6. Dette kapittel får heller ikke anvendelse på deler og tekniske enheter for kjøretøyer nevnt i nr. 5, med mindre de er beregnet på å monteres på kjøretøyer som omfattes av dette kapittel.
+
+    7. Oppheves.
+
+    8. Typegodkjenning etter dette kapittel er obligatorisk så langt det finnes relevante særdirektiver. I vedlegg 1 til denne forskrift inntas oversikt over de særdirektivene som skal anvendes ved
+    EØF-typegodkjenning.
+
+    9. Ved enkeltgodkjenning av kjøretøy skal – for kjøretøy som omfattes av dette kap. – typegodkjenninger av deler og tekniske enheter, foretatt i EØS-stat i henhold til direktiv 2002/24/EF,
+    godtas.
+
+    10. Søknad som gjelder en type kjøretøy, system, del eller teknisk enhet kan fremlegges i hvilken som helst EØS-stat, men bare i én slik stat. Det skal fremlegges en egen søknad for hver type det
+    søkes godkjenning for.
+
+    11. Bestemmelsene i dette kap. gjelder for EØF-typegodkjenning i Norge, med mindre annet fremgår. Prosedyrene er imidlertid tilsvarende også i andre EØS-stater.
+
+    12. Bestemmelsene i dette kapittel anvendes for nye typegodkjenninger fra 1. oktober 1999.
+
+    0 Endret ved forskrifter 16 nov 2004 nr. 1470, 18 juni 2014 nr. 772.
+
+    🔗Del paragraf
+   
+    § 4-2.Søknad om typegodkjenning
+
+    følger mønsteret i vedlegg II, og for typegodkjenning av deler følger mønsteret i et vedlegg eller tillegg til hvert særdirektiv for den aktuelle tekniske enhet eller del, samt av andre
+    dokumenter nevnt i opplysningsdokumentet.
+
+    🔗Del paragraf
+   
+    § 4-3.Typegodkjenning
+
+    1. Typegodkjenning skal gis for alle kjøretøytyper, deler eller tekniske enheter som oppfyller følgende vilkår:
+
+    a. kjøretøytypen skal oppfylle de tekniske krav i særdirektivene og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg I,
+
+    b. den tekniske enheten eller delen skal oppfylle de tekniske krav i det aktuelle særdirektiv og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg
+       I.
+
+    2. Før typegodkjenning gis, skal Vegdirektoratet, om nødvendig i samarbeid med vedkommende myndigheter i den EØS-stat der produksjonen finner sted eller der produktet innføres i EØS-området,
+    treffe de nødvendige tiltak for å sikre at bestemmelsene i vedlegg VI etterkommes, slik at nye kjøretøyer som produseres, markedsføres, selges eller tas i bruk, og nye tekniske enheter eller
+    deler som produseres, er i samsvar med den godkjente typen.
+
+    3. Vegdirektoratet skal, om nødvendig i samarbeid med vedkommende myndigheter i EØS-staten der produksjonen finner sted eller der produktet innføres i EØS-området, sikre at bestemmelsene i
+    vedlegg VI fortsatt overholdes.
+
+    4. Når en søknad om typegodkjenning er ledsaget av en eller flere typegodkjenningsdokumenter utstedt av en eller flere andre EØS-stater skal disse godtas, uten at Vegdirektoratet foretar de
+    kontroller som kreves etter nr. 1 bokstav b for typegodkjente deler og/eller tekniske enheter.
+
+    5. Hver EØS-stat skal være ansvarlig for de typegodkjenninger den har gitt. Vedkommende myndighet i EØS-staten som gir typegodkjenning for en kjøretøytype, skal kontrollere produksjonssamsvaret,
+    om nødvendig i samarbeid med vedkommende myndigheter i de andre EØS-statene som har utstedt typegodkjenningsdokumentene for deler eller teknisk enheter.
+
+    6. For alle kjøretøytyper som det gis typegodkjenning for, skal det fylles ut alle deler av typegodkjenningsdokumentet oppført i vedlegg III.
+
+    7. For alle typer tekniske enheter eller deler som det gis typegodkjenning for, skal alle deler av typegodkjenningsdokumentet, for deler som er oppført i et vedlegg eller tillegg til hvert
+    særdirektiv som gjelder den aktuelle tekniske enhet eller del, fylles ut.
+
+    8. Vegdirektoratet skal for hver kjøretøytype det typegodkjenner eller nekter å typegodkjenne, innen en måned sende kopi av typegodkjenningsdokumentet til vedkommende myndigheter i de andre
+    EFTA-statene og til EFTA-statenes faste komité.
+
+    9. Bestemmelsene i nr. 8 skal også anvendes på typegodkjenningsdokumentene for hver type teknisk enhet eller del som typegodkjennes eller nektes typegodkjent.
+
+    🔗Del paragraf
+   
+    § 4-4.Samsvarssertifikat
+
+    1. For hvert kjøretøy produsert i samsvar med den godkjente typen skal produsenten utstede et samsvarssertifikat som skal være utformet i henhold til vedlegg IV del A i direktiv 92/61/EØF. Fra 9.
+    november 2003 skal samsvarssertifikatet være utformet i henhold til vedlegg IV del A i direktiv 2002/24/EF, dog kan tidligere mønster etter direktiv 92/61/EØF benyttes i inntil 12 måneder etter
+    dette på anmodning fra fabrikant. Samsvarssertifikater utstedt på basis av typegodkjenninger utstedt før 9. november 2003 og utvidelser av typegodkjenninger i henhold til bestemmelsene i direktiv
+    92/61/EØF, skal være utformet i henhold til vedlegg IV del A i direktiv 2002/24/EF fra 9. november 2004.
+
+    For tohjuls motorsykkel skal det av samsvarssertifikatet også fremgå om det er lett, mellomtung eller tung motorsykkel. Dersom en motorsykkel både er mellomtung og tung, angis bare mellomtung.
+
+    Vegdirektoratet kan for øvrig, i forbindelse med beskatning av kjøretøy eller utforming av registreringsdokument, kreve at samsvarssertifikatet skal inneholde andre opplysninger enn dem som er
+    nevnt i vedlegg IV del A, forutsatt at de tydelig framgår av opplysningsdokumentet.
+
+    2. For hver uoriginal teknisk enhet eller del produsert i samsvar med den godkjente typen, skal produsenten utstede et samsvarssertifikat som skal være utformet i henhold til vedlegg IV del B i
+    direktiv 92/61/EØF. Fra 9. november 2003 skal samsvarssertifikatet være utformet i henhold til vedlegg IV del B i direktiv 2002/24/EF. Samsvarssertifikater utstedt på basis av typegodkjenninger
+    utstedt før 9. november 2003 og utvidelser av typegodkjenninger i henhold til bestemmelsene i direktiv 92/61/EØF, skal være utformet i henhold til vedlegg IV del B i direktiv 2002/24/EF fra 9.
+    november 2004. Dette sertifikatet er ikke påkrevd for originale tekniske enheter eller deler.
+
+    3. Dersom den tekniske enheten eller delen som skal typegodkjennes, fyller sin funksjon eller utviser en særlig egenskap bare sammen med andre deler på kjøretøyet, og det derfor kan verifiseres
+    at et eller flere krav er oppfylt bare når den tekniske enheten eller delen som skal typegodkjennes, virker sammen med andre kjøretøydeler, enten de er simulerte eller reelle, skal omfanget av
+    typegodkjenningen for den tekniske enheten eller delen angi eventuelle restriksjoner på bruken, og eventuelle krav til montering. Kontroll med at disse restriksjonene og kravene etterkommes skal
+    skje når kjøretøyet typegodkjennes.
+
+    4. Med forbehold for nr. 2 plikter innehaveren av typegodkjenning for en del eller teknisk enhet gitt i henhold til § 4-3 å forsyne hver enkelt del eller teknisk enhet produsert i samsvar med den
+    godkjente typen, med handelsnavn eller varemerke, type og, dersom særdirektivet krever det, med typegodkjennings-merket nevnt i § 4-5. I det sistnevnte tilfellet plikter produsenten ikke å
+    utstede sertifikatet fastsatt i nr. 2.
+
+    5. Innehaveren av et typegodkjenningsdokument som i henhold til nr. 3 inneholder restriksjoner på bruken, må for hver produserte tekniske enhet eller del gi detaljerte opplysninger om disse
+    restriksjoner, og angi eventuelle krav til montering.
+
+    6. Innehaveren av et typegodkjenningsdokument for en uoriginal teknisk enhet utstedt i forbindelse med en eller flere kjøretøytyper, skal for hver slik enhet gi detaljerte opplysninger som gjør
+    det mulig å identifisere kjøretøyene.
+
+    🔗Del paragraf
+   
+    § 4-5.Typegodkjenningsmerke
+
+    1. Alle kjøretøyer produsert i samsvar med den godkjente typen, skal være påført et typegodkjenningsmerke som består av:
+
+    - typegodkjenningsnummeret,
+
+    - liten bokstav «e», fulgt av identifikasjonsnummeret eller nasjonalitetsbokstavene til den EØS-stat som har foretatt typegodkjenningen,
+
+    - kjøretøyets identifikasjon i form av en numerisk eller alfanumerisk kode.
+
+    2. Alle tekniske enheter og deler produsert i samsvar med den godkjente typen skal dersom det relevante særdirektiv krever det, være påført et typegodkjenningsmerke som oppfyller kravene fastsatt
+    i vedlegg V.
+
+    Opplysningene på typegodkjenningsmerket kan imidlertid suppleres med ytterligere opplysninger som gjør det mulig å identifisere særlige egenskaper ved den aktuelle tekniske enhet eller del, og
+    som eventuelt skal angis i de eventuelle særdirektiver om disse tekniske enheter eller deler.
+
+    🔗Del paragraf
+   
+    § 4-6.Ansvar for produksjon
+
+    1. Produsenten er ansvarlig for at konstruksjonen av hvert kjøretøy og produksjonen av hver tekniske enhet eller del er i samsvar med den godkjente typen. Innehaveren av typegodkjenningen skal
+    underrette Vegdirektoratet om endelig produksjonsstans, samt om enhver endring av opplysningene i opplysningsdokumentet.
+
+    2. Dersom Vegdirektoratet finner at en endring av en slik art ikke medfører endring av det utstedte typegodkjenningsdokumentet eller ny utstedelse av et slikt dokument, skal de underrette
+    produsenten om dette.
+
+    3. Dersom Vegdirektoratet fastslår at en endring av opplysningene i opplysningsdokumentet tilsier nye kontroller eller prøver, skal produsenten underrettes om dette og foreta disse prøvene.
+    Dersom kontrollene eller prøvene medfører endring av det utstedte typegodkjenningsdokumentet eller ny utstedelse av et slikt dokument, skal Vegdirektoratet senest en måned etter utstedelsesdatoen
+    sende de ajourførte dokumentene til vedkommende myndigheter i de andre EFTA-statene og til EFTA-statenes faste komité.
+
+    4. Dersom et typegodkjenningsdokument ikke lenger får virkning som følge av at produksjonen av den godkjente typen kjøretøy eller del opphører, skal Vegdirektoratet, innen en måned, underrette
+    vedkommende myndigheter i de andre EFTA-statene og EFTA-statenes faste komité.
+
+    🔗Del paragraf
+   
+    § 4-7.Manglende samsvar
+
+    1. Dersom EØS-staten som har gitt typegodkjenning, fastslår at kjøretøyer, tekniske enheter eller deler ikke er i samsvar med den godkjente typen, skal den treffe nødvendige tiltak for å sikre at
+    det igjen er samsvar mellom produksjonen og den godkjente typen. Vedkommende myndigheter i EØS-staten skal underrette vedkommende myndigheter i de andre EFTA-statene og til EFTA-statenes faste
+    komité om tiltakene som er truffet, som eventuelt kan omfatte tilbakekalling av typegodkjenningen.
+
+    2. Dersom en annen EØS-stat fastslår at kjøretøyer, tekniske enheter eller deler ikke er i samsvar med den typen som er typegodkjent i Norge, kan den anmode Statens vegvesen om å kontrollere de
+    fastslåtte avvik. Kontrollen skal foretas innen seks måneder etter at anmodningen er mottatt. Dersom det fastslås mangel på samsvar, skal Statens vegvesen treffe tiltakene nevnt i nr. 1.
+
+    3. Vedkommende myndigheter (i EFTA-statene) skal innen en måned underrette hverandre og EFTA-statenes faste komité om enhver tilbakekalling av typegodkjenning og om begrunnelsen for dette
+    tiltaket.
+
+    4. Dersom EØS-staten har gitt typegodkjenning, bestrider at det foreligger mangel på samsvar som den er underrettet om, skal de berørte EØS-statene forsøke å bilegge tvisten. EFTAs
+    overvåkningsorgan skal holdes underrettet og skal om nødvendig få i stand passende samråd for å komme fram til en løsning.
+
+    0 Endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 4-8.Midlertidig forbud
+
+    Dersom Statens vegvesen fastslår at kjøretøyer, tekniske enheter eller deler av en godkjent type utgjør en fare for trafikksikkerheten, kan den for et tidsrom på høyst seks måneder forby at disse
+    selges, tas i bruk eller fortsatt brukes på sitt territorium. Statens vegvesen skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om sitt vedtak og begrunnelsen for det.
+
+    0 Endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+
+    🔗Del paragraf
+   
+    § 4-9.Melding om vedtak
+
+    Enhver beslutning om nekte eller tilbakekalle typegodkjenningen av kjøretøyer eller deler, eller å forby salg eller bruk av et kjøretøy, en teknisk enhet eller en del, truffet i henhold til
+    bestemmelsene i dette kap., skal være utførlig begrunnet.
+
+    🔗Del paragraf
+   
+    § 4-10.Underretning om godkjenningsmyndigheten og tekniske instanser
+
+    1. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:
+
+    a. godkjenningsmyndighetene, og eventuellt hvilke fagområder myndighetene er ansvarlig for, og
+
+    b. de tekniske instanser som er utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte
+       standard for drift av prøvelabratorier (EN 45001), idet følgende bestemmelser skal overholdes:
+
+    i. en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene uttrykkelig gir mulighet for det.
+
+    ii. for dette kapittels formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at typegodkjenningsmyndigheten har gitt sitt samtykke til det.
+
+    2. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden, men EFTAs overvåkningsorgan eller EFTA-statenes faste komité kan om nødvendig anmode EFTA-statene om bevis
+    for dette.
+
+    Tredjestaters instanser kan bare utnevnes til tekniske instanser innenfor rammen av multilaterale eller bilaterale avtaler avtaler mellom EØS og tredjestater.
+
+    🔗Del paragraf
+   
+    § 4-11.Fri bevegelighet – unntak og overgangsbestemmelser
+
+    1. EFTA-statene kan ikke forby at nye kjøretøyer som er i samsvar med dette kap., markedsføres, selges, tas i bruk eller fortsatt brukes. Bare kjøretøyer som er i samsvar med dette kap., kan
+    registreres for første gang.
+
+    2. EØS-statene kan ikke forby markedsføring, salg eller bruk av nye tekniske enheter eller deler som er i samsvar med dette direktiv. Bare tekniske enheter eller deler som er i samsvar med dette
+    direktiv, kan markedsføres og selges for første gang for bruk i EØS-statene.
+
+    3. Som unntak fra nr. 1 og 2 gjelder følgende:
+
+    a. de EØS-stater som i sin nasjonale lovgivning om mopeder har særbestemmelser om pedaler og/eller om kraftoverføringssystemet og om begrensning av massen, kan likevel fortsatt anvende
+       særbestemmelsene i et tidsrom på høyst tre år etter at dette direktivet er gjennomført.
+
+    b. Vegdirektoratet kan unnta kjøretøyer, tekniske enheter eller deler fra ett eller flere av kravene i særdirektivene, dersom kjøretøyene, de tekniske enhetene eller delene er beregnet på
+
+    - en produksjon i små serier på høyst 200 enheter pr. år pr. type kjøretøy, teknisk enhet eller del, eller
+
+    - de væpnede styrker, instanser som er ansvarlig for å ivareta offentlig orden, sivilforsvaret eller offentlig bygge- og anleggsvirksomhet.
+
+    De andre EFTA-statene og EFTA-statenes faste komité skal underrettes om slike unntak innen en måned etter at de er gitt.
+
+    c. typegodkjenninger gitt på nasjonalt plan før gjennomføringen av direktiv 92/61/EØF eller av de særdirektiver som erstatter de tilsvarende nasjonale bestemmelser, skal forbli gyldige i de
+       EØS-stater som har gitt typegodkjenningene, i et tidsrom på høyst fire år fra den dato direktiv 92/61/EØF eller de relevante særdirektiver får virkning den nasjonale lovgivning.
+
+    Samme tidsrom på fire år får også anvendelse på typer av kjøretøyer, tekniske enheter eller deler som er i samsvar med nasjonale bestemmelser som gjaldt før gjennomføringen av direktiv 92/61/EØF
+    eller særdirektiver, i de EØS-stater som anvendte annen lovgivning enn den som gjelder typegodkjenning av kjøretøyer og deler.
+
+    Kjøretøyer som omfattes av sistnevnte unntak, kan i dette tidsrom markedsføres, selges og tas i bruk uten tidsbegrensning for bruken av dem.
+
+    Markedsføring, salg og bruk av tekniske enheter og deler til disse kjøretøyer skal ikke være tidsbegrenset.
+
+    🔗Del paragraf
+   
+    § 4-12.Restkjøretøy
+
+    1. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg VIII og for et begrenset tidsrom på tolv måneder, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye
+    kjøretøy av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig.
+
+    Denne bestemmelsen får anvendelse bare på kjøretøy
+
+    - som befant seg i EØS-området, og
+
+    - som var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert eller tatt i bruk før denne
+      typegodkjenningen ble ugyldig.
+
+    2. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal fabrikanten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
+
+    Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøy aksepteres registrert.
+
+    Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg VIII.
+
+    Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
+
+    🔗Del paragraf
+    ×
+
+    Del dokument
+
+    Brukerveiledning
+
+    ❓ ␡  
+
+    Trenger du brukerveiledning?
+
+    Få svar på ofte stilte spørsmål her (FAQ)
+
+    Lovdata kan dessverre ikke svare på spørsmål angående juridiske problemer. Lovdata kan heller ikke bidra med å tolke regelverket eller finne frem til rettsregler som passer i et bestemt tilfelle.
+    Kontakt den offentlige etaten spørsmålet gjelder, eventuelt advokat eller rettshjelper hvis du har behov for slik bistand.
+
+    Fant du ikke det du lette etter?
+
+    Send en e-post til support@lovdata.no
+
+    🍪Om informasjonskapsler
+

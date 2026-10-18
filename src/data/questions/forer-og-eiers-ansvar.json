@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ansvar-01",
+    "category": "Fører og eiers ansvar",
+    "text": "Du har solgt bilen din. Innen hvor lang tid skal eierskiftet meldes?",
+    "options": [
+      "Innen 3 dager",
+      "Innen 14 dager",
+      "Innen 1 måned",
+      "Innen 3 måneder"
+    ],
+    "answer": 0,
+    "explanation": "Ved eierskifte skal både tidligere og ny eier gi skriftlig melding innen 3 dager (vegtrafikkloven § 15).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§15"
+  },
+  {
+    "id": "ansvar-02",
+    "category": "Fører og eiers ansvar",
+    "text": "Hva er riktig om vognkortet når du kjører bilen?",
+    "options": [
+      "Det kan ligge hjemme når du har førerkortet med",
+      "Del 1 av vognkortet skal alltid følge med bilen",
+      "Det må bare være med ved kjøring i utlandet",
+      "Det trengs bare når bilen skal til EU-kontroll"
+    ],
+    "answer": 1,
+    "explanation": "Vegtrafikkloven § 17 sier at vognkortet alltid skal følge med under bruken. Vognkortet består av to deler: del 1 (teknisk del) skal alltid følge med under kjøring, mens del 2 (eierdel) oppbevares atskilt fra bilen (forskrift om bruk av kjøretøy § 2-8).",
+    "source": "https://lovdata.no/forskrift/1990-01-25-92/§2-8"
+  },
+  {
+    "id": "ansvar-03",
+    "category": "Fører og eiers ansvar",
+    "text": "Du låner bort bilen din til en venn. Hva har du som eier plikt til?",
+    "options": [
+      "Å sjekke at vennen har kjørt bil i minst 5 år",
+      "Å melde utlånet til forsikringsselskapet",
+      "Å forvisse deg om at vennen fyller vilkårene for å føre bilen",
+      "Ingenting, for det er føreren alene som har ansvaret for kjøringen"
+    ],
+    "answer": 2,
+    "explanation": "Eieren skal forvisse seg om at den han lar bruke motorvognen, fyller vilkårene for å føre den, for eksempel har gyldig førerett (vegtrafikkloven § 17).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§17"
+  },
+  {
+    "id": "ansvar-04",
+    "category": "Fører og eiers ansvar",
+    "text": "Hva er riktig om trafikkforsikring (ansvarsforsikring) for en registrert bil?",
+    "options": [
+      "Den er frivillig",
+      "Den er bare påbudt for biler under 10 år",
+      "Den er bare påbudt når bilen lånes ut",
+      "Eieren har plikt til å ha den"
+    ],
+    "answer": 3,
+    "explanation": "Eieren av en motorvogn som er eller skulle vært registrert, skal holde den trafikkforsikret (bilansvarslova § 15). Holdes trafikkforsikringen ikke i kraft, kan politiet ta kjennemerker og vognkort (vegtrafikkloven § 36).",
+    "source": "https://lovdata.no/lov/1961-02-03/§15"
+  },
+  {
+    "id": "ansvar-05",
+    "category": "Fører og eiers ansvar",
+    "text": "En person ved et trafikkuhell er bevisstløs, men puster normalt. Hva gjør du?",
+    "options": [
+      "Starter hjerte-lunge-redning med en gang",
+      "Legger personen i stabilt sideleie",
+      "Setter personen opp med ryggen mot bilen",
+      "Gir personen vann for å vekke vedkommende"
+    ],
+    "answer": 1,
+    "explanation": "En bevisstløs person som puster normalt, legges i sideleie slik at luftveiene holdes åpne. Ring 113 og følg nøye med på pusten til hjelpen kommer (Norsk resuscitasjonsråds retningslinjer, gjengitt hos NHI).",
+    "source": "https://nhi.no/forstehjelp/bevisstloshet/hjertelungeredning-voksen"
+  },
+  {
+    "id": "ansvar-06",
+    "category": "Fører og eiers ansvar",
+    "text": "Du gir hjerte-lunge-redning til en voksen. Hva er riktig forhold mellom brystkompresjoner og innblåsninger?",
+    "options": [
+      "15 kompresjoner og 2 innblåsninger",
+      "5 kompresjoner og 1 innblåsning",
+      "30 kompresjoner og 2 innblåsninger",
+      "30 kompresjoner og 5 innblåsninger"
+    ],
+    "answer": 2,
+    "explanation": "Norske retningslinjer (Norsk resuscitasjonsråd 2021) for HLR til voksne er 30 brystkompresjoner og 2 innblåsninger, i en takt på 100–120 kompresjoner i minuttet.",
+    "source": "https://nhi.no/forstehjelp/bevisstloshet/hjertelungeredning-voksen"
+  },
+  {
+    "id": "ansvar-07",
+    "category": "Fører og eiers ansvar",
+    "text": "Du er innblandet i et trafikkuhell der en person blir skadet, men du har ingen skyld. Hva sier vegtrafikkloven?",
+    "options": [
+      "Du skal straks stanse og hjelpe den skadde",
+      "Du kan kjøre videre fordi du ikke har skyld",
+      "Du skal bare stanse hvis politiet ber om det",
+      "Du må bare oppgi navn og adresse til de andre"
+    ],
+    "answer": 0,
+    "explanation": "Alle som er innblandet i et trafikkuhell, med eller uten skyld, skal straks stanse og hjelpe personer og dyr som er skadet (vegtrafikkloven § 12).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§12"
+  },
+  {
+    "id": "ansvar-08",
+    "category": "Fører og eiers ansvar",
+    "text": "Du rygger inn i en parkert bil og skader den. Eieren er ikke til stede. Hva skal du gjøre?",
+    "options": [
+      "Ingenting, så lenge ingen personer er skadet",
+      "Snarest underrette eieren eller politiet",
+      "Melde fra til ditt forsikringsselskap innen en uke",
+      "Vente ved bilen til eieren kommer, uansett hvor lenge"
+    ],
+    "answer": 1,
+    "explanation": "Ved bare materiell skade der skadelidte ikke er til stede, skal skadevolderen snarest underrette skadelidte eller politiet (vegtrafikkloven § 12).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§12"
+  },
+  {
+    "id": "ansvar-09",
+    "category": "Fører og eiers ansvar",
+    "text": "Du har voldt et trafikkuhell og blir straffet for å ha unnlatt å hjelpe en skadd person. Hva blir konsekvensen for føreretten?",
+    "options": [
+      "Tap i 6 måneder",
+      "Tap i 1 år",
+      "Tap for alltid",
+      "8 prikker"
+    ],
+    "answer": 2,
+    "explanation": "Den som har voldt eller medvirket til et trafikkuhell og straffes for å ha unnlatt å yte hjelp til skadd person, mister føreretten for alltid (vegtrafikkloven § 33).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§33"
+  },
+  {
+    "id": "ansvar-10",
+    "category": "Fører og eiers ansvar",
+    "text": "Du får en sykdom som gjør at du ikke lenger fyller helsekravene for førerkort. Hvem har du plikt til å melde fra til?",
+    "options": [
+      "Politiet",
+      "Statens vegvesen",
+      "Forsikringsselskapet",
+      "Statsforvalteren"
+    ],
+    "answer": 3,
+    "explanation": "Innehaver av førerkort som ikke lenger fyller kravene til syn, helse og førlighet, plikter å melde fra til statsforvalteren, som melder videre til politiet (vegtrafikkloven § 24). Legen har i tillegg en egen meldeplikt.",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§24"
+  },
+  {
+    "id": "ansvar-11",
+    "category": "Fører og eiers ansvar",
+    "text": "Hva er riktig om førerkortet når du kjører bil?",
+    "options": [
+      "Du skal alltid ha det med deg",
+      "Du må bare ha det med på langtur",
+      "Du kan vise det til politiet innen 7 dager",
+      "Det holder at politiet kan slå deg opp i registeret"
+    ],
+    "answer": 0,
+    "explanation": "Under kjøring skal føreren alltid ha førerkortet med seg (vegtrafikkloven § 24). Det digitale førerkortet i Statens vegvesens app er gyldig i Norge; et bilde av kortet er ikke det.",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§24"
+  },
+  {
+    "id": "ansvar-12",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvor lang er prøveperioden når du får førerkort i klasse B for første gang?",
+    "options": [
+      "1 år",
+      "2 år",
+      "3 år",
+      "5 år"
+    ],
+    "answer": 1,
+    "explanation": "Ved førstegangsutstedelse av førerkort i klasse B gjelder en prøveperiode på 2 år (førerkortforskriften § 4-2).",
+    "source": "https://lovdata.no/forskrift/2004-01-19-298/§4-2"
+  },
+  {
+    "id": "ansvar-13",
+    "category": "Fører og eiers ansvar",
+    "text": "Hva er riktig om prikkbelastning i prøveperioden?",
+    "options": [
+      "Du får ikke prikker i prøveperioden",
+      "Du får halvparten så mange prikker",
+      "Du får dobbelt så mange prikker",
+      "Du får like mange prikker som andre"
+    ],
+    "answer": 2,
+    "explanation": "I prøveperioden gis det dobbelt antall prikker for samme overtredelse (prikkforskriften § 3).",
+    "source": "https://lovdata.no/forskrift/2003-09-19-1164/§3"
+  },
+  {
+    "id": "ansvar-14",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvor mange prikker i løpet av 3 år fører til tap av føreretten?",
+    "options": [
+      "4 prikker",
+      "6 prikker",
+      "8 prikker",
+      "10 prikker"
+    ],
+    "answer": 2,
+    "explanation": "Får du 8 prikker eller mer i løpet av 3 år, mister du føreretten i 6 måneder (prikkforskriften § 4).",
+    "source": "https://lovdata.no/forskrift/2003-09-19-1164/§4"
+  },
+  {
+    "id": "ansvar-15",
+    "category": "Fører og eiers ansvar",
+    "text": "Du mister føreretten i prøveperioden fordi du har brutt trafikkreglene. Hva må du gjøre for å få førerkortet tilbake?",
+    "options": [
+      "Bare vente til tapsperioden er over",
+      "Ta ny full førerprøve",
+      "Ta bare ny teoriprøve",
+      "Ta et oppfriskningskurs hos trafikkskole"
+    ],
+    "answer": 1,
+    "explanation": "Taper du føreretten i prøveperioden pga. brudd på trafikale atferdsregler, må du ta ny full førerprøve og får ny prøveperiode på 2 år (førerkortforskriften § 4-2).",
+    "source": "https://lovdata.no/forskrift/2004-01-19-298/§4-2"
+  },
+  {
+    "id": "ansvar-16",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvilket av disse krav stilles til øvingskjøring i klasse B?",
+    "options": [
+      "Eleven må ha med legitimasjon med bilde",
+      "Ledsageren må ha fullført et ledsagerkurs",
+      "Bilen må ha ekstra bremsepedal for ledsager",
+      "Det er bare lov å øvingskjøre i dagslys"
+    ],
+    "answer": 0,
+    "explanation": "Under øvingskjøring skal eleven alltid ha med akseptabel legitimasjon med bilde og bevis for trafikalt grunnkurs (trafikkopplæringsforskriften § 2-1). Bilen skal ha L-skilt og ekstra speil for ledsager, men ikke dobbeltpedaler (§ 3-2). Ledsagerkurs er frivillig, og det er ikke krav om dagslys.",
+    "source": "https://lovdata.no/forskrift/2004-10-01-1339/§2-1"
+  },
+  {
+    "id": "ansvar-17",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvilke krav stilles til en privat ledsager ved øvingskjøring i klasse B?",
+    "options": [
+      "Fylt 20 år og hatt førerett i klasse B uavbrutt i minst 2 år",
+      "Fylt 18 år og hatt førerett i klasse B uavbrutt i minst 1 år",
+      "Fylt 23 år og hatt førerett i klasse B uavbrutt i minst 3 år",
+      "Fylt 25 år og hatt førerett i klasse B uavbrutt i minst 5 år"
+    ],
+    "answer": 3,
+    "explanation": "Privat ledsager må ha fylt 25 år og ha hatt førerett for klassen uavbrutt de siste 5 år (vegtrafikkloven § 26 og trafikkopplæringsforskriften § 3-1).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§26"
+  },
+  {
+    "id": "ansvar-18",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvordan skal barn lavere enn 135 cm sikres i bilen?",
+    "options": [
+      "I baksetet med bare vanlig bilbelte",
+      "I godkjent barnesikring tilpasset barnet",
+      "På fanget til en voksen med belte rundt begge",
+      "I forsetet med bilbeltet strammet godt til"
+    ],
+    "answer": 1,
+    "explanation": "Barn lavere enn 150 cm skal bruke godkjent sikringsutstyr tilpasset barnet. Bare barn mellom 135 og 150 cm kan bruke vanlig belte, og bare når barnesikring mangler (verneutstyrforskriften § 1).",
+    "source": "https://lovdata.no/forskrift/1979-09-21-7/§1"
+  },
+  {
+    "id": "ansvar-19",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvem har ansvaret for at en passasjer på 12 år bruker bilbelte?",
+    "options": [
+      "Passasjeren selv",
+      "Foreldrene til passasjeren",
+      "Føreren",
+      "Eieren av bilen"
+    ],
+    "answer": 2,
+    "explanation": "Føreren er ansvarlig for at passasjerer under 15 år bruker påbudt verneutstyr (verneutstyrforskriften § 3, jf. vegtrafikkloven § 23 a). Brudd gir 2 prikker (prikkforskriften §§ 2 og 3).",
+    "source": "https://lovdata.no/forskrift/1979-09-21-7/§3"
+  },
+  {
+    "id": "ansvar-20",
+    "category": "Fører og eiers ansvar",
+    "text": "Du skal sette et bakovervendt barnesete i forsetet. Bilen har kollisjonspute foran passasjersetet. Hva er riktig?",
+    "options": [
+      "Det er tillatt hvis barnet er under 1 år",
+      "Det er tillatt hvis setet skyves helt bak",
+      "Det er alltid forbudt å ha barnesete i forsetet",
+      "Kollisjonsputen må være koblet ut"
+    ],
+    "answer": 3,
+    "explanation": "Barn skal ikke sitte i bakovervendt sikringsutstyr med kollisjonspute foran uten at puten er deaktivert manuelt eller automatisk, fordi puten kan skade barnet alvorlig når den utløses (verneutstyrforskriften § 1).",
+    "source": "https://lovdata.no/forskrift/1979-09-21-7/§1"
+  },
+  {
+    "id": "ansvar-21",
+    "category": "Fører og eiers ansvar",
+    "text": "Du har vært innblandet i et trafikkuhell og forstår at politiet kan komme til å etterforske saken. Hvor lenge etter kjøringen er det forbudt å drikke alkohol?",
+    "options": [
+      "6 timer",
+      "2 timer",
+      "12 timer",
+      "24 timer"
+    ],
+    "answer": 0,
+    "explanation": "Fører av motorvogn må ikke drikke alkohol de første seks timene etter kjøringen når han forstår at det kan bli politietterforskning, med mindre prøve er tatt eller politiet har bestemt at prøve ikke skal tas (vegtrafikkloven § 22 femte ledd).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§22"
+  },
+  {
+    "id": "ansvar-22",
+    "category": "Fører og eiers ansvar",
+    "text": "Over hvilken promillegrense regnes du alltid som påvirket av alkohol når du kjører bil?",
+    "options": [
+      "0,5 promille",
+      "0,2 promille",
+      "0,8 promille",
+      "0,0 promille"
+    ],
+    "answer": 1,
+    "explanation": "Med over 0,2 promille alkohol i blodet (eller over 0,1 mg per liter utåndingsluft) regnes føreren alltid som påvirket (vegtrafikkloven § 22).",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§22"
+  },
+  {
+    "id": "ansvar-23",
+    "category": "Fører og eiers ansvar",
+    "text": "Hva betyr en rød varseltrekant på pakningen til et legemiddel?",
+    "options": [
+      "Legemidlet må oppbevares kjølig",
+      "Legemidlet kan svekke evnen til å kjøre trygt",
+      "Legemidlet kan bare kjøpes med resept fra lege",
+      "Legemidlet må ikke tas sammen med mat"
+    ],
+    "answer": 1,
+    "explanation": "Rød varseltrekant betyr at myndighetene har gitt detaljerte regler for bruk av legemidlet ved bilkjøring, fordi det kan svekke kjøreevnen (Legemiddelverket, ordningen lagt om i 2017–2019). Også legemidler uten trekant kan påvirke kjøringen – spør lege eller apotek. Det er forbudt å kjøre påvirket (vegtrafikkloven § 22).",
+    "source": "https://nhi.no/for-helsepersonell/nytt-om-legemidler/arkiv-lmv-2017/endring-i-ordningen-med-varseltrekant-pa-legemidler"
+  },
+  {
+    "id": "ansvar-24",
+    "category": "Fører og eiers ansvar",
+    "text": "Du kjører på langtur og merker at du blir trett og søvnig. Hva bør du gjøre?",
+    "options": [
+      "Åpne vinduet og skru opp radioen",
+      "Kjøre litt fortere for å komme raskere fram",
+      "Drikke kaffe og fortsette å kjøre",
+      "Stanse på et trygt sted og hvile"
+    ],
+    "answer": 3,
+    "explanation": "Ingen må kjøre når de er så slitne eller trette at de ikke kan kjøre trygt (vegtrafikkloven § 21). Bare hvile eller søvn hjelper mot trøtthet.",
+    "source": "https://lovdata.no/lov/1965-06-18-4/§21"
+  },
+  {
+    "id": "ansvar-25",
+    "category": "Fører og eiers ansvar",
+    "text": "Det er rim på bilrutene en vintermorgen. Hva er riktig før du kjører?",
+    "options": [
+      "Fjerne rim og is så du ser godt til alle sider",
+      "Skrape et felt på frontruta rett foran rattet",
+      "Skrape frontruta og sideruta på førersiden",
+      "Kjøre sakte med vifta på til rutene har tint av seg selv"
+    ],
+    "answer": 0,
+    "explanation": "Føreren skal ha tilstrekkelig utsyn til alle sider og påse at snø, is eller dugg ikke hindrer sikten (forskrift om bruk av kjøretøy § 1-3).",
+    "source": "https://lovdata.no/forskrift/1990-01-25-92/§1-3"
+  },
+  {
+    "id": "ansvar-26",
+    "category": "Fører og eiers ansvar",
+    "text": "Hvorfor skal du fjerne snø fra taket på bilen før du kjører?",
+    "options": [
+      "Snøen gjør bilen tyngre og øker forbruket merkbart",
+      "Snøen kan skli ned på frontruta eller blåse mot andre",
+      "Snøen kan skade lakken på taket når den smelter i sola",
+      "Snøen kan føre til feil på kollisjonsputene"
+    ],
+    "answer": 1,
+    "explanation": "Snø fra taket kan skli ned og ta sikten ved bremsing, eller blåse av og skape fare for andre. Føreren skal ha fri sikt og ikke volde fare (vegtrafikkloven § 3, forskrift om bruk av kjøretøy § 1-3).",
+    "source": "https://lovdata.no/forskrift/1990-01-25-92/§1-3"
+  },
+  {
+    "id": "ansvar-27",
+    "category": "Fører og eiers ansvar",
+    "text": "Du får motorstopp langs vegen og må gå ut av bilen. Hva er riktig om refleksvesten?",
+    "options": [
+      "Den skal bare brukes når det er mørkt",
+      "Den brukes bare når det er mye trafikk",
+      "Den er påbudt i bilen, men frivillig å bruke",
+      "Den skal tas på når du går ut av bilen"
+    ],
+    "answer": 3,
+    "explanation": "Bilen skal ha refleksvest lett tilgjengelig for føreren, og den skal brukes når en person beveger seg utenfor kjøretøyet ved nødstans langs veg (forskrift om bruk av kjøretøy § 1-6).",
+    "source": "https://lovdata.no/forskrift/1990-01-25-92/§1-6"
+  },
+  {
+    "id": "ansvar-28",
+    "category": "Fører og eiers ansvar",
+    "text": "Bilen din stopper på en landeveg. Hvor langt fra bilen bør varseltrekanten plasseres?",
+    "options": [
+      "Om mulig minst 50 meter",
+      "Om mulig minst 150 meter",
+      "Om mulig minst 300 meter",
+      "Rett bak bilen"
+    ],
+    "answer": 1,
+    "explanation": "Varseltrekanten skal om mulig plasseres minst 150 meter fra kjøretøyet, slik at andre får varsel i god tid (forskrift om bruk av kjøretøy § 1-6).",
+    "source": "https://lovdata.no/forskrift/1990-01-25-92/§1-6"
+  },
+  {
+    "id": "ansvar-29",
+    "category": "Fører og eiers ansvar",
+    "text": "Du kjører i en tunnel og ser at det brenner i en bil foran deg. Hva er det beste du kan gjøre?",
+    "options": [
+      "Stanse og vente i bilen til hjelpen kommer",
+      "Kjøre forbi brannen så fort du kan",
+      "Kjøre ut av tunnelen hvis det er mulig",
+      "Stanse og ringe 110 fra mobilen i bilen"
+    ],
+    "answer": 2,
+    "explanation": "Statens vegvesen råder deg til å kjøre ut av tunnelen om mulig. Går ikke det, forlater du bilen ved siden av vegen med nødblink på og går ut til fots.",
+    "source": "https://www.vegvesen.no/trafikkinformasjon/trafikksikkerhet/trygg-i-tunnel/brann-i-tunnel/"
+  },
+  {
+    "id": "ansvar-30",
+    "category": "Fører og eiers ansvar",
+    "text": "Bilen din stopper inne i en tunnel. Hvordan bør du varsle om situasjonen?",
+    "options": [
+      "Bruke nødtelefonen i tunnelen",
+      "Ringe Statens vegvesen fra mobilen",
+      "Sende en melding til politiet",
+      "Vente til en annen bil stanser"
+    ],
+    "answer": 0,
+    "explanation": "Bruk nødtelefonen i tunnelen fremfor mobilen. Da kobles du direkte til vegtrafikksentralen, som ser nøyaktig hvor du er.",
+    "source": "https://www.vegvesen.no/trafikkinformasjon/trafikksikkerhet/trygg-i-tunnel/tunnelsikkerhet/"
+  }
+]

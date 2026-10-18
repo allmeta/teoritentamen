@@ -1,0 +1,428 @@
+[
+  {
+    "id": "vikeplikt-01",
+    "category": "Vikeplikt",
+    "text": "Du kjører rett fram inn i et kryss uten skilt, lys eller oppmerking. En bil nærmer seg krysset fra høyre. Hvem har vikeplikt?",
+    "options": [
+      "Du",
+      "Bilen fra høyre",
+      "Den som kommer sist fram til krysset",
+      "Den som kjører fortest"
+    ],
+    "answer": 0,
+    "explanation": "Etter høyreregelen har kjørende vikeplikt for kjøretøy som kommer fra høyre (trafikkreglene § 7 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-02",
+    "category": "Vikeplikt",
+    "text": "Du skal svinge til venstre i et uregulert kryss. En bil kommer mot deg og skal kjøre rett fram. Hvem har vikeplikt?",
+    "options": [
+      "Den møtende bilen",
+      "Ingen av dere",
+      "Du",
+      "Den som kom først til krysset"
+    ],
+    "answer": 2,
+    "explanation": "Vikeplikten for kjøretøy fra høyre gjelder også ved venstresving når kjøretøyet kommer på høyre side – altså for møtende (trafikkreglene § 7 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-03",
+    "category": "Vikeplikt",
+    "text": "Du skal kjøre rett fram i et lyskryss. Lyssignalet blinker gult, og det er verken vikeplikt- eller forkjørsskilt. Hva gjelder?",
+    "options": [
+      "Jeg har vikeplikt for kryssende trafikk",
+      "Jeg har vikeplikt for trafikk fra høyre",
+      "Jeg har vikeplikt for trafikk fra venstre",
+      "Jeg har ikke vikeplikt"
+    ],
+    "answer": 1,
+    "explanation": "Gult blinksignal betyr at du skal vise særlig aktpågivenhet, men lysene regulerer ikke krysset. Da gjelder høyreregelen (skiltforskriften § 24, trafikkreglene § 7 nr. 2).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§24"
+  },
+  {
+    "id": "vikeplikt-04",
+    "category": "Vikeplikt",
+    "text": "Du skal svinge til venstre i et lysregulert kryss og har grønt lys. En møtende bil har også grønt og skal rett fram. Hva er riktig?",
+    "options": [
+      "Grønt lys gir meg forkjørsrett",
+      "Den møtende må vike fordi jeg står i krysset",
+      "Jeg har vikeplikt for den møtende bilen",
+      "Den som blinker først, kjører først"
+    ],
+    "answer": 2,
+    "explanation": "Grønt lys betyr at du kan kjøre hvis vegen er fri. Ved venstresving har du vikeplikt for møtende (skiltforskriften § 24, trafikkreglene § 7 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-05",
+    "category": "Vikeplikt",
+    "text": "Du skal svinge til høyre i et lysregulert kryss og har grønt lys. En fotgjenger går rett fram i samme retning som deg og krysser vegen du svinger inn på. Hva gjelder?",
+    "options": [
+      "Fotgjengeren må vente fordi jeg har grønt",
+      "Jeg har vikeplikt for fotgjengeren",
+      "Fotgjengeren har vikeplikt fordi jeg er i krysset",
+      "Jeg kan kjøre hvis jeg bruker lydsignal"
+    ],
+    "answer": 1,
+    "explanation": "Den som svinger har vikeplikt for gående som skal rett fram, og grønt lys betyr bare at du kan kjøre hvis vegen er fri (trafikkreglene § 7 nr. 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-06",
+    "category": "Vikeplikt",
+    "text": "Du skal svinge til høyre. Til høyre for deg går et sykkelfelt, og en syklist i sykkelfeltet skal rett fram. Hvem har vikeplikt?",
+    "options": [
+      "Syklisten, fordi bilen er større",
+      "Syklisten, fordi jeg har blinket",
+      "Ingen, vi må samhandle",
+      "Jeg"
+    ],
+    "answer": 3,
+    "explanation": "Den som svinger har vikeplikt for syklende som skal rett fram på kjørebanen (trafikkreglene § 7 nr. 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-07",
+    "category": "Vikeplikt",
+    "text": "Du skal kjøre ut fra en parkeringsplass og inn på en veg. Hvem har du vikeplikt for?",
+    "options": [
+      "Bare kjørende fra høyre",
+      "All annen trafikk på vegen",
+      "Bare kjørende fra venstre",
+      "Ingen, hvis jeg blinker i god tid"
+    ],
+    "answer": 1,
+    "explanation": "Den som kjører ut fra parkeringsplass, holdeplass, eiendom, bensinstasjon o.l. har vikeplikt for annen trafikk (trafikkreglene § 7 nr. 4).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-08",
+    "category": "Vikeplikt",
+    "text": "Du kjører ut fra en gårdsveg som ikke er åpen for alminnelig ferdsel. En bil kommer fra venstre på vegen du skal inn på. Hvem har vikeplikt?",
+    "options": [
+      "Bilen fra venstre",
+      "Den som kommer først",
+      "Ingen av dere",
+      "Du"
+    ],
+    "answer": 3,
+    "explanation": "Den som kommer fra gårdsveg eller privat veg som ikke er åpen for alminnelig ferdsel, har vikeplikt for all annen trafikk – høyreregelen gjelder ikke (trafikkreglene § 7 nr. 4).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-09",
+    "category": "Vikeplikt",
+    "text": "Du kjører ut fra en eiendom og må krysse fortauet før du kommer ut på vegen. En fotgjenger går på fortauet. Hva er riktig?",
+    "options": [
+      "Fotgjengeren må vike for bilen",
+      "Jeg har vikeplikt for fotgjengeren",
+      "Fotgjengeren har vikeplikt hvis jeg kommer fra høyre",
+      "Jeg kan kjøre når jeg har blinket"
+    ],
+    "answer": 1,
+    "explanation": "Kjørende som krysser fortau eller gangveg har vikeplikt for gående, og ved utkjøring fra eiendom har du vikeplikt for all annen trafikk (trafikkreglene § 9 nr. 2 og § 7 nr. 4).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§9"
+  },
+  {
+    "id": "vikeplikt-10",
+    "category": "Vikeplikt",
+    "text": "Du kjører i en gate med fartsgrense 50 km/t. En buss foran deg står på holdeplassen og blinker til venstre for å kjøre ut. Hva er riktig?",
+    "options": [
+      "Bussen har vikeplikt for meg",
+      "Jeg har vikeplikt for bussen",
+      "Jeg skal bruke lydsignal og kjøre forbi",
+      "Bussen må vente til vegen er helt fri"
+    ],
+    "answer": 1,
+    "explanation": "På veg med fartsgrense 60 km/t eller lavere har kjørende vikeplikt for buss som gir tegn om at den skal kjøre fra holdeplassen (trafikkreglene § 7 nr. 5).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-11",
+    "category": "Vikeplikt",
+    "text": "Opp til og med hvilken fartsgrense har du vikeplikt for buss som gir tegn om at den skal kjøre ut fra holdeplass?",
+    "options": [
+      "50 km/t",
+      "60 km/t",
+      "70 km/t",
+      "80 km/t"
+    ],
+    "answer": 1,
+    "explanation": "Vikeplikten for buss som forlater holdeplass gjelder på veg med fartsgrense 60 km/t eller lavere (trafikkreglene § 7 nr. 5).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-12",
+    "category": "Vikeplikt",
+    "text": "Hva betyr dette skiltet?",
+    "image": "/skilt/202.svg",
+    "options": [
+      "Vikeplikt bare for trafikk fra høyre på kryssende veg",
+      "Vikeplikt for kjørende fra begge retninger",
+      "Du skal alltid stanse helt før krysset",
+      "Kryssende trafikk har vikeplikt for deg"
+    ],
+    "answer": 1,
+    "explanation": "Skiltet angir at kjørende har vikeplikt for kjørende trafikk i begge retninger på kryssende veg (skiltforskriften § 6, skilt 202).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-13",
+    "category": "Vikeplikt",
+    "text": "Du kommer til dette skiltet. Det er ingen stopplinje. Hvor skal du stanse?",
+    "image": "/skilt/204.svg",
+    "options": [
+      "Ved skiltet",
+      "Så nær den kryssende vegen som mulig",
+      "5 meter før den kryssende vegen",
+      "Du trenger bare å stanse hvis det kommer trafikk"
+    ],
+    "answer": 1,
+    "explanation": "Du skal stanse helt, foran stopplinjen eller, hvis den mangler, så nær den kryssende vegen som mulig. Deretter har du vikeplikt (skiltforskriften § 6, skilt 204).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-14",
+    "category": "Vikeplikt",
+    "text": "Du kommer til dette skiltet ved et kryss. Vegen er helt fri i begge retninger, og du har god oversikt. Hva skal du gjøre?",
+    "image": "/skilt/204.svg",
+    "options": [
+      "Stanse helt før jeg kjører inn i krysset",
+      "Senke farten og kjøre videre uten å stanse",
+      "Kjøre videre i samme fart",
+      "Stanse bare hvis det er stopplinje"
+    ],
+    "answer": 0,
+    "explanation": "Skiltet krever at du alltid stanser helt før du kjører inn på kryssende veg, uansett trafikk (skiltforskriften § 6, skilt 204).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-15",
+    "category": "Vikeplikt",
+    "text": "Du kjører på en veg merket med dette skiltet. Hva betyr det for kjørende fra sidevegene?",
+    "image": "/skilt/206.svg",
+    "options": [
+      "De har vikeplikt for deg",
+      "Du har vikeplikt for dem som kommer fra høyre",
+      "Høyreregelen gjelder som vanlig",
+      "De har vikeplikt bare når det er lysregulering"
+    ],
+    "answer": 0,
+    "explanation": "Skiltet angir at kjørende fra sideveg eller kryssende veg er pålagt vikeplikt med skilt 202 eller 204 (skiltforskriften § 6, skilt 206).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-16",
+    "category": "Vikeplikt",
+    "text": "Du passerer dette skiltet. Hva gjelder i neste kryss hvis det ikke er andre skilt eller lys der?",
+    "image": "/skilt/208.svg",
+    "options": [
+      "Jeg har fortsatt forkjørsrett",
+      "Kryssende trafikk har vikeplikt for meg",
+      "Høyreregelen gjelder",
+      "Jeg har vikeplikt for all kryssende trafikk"
+    ],
+    "answer": 2,
+    "explanation": "Skiltet opphever forkjørsvegen. Uten andre skilt eller lys gjelder da høyreregelen (skiltforskriften § 6, trafikkreglene § 7 nr. 2).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-17",
+    "category": "Vikeplikt",
+    "text": "Hva betyr dette skiltet?",
+    "image": "/skilt/212.svg",
+    "options": [
+      "Møtende kjørende har vikeplikt for deg på strekningen",
+      "Du har vikeplikt overfor møtende kjørende",
+      "Tovegstrafikk etter envegskjøring",
+      "Forbikjøring forbudt"
+    ],
+    "answer": 1,
+    "explanation": "Skiltet angir vikeplikt overfor møtende: du skal ikke kjøre inn på den smale strekningen hvis møtende blir hindret (skiltforskriften § 6, skilt 212).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-18",
+    "category": "Vikeplikt",
+    "text": "Du skal kjøre inn i en rundkjøring. Ved innkjøringen står et skilt for vikeplikt. Hvem har du vikeplikt for?",
+    "options": [
+      "Trafikk som kommer fra høyre i innkjøringen",
+      "Ingen, jeg har forkjørsrett inn i rundkjøringen",
+      "Bare tunge kjøretøy i rundkjøringen",
+      "Trafikken som er i rundkjøringen"
+    ],
+    "answer": 3,
+    "explanation": "Vikepliktskiltet gir vikeplikt for kjørende på den kryssende vegen, som her er kjørebanen i rundkjøringen (skiltforskriften § 6, skilt 202).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+  },
+  {
+    "id": "vikeplikt-19",
+    "category": "Vikeplikt",
+    "text": "I et kryss er det både trafikklys i drift og et vikepliktskilt. Hva gjelder?",
+    "options": [
+      "Vikepliktskiltet",
+      "Trafikklyset",
+      "Høyreregelen",
+      "Det som er strengest for meg"
+    ],
+    "answer": 1,
+    "explanation": "Trafikklyssignal går foran skilt om vikeplikt (trafikkreglene § 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§3"
+  },
+  {
+    "id": "vikeplikt-20",
+    "category": "Vikeplikt",
+    "text": "Du har grønt lys, men en politibetjent i krysset gir tegn om at du skal stanse. Hva gjør du?",
+    "options": [
+      "Kjører, fordi lyset er grønt",
+      "Stanser",
+      "Kjører hvis vegen er fri",
+      "Blinker med lysene og kjører forsiktig"
+    ],
+    "answer": 1,
+    "explanation": "Anvisninger fra politiet går foran trafikklys, skilt og trafikkregler (trafikkreglene § 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§3"
+  },
+  {
+    "id": "vikeplikt-21",
+    "category": "Vikeplikt",
+    "text": "En politibetjent dirigerer trafikken i et kryss og har én arm rettet rett utad til siden. Du kommer mot betjentens bryst. Hva skal du gjøre?",
+    "options": [
+      "Kjøre videre",
+      "Kjøre videre, men bare til høyre",
+      "Stanse",
+      "Stanse bare hvis det kommer trafikk fra siden"
+    ],
+    "answer": 2,
+    "explanation": "Ved arm rettet utad skal trafikant som kommer forfra eller bakfra stanse, mens trafikk fra siden kan passere (skiltforskriften § 25).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§25"
+  },
+  {
+    "id": "vikeplikt-22",
+    "category": "Vikeplikt",
+    "text": "En politibetjent i et kryss rekker armen rett opp. Hvem skal stanse?",
+    "options": [
+      "Bare trafikk som kommer forfra og bakfra mot betjenten",
+      "Bare trafikk som kommer fra siden",
+      "Bare trafikk som skal svinge i krysset",
+      "Alle, unntatt den som ikke kan stanse uten fare"
+    ],
+    "answer": 3,
+    "explanation": "Arm rettet oppad betyr at alle skal stanse, unntatt den som ikke kan stanse uten fare. Den som er i krysset skal forlate det (skiltforskriften § 25).",
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§25"
+  },
+  {
+    "id": "vikeplikt-23",
+    "category": "Vikeplikt",
+    "text": "Du skal rygge ut fra en innkjørsel og ut på vegen. Hvem har vikeplikt?",
+    "options": [
+      "Jeg har vikeplikt for annen trafikk",
+      "Trafikk fra høyre har vikeplikt",
+      "Gående har vikeplikt for meg",
+      "Ingen, så lenge jeg bruker varselblinklys"
+    ],
+    "answer": 0,
+    "explanation": "Den som rygger eller vender har vikeplikt for annen trafikant (trafikkreglene § 11).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§11"
+  },
+  {
+    "id": "vikeplikt-24",
+    "category": "Vikeplikt",
+    "text": "Du vil vende bilen på en motortrafikkveg fordi du har kjørt feil. Hva sier reglene?",
+    "options": [
+      "Det er lov hvis vegen er oversiktlig",
+      "Det er lov hvis jeg bruker varselblink",
+      "Det er forbudt",
+      "Det er lov i et kryss"
+    ],
+    "answer": 2,
+    "explanation": "Rygging og vending er forbudt på motorveg og motortrafikkveg og deres av- og påkjøringsveger (trafikkreglene § 11).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§11"
+  },
+  {
+    "id": "vikeplikt-25",
+    "category": "Vikeplikt",
+    "text": "Hvordan skal du vise at du overholder vikeplikten?",
+    "options": [
+      "Ved å blinke med fjernlyset mot den andre trafikanten",
+      "Ved å vinke den andre trafikanten fram",
+      "Ved å slå på varselblinken i god tid",
+      "Ved å sette ned farten eller stanse i god tid"
+    ],
+    "answer": 3,
+    "explanation": "Den som har vikeplikt skal tydelig vise det ved i god tid å sette ned farten eller stanse (trafikkreglene § 7 nr. 1).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-26",
+    "category": "Vikeplikt",
+    "text": "På en smal veg står en parkert bil i din kjøreretning, og en bil kommer mot deg. Det er ikke plass til å passere samtidig. Hvem har vikeplikt?",
+    "options": [
+      "Den møtende, fordi vegen er fri på hans side",
+      "Jeg, fordi hindringen er på min side",
+      "Den som har størst fart",
+      "Den som kommer fra høyre"
+    ],
+    "answer": 1,
+    "explanation": "Er en del av vegen sperret, har den som har sperringen på sin side vikeplikt (trafikkreglene § 7 nr. 6).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+  },
+  {
+    "id": "vikeplikt-27",
+    "category": "Vikeplikt",
+    "text": "Du nærmer deg et gangfelt uten trafikklys. En fotgjenger står på fortauet og er tydelig på veg ut i gangfeltet. Hva er riktig?",
+    "options": [
+      "Jeg har vikeplikt for fotgjengeren",
+      "Fotgjengeren må vente til jeg har passert",
+      "Jeg har vikeplikt bare når fotgjengeren er ute i gangfeltet",
+      "Jeg skal bruke lydsignal for å varsle"
+    ],
+    "answer": 0,
+    "explanation": "Ved gangfelt uten lys eller politi har kjørende vikeplikt for gående som er i gangfeltet eller er på veg ut i det (trafikkreglene § 9 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§9"
+  },
+  {
+    "id": "vikeplikt-28",
+    "category": "Vikeplikt",
+    "text": "Du hører sirene og ser et utrykningskjøretøy med blinkende blått lys bak deg. Hva skal du gjøre?",
+    "options": [
+      "Holde farten og fortsette i feltet",
+      "Gi fri veg, og stanse om nødvendig",
+      "Øke farten for å komme unna",
+      "Stanse momentant midt i feltet"
+    ],
+    "answer": 1,
+    "explanation": "Du skal gi fri veg for utrykningskjøretøy som gir signal med blinkende blått lys, om nødvendig ved å stanse (trafikkreglene § 10 nr. 1).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§10"
+  },
+  {
+    "id": "vikeplikt-29",
+    "category": "Vikeplikt",
+    "text": "Du kjører i en gate med sporvognspor. En sporvogn nærmer seg. Hva sier trafikkreglene?",
+    "options": [
+      "Sporvognen følger høyreregelen som andre kjøretøy",
+      "Sporvognen har vikeplikt for biler",
+      "Jeg skal gi fri veg for sporvognen",
+      "Jeg har bare vikeplikt hvis sporvognen kommer fra høyre"
+    ],
+    "answer": 2,
+    "explanation": "Trafikanter skal gi fri veg for sporvogn og tog, om nødvendig ved å stanse (trafikkreglene § 10 nr. 2).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§10"
+  },
+  {
+    "id": "vikeplikt-30",
+    "category": "Vikeplikt",
+    "text": "En sporvogn har stanset på en holdeplass uten trafikkøy. Du vil kjøre forbi på høyre side av sporvognen. Hva skal du gjøre?",
+    "options": [
+      "Kjøre forbi i lav fart",
+      "Bruke lydsignal og kjøre forbi",
+      "Kjøre forbi hvis ingen går av eller på akkurat da",
+      "Stanse og la passasjerene gå av og på"
+    ],
+    "answer": 3,
+    "explanation": "Den som kjører forbi sporvogn på høyre side ved holdeplass uten trafikkøy, skal stanse og gi passasjerene fri veg (trafikkreglene § 9 nr. 3).",
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§9"
+  }
+]
