@@ -96,6 +96,7 @@ export default function App() {
   const choose = (i: number) => {
     if (checked()[idx()]) return
     setAnswers((a) => a.map((v, j) => (j === idx() ? i : v)))
+    if (endless()) check() // skiltpugging: svaret sjekkes og læres med en gang
   }
   const check = () => {
     if (endless() && !checked()[idx()]) learnAt(idx())
