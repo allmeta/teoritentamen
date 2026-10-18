@@ -124,10 +124,10 @@ export default function App() {
     if (view() !== 'quiz' || e.ctrlKey || e.metaKey || e.altKey) return
     if ((e.target as HTMLElement).closest('input, textarea')) return
     if (endless()) {
-      // Kort: mellomrom/Enter/j snur · 1/h/← kunne ikke · 2/l/→ kunne det
-      if (!checked()[idx()] && [' ', 'Enter', 'j', 'ArrowDown', 's', 'i'].includes(e.key)) check()
-      else if (checked()[idx()] && ['1', 'h', 'ArrowLeft'].includes(e.key)) grade(false)
-      else if (checked()[idx()] && ['2', 'l', 'ArrowRight'].includes(e.key)) grade(true)
+      // Kort: mellomrom/Enter/j snur · i/1/h/← kunne ikke · k/2/l/→ kunne det
+      if (!checked()[idx()] && [' ', 'Enter', 'j', 'ArrowDown', 's'].includes(e.key)) check()
+      else if (checked()[idx()] && ['i', '1', 'h', 'ArrowLeft'].includes(e.key)) grade(false)
+      else if (checked()[idx()] && ['k', '2', 'l', 'ArrowRight'].includes(e.key)) grade(true)
       else return
       e.preventDefault()
       return
@@ -300,7 +300,7 @@ export default function App() {
                     </CardFooter>
                   </Card>
                   <p class="hidden sm:block text-center text-xs text-muted-foreground">
-                    Hurtigtaster: <kbd>Mellomrom</kbd>/<kbd>J</kbd> snu · <kbd>1</kbd>/<kbd>H</kbd>/← kunne ikke · <kbd>2</kbd>/<kbd>L</kbd>/→ kunne det
+                    Hurtigtaster: <kbd>Mellomrom</kbd>/<kbd>J</kbd> snu · <kbd>I</kbd>/<kbd>1</kbd>/← ikke · <kbd>K</kbd>/<kbd>2</kbd>/→ kunne
                   </p>
                   <div class="flex justify-end">
                     <Button variant="outline" onClick={finish}>Avslutt</Button>
