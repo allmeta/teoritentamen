@@ -31,6 +31,12 @@ Den kommersielle læreboka «Veien til førerkortet» (Trafikkforlaget) er ikke 
 
 Bilder sett fra førerplass i `public/situasjon/` er hentet fra Statens vegvesens Vegbilder (NLOD), funnet via NVDB-skiltpunkt. Én JSON per bilde med skilt, vegreferanse og tidspunkt.
 
+## Vekting i skiltpugging (`web/`)
+
+- Karpicke & Roediger (2007), *Expanding retrieval practice promotes short-term retention, but equally spaced retrieval enhances long-term retention* (`gwern.net_…2007-karpicke.pdf`): utsatt første gjenhenting og lik avstand (5–5–5) slo økende avstand (1–5–9) etter 2 dager.
+- Anki-dokumentasjonen, Learning/Relearning Steps (`docs.ankiweb.net_deck-options.html`): feilede kort må gjennom flere steg før de regnes som lært.
+- FSRS-oppsummering (`domenic.me_fsrs`): modell over dager med mål om 90 % husking – for tung for økt-basert pugging.
+
 ## Nettkilder (`web/`)
 
 Lærebok-/praksisfakta som ikke står i lovtekst: NAF (varsellamper, glatt føre, motorveg), Trygg Trafikk (avstand, sommerkjøring), USN (blending), NHI (HLR, varseltrekant på legemidler), Statens vegvesen (tunnelsikkerhet, salting, førerstøttesystemer), SNL (blindsone), Hella (bremsevæske), Kia og Tesla brukerhåndbøker på norsk (lufttrykk, servostyring, kjetting, ABS).

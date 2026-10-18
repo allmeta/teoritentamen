@@ -62,29 +62,35 @@ export const passed = (a: Pick<Attempt, 'correct' | 'total'>) =>
 // n = antall feil (maks 5, riktig svar −1) og at = step da du sist bommet.
 export type Misses = { step: number; m: Record<string, { n: number; at: number }>; seen: Record<string, 1> }
 
+// Som Ankis læringssteg: en feil krever minst 2 riktige gjenhentinger før skiltet regnes som lært (n ≥ 2).
+// Hver gjenhenting (riktig eller feil) starter ventetiden på nytt, så repetisjonene kommer med lik avstand
+// (Karpicke & Roediger 2007: utsatt første gjenhenting og lik avstand gir best langtidshukommelse).
 export const learn = (s: Misses, id: string, ok: boolean): Misses => {
   const m = { ...s.m }
-  const n = Math.min(5, (m[id]?.n ?? 0) + (ok ? -1 : 1))
+  const n = ok ? (m[id]?.n ?? 0) - 1 : Math.min(5, Math.max(2, (m[id]?.n ?? 0) + 1))
   if (n <= 0) delete m[id]
-  else m[id] = { n, at: ok ? m[id].at : s.step }
+  else m[id] = { n, at: s.step }
   return { step: s.step + 1, m, seen: { ...s.seen, [id]: 1 } }
 }
 
-// Vekt: aldri sett 4, sett og kan 1. Skilt du har bommet på kommer ikke de 2 første spørsmålene etter feilen,
-// får så gradvis mer vekt, og full ekstravekt (1 + 8 per feil) fra 10 spørsmål etter.
+// Vekt: aldri sett 4, sett og kan 0,1 (kommer sjelden før nesten alt er sett).
+// Skilt du har bommet på regnes som andel av resten av poolen, så de kommer tilbake uansett hvor mange nye som er igjen:
+// 0 de 2 første spørsmålene etter feilen, så gradvis opp til 10 % av resten per feil fra 10 spørsmål etter
+// (≈ 9 % sjanse per kort med én feil, ≈ 23 % med tre).
 export const UNSEEN_WEIGHT = 4
-export const signWeight = (s: Misses, id: string) => {
-  const e = s.m[id]
-  if (!e) return s.seen[id] ? 1 : UNSEEN_WEIGHT
-  const gap = s.step - e.at
-  if (gap <= 2) return 0
-  return 1 + 8 * e.n * Math.min(1, (gap - 2) / 8)
+export const KNOWN_WEIGHT = 0.1
+const MISS_SHARE = 0.1
+const ramp = (s: Misses, id: string) => {
+  const gap = s.step - s.m[id].at
+  return gap <= 2 ? 0 : Math.min(1, (gap - 2) / 8)
 }
 
 export const nextFrom = (pool: Question[], s: Misses, recent: string[], rnd = Math.random): Question => {
   const fresh = pool.filter((q) => !recent.includes(q.id))
   const src = fresh.length ? fresh : pool
-  const w = src.map((q) => signWeight(s, q.id))
+  const base = src.reduce((sum, q) => sum + (s.m[q.id] ? 0 : s.seen[q.id] ? KNOWN_WEIGHT : UNSEEN_WEIGHT), 0)
+  const w = src.map((q) =>
+    s.m[q.id] ? base * MISS_SHARE * s.m[q.id].n * ramp(s, q.id) : s.seen[q.id] ? KNOWN_WEIGHT : UNSEEN_WEIGHT)
   const total = w.reduce((a, b) => a + b, 0)
   if (!total) return src[Math.floor(rnd() * src.length)]
   let r = rnd() * total
