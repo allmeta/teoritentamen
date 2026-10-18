@@ -72,15 +72,15 @@
   {
     "id": "vikeplikt-06",
     "category": "Vikeplikt",
-    "text": "Du skal svinge til høyre. Til høyre for deg går et sykkelfelt, og en syklist i sykkelfeltet skal rett fram. Hvem har vikeplikt?",
+    "text": "Du skal svinge til høyre i et kryss. Langs høyre side av kjørebanen går et sykkelfelt, og en syklist kommer bakfra i feltet og skal rett fram. Hvem har vikeplikt?",
     "options": [
-      "Syklisten, fordi bilen er større",
-      "Syklisten, fordi jeg har blinket",
-      "Ingen, vi må samhandle",
-      "Jeg"
+      "Du, fordi syklisten skal rett fram",
+      "Syklisten, fordi sykkelfeltet slutter i krysset",
+      "Syklisten, hvis du har gitt tegn med blinklyset i god tid",
+      "Den av dere som kommer først fram til krysset"
     ],
-    "answer": 3,
-    "explanation": "Den som svinger har vikeplikt for syklende som skal rett fram på kjørebanen (trafikkreglene § 7 nr. 3).",
+    "answer": 0,
+    "explanation": "Trafikkreglene § 7 nr. 3: «Kjørende som vil svinge har vikeplikt for gående, syklende og fører av liten elektrisk motorvogn som skal rett fram på kjørebanen eller vegens skulder.» Blinklys gir deg ingen forkjørsrett. Sjekk speil og blindsone før du svinger.",
     "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
   },
   {
@@ -128,7 +128,7 @@
   {
     "id": "vikeplikt-10",
     "category": "Vikeplikt",
-    "text": "Du kjører i en gate med fartsgrense 50 km/t. En buss foran deg står på holdeplassen og blinker til venstre for å kjøre ut. Hva er riktig?",
+    "text": "Fartsgrensen er 50 km/t. Bussen foran deg står på holdeplassen og blinker til venstre for å kjøre ut. Hva er riktig?",
     "options": [
       "Bussen har vikeplikt for meg",
       "Jeg har vikeplikt for bussen",
@@ -137,7 +137,8 @@
     ],
     "answer": 1,
     "explanation": "På veg med fartsgrense 60 km/t eller lavere har kjørende vikeplikt for buss som gir tegn om at den skal kjøre fra holdeplassen (trafikkreglene § 7 nr. 5).",
-    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
+    "source": "https://lovdata.no/forskrift/1986-03-21-747/§7",
+    "image": "/situasjon/buss-holdeplass.jpg"
   },
   {
     "id": "vikeplikt-11",
@@ -246,7 +247,7 @@
   {
     "id": "vikeplikt-18",
     "category": "Vikeplikt",
-    "text": "Du skal kjøre inn i en rundkjøring. Ved innkjøringen står et skilt for vikeplikt. Hvem har du vikeplikt for?",
+    "text": "Du skal kjøre inn i rundkjøringen foran deg. Hvem har du vikeplikt for?",
     "options": [
       "Trafikk som kommer fra høyre i innkjøringen",
       "Ingen, jeg har forkjørsrett inn i rundkjøringen",
@@ -255,7 +256,8 @@
     ],
     "answer": 3,
     "explanation": "Vikepliktskiltet gir vikeplikt for kjørende på den kryssende vegen, som her er kjørebanen i rundkjøringen (skiltforskriften § 6, skilt 202).",
-    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6"
+    "source": "https://lovdata.no/forskrift/2005-10-07-1219/§6",
+    "image": "/situasjon/rundkjoring-vikeplikt.jpg"
   },
   {
     "id": "vikeplikt-19",
@@ -348,11 +350,11 @@
     "options": [
       "Ved å blinke med fjernlyset mot den andre trafikanten",
       "Ved å vinke den andre trafikanten fram",
-      "Ved å slå på varselblinken i god tid",
+      "Ved å gi et kort lydsignal i god tid",
       "Ved å sette ned farten eller stanse i god tid"
     ],
     "answer": 3,
-    "explanation": "Den som har vikeplikt skal tydelig vise det ved i god tid å sette ned farten eller stanse (trafikkreglene § 7 nr. 1).",
+    "explanation": "Den som har vikeplikt skal tydelig vise det ved i god tid å sette ned farten eller stanse (trafikkreglene § 7 nr. 1). Lyssignaler, horn eller vinking viser ikke at du viker.",
     "source": "https://lovdata.no/forskrift/1986-03-21-747/§7"
   },
   {

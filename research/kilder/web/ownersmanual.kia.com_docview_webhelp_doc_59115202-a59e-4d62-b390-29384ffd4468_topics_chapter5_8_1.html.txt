@@ -1,0 +1,818 @@
+[list_icon_]
+[                    ]
+[ ] Søk bare etter tittel
+Hjem > Bilens funksjoner > Ratt > Elektronisk servostyring
+A−A+
+
+Elektronisk servostyring
+
+Servostyringen bruker en elektrisk motor som assistanse til å styre bilen. Hvis bilen er slått av eller hvis servostyringen svikter, kan bilen fortsatt styres,
+men det vil kreve mer kraft.
+
+Elektronisk servostyring styres av servostyreenheten som registrerer rattets dreiemoment og bilens hastighet for å styre motoren.
+
+For bedre kontroll over rattet blir styringen tyngre jo mer bilens hastighet øker, og lettere desto mer hastigheten reduseres.
+
+Skulle du merke noen endring i kraften som kreves for å styre under normal kjøring, bør du få systemet kontrollert på et profesjonelt verksted. Kia anbefaler
+at du oppsøker en godkjent Kia-forhandler/servicepartner.
+
+[M-note]
+MERK
+
+Følgende situasjoner kan oppstå under normal kjøring:
+
+  • EPS-varsellampen lyser ikke.
+
+  • Det kreves mye kraft for å styre så snart POWER-knappen settes til ON. Dette skjer fordi EPS-system foretar en diagnose. Når diagnosen er ferdig, vil
+    styringen gå tilbake til sin normale tilstand.
+
+  • En klikkelyd kan høres fra EPS-reléet etter at POWER-knappen settes til ON- eller OFF-posisjon.
+
+  • En lyd fra motoren kan høres når bilen stopper opp eller kjører med lav hastighet.
+
+  • Dersom EPS-systemet stoppes for å unngå alvorlige ulykker når EPS-styreenheten registrerer en feilfunksjon i EPS-systemet under en selvdiagnose, kan det
+    hende at kraften som kreves får styre plutselig øker.
+
+  • Kraften som kreves for å styre øker når rattet dreies kontinuerlig samtidig som bilen ikke er i bevegelse.
+
+    Men etter noen minutter går det tilbake til sine normale tilstand.
+
+  • Hvis den elektroniske servostyringen ikke fungerer slik den skal vil en varsellampe lyse opp på instrumentpanelet. Rattet kan bli vanskelig å kontrollere
+    eller lar seg ikke betjene normalt. I så fall bør du få systemet kontrollert på et profesjonelt verksted. Kia anbefaler at du oppsøker en godkjent
+    Kia-forhandler/servicepartner.
+
+  • Når rattet betjenes ved lave temperaturer, kan styringen være tung og det kan oppstå unormale lyder. Så fort temperaturen stiger, vil disse lydene
+    forsvinne. Dette er helt normalt.
+
+  • Hvis bilen må startes med startkabler på grunn av utladning av batteriet, kan det hende at rattet ikke fungerer som normalt. Dette er en midlertidig
+    situasjon som skyldes lav spenning i batteriet. Problemet løses så snart batteriet lades opp. Kontroller normal styrefunksjon ved å vri sakte på rattet før
+    du kjører bilen.
+
+  • Når varsellampen for ladesystemet tennes på grunn av lav spenning (når dynamoen eller batteriet ikke fungerer normalt, eller det oppstår feil), kan det
+    kreves større fysisk kraft for å betjene rattet.
+
+    
+
+  • Hjem
+  • Elbilhåndbok
+
+      □ Oversikt over elbilen
+
+      □ Hovedkomponentene i den elektriske bilen
+
+      □ EV-meny (utstyrsavhengig)
+
+      □ Ladetyper for elbil
+
+      □ Ladelampe for elbil
+
+      □ Ladekontaktlås
+
+      □ Reservert lading
+
+      □ Sikkerhetsregler for lading av elbil
+
+      □ Lading av elbil (AC-lading)
+
+      □ Lading av elbil (DC-lading)
+
+      □ Lading av elbil (vedlikeholdslading)
+
+      □ Tiltak som må tas ved lading av elektrisk kjøretøy
+
+      □ Kjøre en elbil
+
+      □ Varsellampe og indikatorlampe (for elbil)
+
+      □ Sikkerhetsregler for elbil
+
+  • Introduksjon
+
+      □ Anvisninger for kjøreadferd
+
+  • Oversikt over bilen
+
+      □ Oversikt over bilen utvendig
+
+      □ Oversikt over kupéen
+
+      □ Oversikt over instrumentpanelet
+
+      □ MOTORROM
+
+  • Bilens sikkerhetsfunksjoner
+
+      □ SETER
+
+      □ SIKKERHETSBELTER
+
+      □ Barnesetesystem (CRS)
+
+      □ KOLLISJONSPUTE – EKSTRA SIKRINGSSYSTEM
+
+  • Bilens funksjoner
+
+      □ Smartnøkkel
+
+      □ Tyverialarmsystem (utstyrsavhengig)
+
+      □ Dørlåser
+
+      □ Bakluke
+
+      □ Vinduer
+
+      □ Panser
+
+      □ Soltak (utstyrsavhengig)
+
+      □ Ratt
+
+      □ Speil
+
+      □ Ladeluke
+
+      □ Instrumentpanel
+
+      □ LCD-display
+
+      □ LCD-displayer (utstyrsavhengig)
+
+      □ Varsel- og indikatorlamper
+
+      □ Overvåkningssystem bakover (RVM)
+
+      □ Advarselssystem for parkeringsavstand bakover (PDW) (utstyrsavhengig)
+
+      □ Advarselssystem for parkeringsavstand forover/bakover (PDW) (utstyrsavhengig)
+
+      □ Lys
+
+      □ Vindusviskere og spylere
+
+      □ Kupélys
+
+      □ Velkomstsystem (utstyrsavhengig)
+
+      □ Defroster
+
+      □ Klimakontrollsystem
+
+      □ Fjerne rim og dugg fra frontruten
+
+      □ Oppbevaringsrom
+
+      □ Utstyr i kupéen
+
+      □ Utvendig utstyr
+
+      □ Lydanlegg
+
+  • Kjøring med bilen
+
+      □ Før du kjører
+
+      □ Power-knapp
+
+      □ Reduksjonsgirkasse
+
+      □ Regenerativt bremsesystem
+
+      □ System for smart regenerering (hvis utstyrt med smart hastighetskontroll)
+
+      □ Bremsesystem
+
+      □ Innebygd kontrollsystem for kjøremodus
+
+      □ Assistansesystem for unngåelse av frontkollisjon (FCA) (sensorfusjon) (utstyrsavhengig)
+
+      □ Feltholdeassistanse (LKA) (utstyrsavhengig)
+
+      □ Advarselssystem for blindsonekollisjon (BCW) (utstyrsavhengig)
+
+      □ Manuell fartsgrenseassistanse (MSLA)
+
+      □ Intelligent fartsgrensevarsel (ISLW) (utstyrsavhengig)
+
+      □ Advarsel for førerens oppmerksomhet (DAW) (utstyrsavhengig)
+
+      □ Hastighetskontroll (CC) (utstyrsavhengig)
+
+      □ Smart hastighetskontroll (SCC) (utstyrsavhengig)
+
+      □ Kjørefeltassistanse (LFA) (utstyrsavhengig)
+
+      □ Krysstrafikkvarsling ved rygging (RCCW) (utstyrsavhengig)
+
+      □ Samsvarserklæring (utstyrsavhengig)
+
+      □ Spesielle kjøreforhold
+
+      □ Kjøring om vinteren
+
+      □ Bilens vekt
+
+  • Hva du skal gjøre i en nødssituasjon
+
+      □ Kjørevarsel
+
+      □ Ved nødstilfelle under kjøring
+
+      □ Hvis bilen ikke starter
+
+      □ Nødstart
+
+      □ Overvåkningssystem for dekktrykk (TPMS) (utstyrsavhengig)
+
+      □ Hvis du har et punktert dekk (med punkteringssett)
+
+      □ Tauing
+
+      □ Hvis det oppstår en ulykke
+
+      □ Nødutstyr (utstyrsavhengig)
+
+  • Vedlikehold
+
+      □ Motorrom
+
+      □ Vedlikeholdsservice
+
+      □ Eiers vedlikehold
+
+      □ Planlagt vedlikehold
+
+      □ Forklaring til planlagte vedlikeholdspunkter
+
+      □ Kjølevæske
+
+      □ Bremsevæske
+
+      □ Spylervæske
+
+      □ Luftfilter for klimakontroll
+
+      □ Viskerblader
+
+      □ Batteri
+
+      □ Dekk og hjul
+
+      □ Sikringer
+
+      □ Lyspærer
+
+      □ Vedlikehold av inn- og utvendig finish
+
+  • Spesifikasjoner og forbrukerinformasjon
+
+      □ DIMENSJONER
+
+      □ ELBILSPESIFIKASJONER
+
+      □ VOLUM OG VEKT
+
+      □ KLIMAANLEGG
+
+      □ LYSPÆREWATT
+
+      □ DEKK OG HJUL
+
+      □ ANBEFALTE SMØREMIDLER OG MENGDER
+
+      □ BILENS IDENTIFIKASJONSNUMMER (VIN)
+
+      □ Skilt med bilens identifikasjonsnummer
+
+      □ Dekkspesifikasjon og trykkmerking
+
+      □ Motornummer
+
+      □ Kompressoretikett på klimaanlegget
+
+      □ Kjølemiddelmerking
+
+      □ Samsvarserklæring
+
+      □ SLIK KONTROLLERER DU SYMBOLET PÅ LADEETIKETTEN (FOR EUROPA)
+
+  • Forkortelser
+
+      □ Forkortelser
+
+ 
+
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+  •  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+
+ 
+
+  •  
+
+ 
+
+  •  
+  •  
+  •  
+  •  
+
+ 
+
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+
+ 
+
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+
+ 
+
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+
+ 
+
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+  •  
+      □  
+      □  
+      □  
+      □  
+
+ 
+
+  •  
+  •  
+      □  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+  •  
+  •  
+      □  
+  •  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+      □  
+  •  
+      □  
+      □  
+
+ 
+
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+      □  
+      □  
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+      □  
+      □  
+      □  
+      □  
+
+ 
+
+  •  
+

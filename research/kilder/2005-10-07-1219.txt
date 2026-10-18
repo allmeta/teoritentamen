@@ -1,7 +1,24 @@
-KILDE: https://lovdata.no/dokument/SF/forskrift/2005-10-07-1219
+KILDE: https://lovdata.no/dokument/SF/forskrift/2005-10-07-1219 (hentet 2026-10-18)
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -9,8 +26,18 @@ Forskrift om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvis
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Skiltforskriften
     Ditt søk ga dessverre ingen treff.
    
     ➦ Gå til opprinnelig kunngjort versjon
@@ -1611,6 +1638,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

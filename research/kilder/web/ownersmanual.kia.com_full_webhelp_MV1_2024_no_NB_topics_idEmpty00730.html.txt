@@ -1,0 +1,228 @@
+Springe zum Hauptinhalt
+[kia_ci]
+[                    ]suchen
+[icon_menu]
+
+ 1. Home
+ 2. Vedlikehold
+ 3. Utskifting av komponenter
+
+ 4. Dekkpleie
+
+ 5. Kontroll av lufttrykket
+
+Kontroll av lufttrykket
+
+  • Skru av ventilhetten fra dekkventilen. Trykk dekktrykkmåleren godt på ventilen for å få en trykkmåling. Dersom trykket er for lavt, må du fylle opp med
+    luft til det er på det anbefalte trykket.
+
+  • Hvis du overfyller dekket, er det bare å slippe ut luft ved å trykke på metallspissen i midten av dekkventilen. Pass på å sette ventilhettene tilbake på
+    ventilen.
+
+WARNUNG
+
+  • For mye eller for lite dekktrykk kan redusere dekkets levetid, påvirke kjøreadferd og føre til plutselige dekkfeil. Dette kan føre til at du mister
+    kontrollen over bilen og til potensiell skade.
+
+  • Svært lite lufttrykk i dekket (70 kPa (10 psi) eller mer) kan føre til stor varmeutvikling, noe som kan forårsake punktering, dårligere dekkmønster og
+    andre feil på dekket som kan medføre tap av kontroll over bilen og dermed alvorlige eller livstruende personskader. Denne risikoen er mye høyere på varme
+    dager og når du kjører med høy hastighet over lang tid.
+
+  • Inspiser dekkene regelmessig for riktig trykk, samt slitasje og skader. Bruk alltid en trykkmåler for dekk.
+
+  • Dekk med for lavt eller for høyt lufttrykk kan ha dårlige kjøreegenskaper og medføre tap av kontroll over kjøretøyet og plutselige dekkfeil som gir risiko
+    for ulykker, skader og død. Det anbefalte dekktrykket for bilen din er oppgitt i denne brukerhåndboken og på dekkmerkingen som er plassert på førersiden av
+    midtstolpen.
+
+  • Slitte, gamle dekk kan føre til ulykker. Skift dekk som er slitte, viser ujevn slitasje eller er skadet.
+
+  • Husk også å sjekke trykket i reservedekket. Kia anbefaler at du sjekker reservedekket hver gang du sjekker trykket i de andre dekkene på bilen din.
+
+ACHTUNG
+
+  • For lite lufttrykk resulterer også i kraftig slitasje, dårlige kjøreegenskaper og økt drivstofforbruk. Deformering av felgen kan også inntre. Hold
+    dekktrykket på riktig nivå. Hvis dekket ofte trenger å fylles, bør du få systemet kontrollert på et profesjonelt verksted. Kia anbefaler at du oppsøker en
+    autorisert Kia-forhandler/servicepartner.
+
+  • For høyt lufftrykk i dekket skaper "hard" kjøring, kraftig slitasje i midten av dekkbanen og større mulighet for skade fra faremomenter i veibanen.
+
+  • Varme dekk overstiger normalt dekktrykk i kalde dekk med 28-41 kPa (4-6 psi). Ikke slipp ut luft fra varme dekk for å justere trykket. Da kan det
+    dekktrykket bli for lavt.
+
+  • Sett på plass ventilhetten igjen. Uten ventilhetten kan smuss eller fuktighet komme inn i ventilkjernen og føre til luftlekkasje. Hvis en ventilhette
+    mangler, må du sette inn en ny så snart som mulig.
+
+  • Gjør alltid følgende:
+
+      □ Sjekk dekktrykket når dekkene er kalde. (Etter at bilen har stått parkert i minst tre timer, eller bilen ikke har blitt kjørt på mer enn 1,6 km (1
+        mile), siden oppstart.)
+
+      □ Sjekk trykket i reservedekket hver gang du sjekker trykket i andre dekk.
+
+      □ Ikke overbelast bilen. Vær forsiktig med å overbelaste bagasjehyllen i bilen hvis bilen har dette.
+
+      □ Slitte, gamle dekk kan føre til ulykker. Hvis slitebanen er nedslitt, eller hvis dekkene er skadet, skal de byttes.
+
+Home
+Elbilhåndbok
+Oversikt over elbilen
+Høyspennings- (HV) batteri(litium-ion)
+EV-meny
+Lading av elbil
+Informasjon om ladetid
+Kontrollere ladestatus
+Ladekontaktlås
+Planlagt lading
+Lading av elbil
+Stopp ladingen umiddelbart
+AC-lading
+DC-lading
+Bærbar lader
+Plug n Charge (PnC)
+Kjøre en elbil
+Sikkerhetsregler for elbil
+Introduksjon
+Datainnsamling på kjøretøyet og hendelseslogg
+Bilmodifikasjoner
+Anvisninger for kjøreadferd
+Åpne Source Software Notice
+Importøropplysninger for Storbritannia
+Oversikt over bilen
+Oversikt over bilen utvendig
+Oversikt over kupéen
+Oversikt over instrumentpanelet
+Sikkerhetskontroller for kjøretøy
+Generelle forholdsregler
+Sete
+Nakkestøtte
+Armlene
+Lomme på seterygg
+Sikkerhetsbelte
+Barnesetesystem (CRS)
+ISOFIX-forankring og toppfestepunkt (ISOFIX-forankringssystem) for barn
+Kollisjonspute - tilleggssikkerhetssystem
+Kjøretøykontroller
+Generelle forholdsregler
+Åpning og lukking
+Justere
+Skjerm
+Utstyr i kupéen
+Oppbevaringsrom
+Utvendig utstyr
+Infotainment-system
+Kjørekontroller for kjøretøy
+Generelle forholdsregler
+Starte bilen
+Kjøretøyets kjøreegenskaper
+Stoppe bilen
+Sikkerhetsfunksjoner for kjøring
+Veiledning for førerassistanse
+Oversikt
+Assistansesystem for unngåelse av frontkollisjon (FCA)
+Feltholdeassistent (LKA)
+Assistansesystem for unngåelse av blindsonekollisjon (BCA)
+Varsel for sikker utgang (SEW)
+Assistanse for sikker utgang (SEA)
+Manuell fartsgrenseassistanse (MSLA)
+Intelligent fartsgrenseassistanse (ISLA)
+Advarsel for førerens oppmerksomhet (DAW)
+Varsel for oppmerksomhet forover (FAW)
+Skjerm for blindsonevisning (BVM)
+Hastighetskontroll (CC)
+SCC (Smart cruisekontroll)
+Navigasjonsbasert Smart cruisekontroll (NSCC)
+Filfølgerassistent (LFA)
+System for assistanse for motorveikjøring (HDA)
+Bak-kamera (RVM)
+Overvåkningssystem med 360-graders visning (SVM)
+Assistansesystem for unngåelse av krysstrafikkollisjon ved rygging (RCCA)
+Advarselssystem for parkeringsavstand forover/bakover (PDW)
+Advarselssystem for parkeringsavstand forover/sideveis/bakover (PDW)
+Assistansesystem for unngåelse av kollisjon ved rygging (PCA)
+Assistansesystem for unngåelse av kollisjon ved forover/sideveis/bakover (PCA)
+Fjernstyrt smart parkeringsassistanse 2 (RSPA 2)
+Samsvarserklæring
+Hva du skal gjøre i en nødssituasjon
+Generelle forholdsregler
+Varselblinklys ●
+Kjøretøyfeil eller ikke-operative forhold
+Starte bilen
+Punkteringssett
+Tauing
+Overvåkningssystem for dekktrykk (TPMS)
+Nødutstyr
+Pan-europeisk eCall-system
+ERA-GLONASS nødanrop
+Vedlikehold
+Generelle forholdsregler
+Under panseret
+Utskifting av væske
+Utskifting av komponenter
+Kjøretøypleie
+Spesifikasjoner og forbrukerinformasjon
+Dimensjoner
+Elbilspesifikasjoner
+Bilens bruttovekt
+Bagasjevolum
+Tilgjengelig vekt for fremre bagasjerom
+Klimaanlegg
+Lyspærewattforbruk
+Dekk og hjul
+Anbefalte smøremidler og kapasitet
+Bilens identifikasjonsnummer (VIN)
+Kjøretøysertifiseringsetikett/dekkspesifikasjon og trykketikett
+Motornummer
+Kompressoretikett på klimaanlegget
+Samsvarserklæring [CE0678]
+Slik kontrollerer du symbolet på ladeetiketten (for Europa)
+Forkortelser
+  
+
+  • Vedlikehold
+      □ Generelle forholdsregler
+
+      □ Under panseret
+
+      □ Utskifting av væske
+
+      □ Utskifting av komponenter
+
+          ☆ Forholdsregler
+
+          ☆ Luftfilter for klimaanlegg
+
+          ☆ Viskerblad
+
+          ☆ Batteri
+
+          ☆ Dekk og hjul
+
+          ☆ Dekkpleie
+
+              ○ Anbefalte lufttrykk for kalde dekk
+
+              ○ Kontroll av lufttrykket
+
+              ○ Dekkrotasjon
+
+              ○ Hjulinnstilling og dekkbalanse
+
+              ○ Dekkskift
+
+              ○ Hjulskift
+
+              ○ Dekkenes veigrep
+
+              ○ Dekkvedlikehold
+
+              ○ Merking på dekkenes sidevegg
+
+              ○ Lavprofildekk
+
+          ☆ Sikringer
+
+          ☆ Lamper
+
+      □ Kjøretøypleie
+
+© Kia Corp. All rights reserved

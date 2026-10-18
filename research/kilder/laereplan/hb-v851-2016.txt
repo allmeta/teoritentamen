@@ -1,0 +1,2687 @@
+Vegdirektoratet
+2016
+
+
+
+
+                  Læreplan for førerkortklasse
+                  B, B kode 96 og BE
+   VEILEDNING                          Håndbok V851
+V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+            Håndbøker i Statens vegvesen
+
+            Dette er en håndbok i Statens vegvesens
+            håndbokserie. Vegdirektoratet har ansvaret
+            for utarbeidelse og ajourføring av hånd-
+            bøkene.
+
+            Denne håndboka finnes kun digitalt (PDF)
+            på Statens vegvesens nettsider,
+            www.vegvesen.no.
+
+            Statens vegvesens håndbøker utgis på
+            to nivåer:
+
+            Nivå 1: ○ Oransje eller ○ grønn fargekode
+            på omslaget – omfatter normal (oransje
+            farge) og retningslinje (grønn farge)
+            godkjent av overordnet myndighet
+            eller av Vegdirektoratet etter fullmakt.
+
+            Nivå 2: ○ Blå fargekode på omslaget
+            – omfatter veiledning godkjent av den
+            avdeling som har fått fullmakt til dette i
+            Vegdirektoratet.
+
+
+            Læreplan for førerkortklasse
+            B, B kode 96 og BE
+            V851 i Statens vegvesens håndbokserie
+
+            Forsidefoto: Knut Opeide
+
+
+
+            ISBN: 978-82-7207-698-5
+
+
+
+
+2
+                     V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+Om å veilede
+”….at man,
+når det i sannhet skal lykkes en
+å føre et menneske et bestemt sted hen,
+først og fremst må passe på å finne ham
+der hvor hen er,
+og begynne der.
+
+                       Søren Kierkegaard
+
+
+
+
+                                                     3
+V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+            Innhold
+                Bakgrunn og formål                                                        7
+
+            1   Generell del                                                             9
+
+            2   Opplæringen i klasse B                                                   19
+                Hovedmål for opplæringen jf. § 11-1                                      19
+                Trinnvis opplæring                                                       19
+
+            3 Trinnmål, kursmål, delmål og aktuelt innhold i klasse B                    21
+              Trinn 1 Trafikalt grunnkurs                                                21
+            		        1.1 Trafikkopplæringen                                             23
+            		        1.2 Trafikk og førerrollen                                         23
+            		        1.3 Mennesket i trafikken og samhandling                           23
+            		        1.4 Trafikkopplæring, øvingskjøring og kjøreerfaring               23
+            		        1.5 Plikter ved trafikkuhell og førstehjelp                        24
+            		        1.6 Tiltak ved trafikkulykke                                       24
+            		        1.7 Trafikant i mørket                                             24
+              Trinn 2 Grunnleggende kjøretøy- og kjørekompetanse                         27
+            		        2.1 Førerkort og trafikkopplæring                                  28
+            		        2.2 Bilens oppbygning med tanke på sikkerhet og miljø              28
+            		        2.3 Eiers og brukers ansvar                                        28
+            		        2.4 Kjøring med tilhenger                                          28
+            		        2.5 Menneskets kapasitet og trafikkens krav                        28
+            		        2.6 Gjøre klar for kjøring                                         28
+            		        2.7 Grunnleggende bruk av bilen i variert terreng                  29
+            		        2.8 Grunnleggende kjøretøybehandling i områder med liten trafikk   29
+            		        2.9 Sikkerhetskontroll                                             29
+            		        2.10 Trinnvurdering jf. § 7-5                                      29
+              Trinn 3 Trafikal del                                                       31
+            		        3.1 Trafikksystemet, trafikantgrupper og interessemotsetninger     32
+            		        3.2 Veg, vegoppmerking, skilt og annen regulering                  32
+            		        3.3 Atferd i trafikken                                             32
+            		        3.4 Informasjonsinnhenting                                         32
+            		        3.5 Kjøring i bolig, tettsteds- og bymiljø                         32
+            		        3.6 Kjøring i landevegsmiljø                                       33
+            		        3.7 Kjøring i kø, i tunnel og i mørket                             33
+            		        3.8 Sikker samhandling                                             33
+            		        3.9 Trinnvurdering jf. § 7-5                                       34
+            		        3.10 Sikkerhetskurs på øvingsbane                                  34
+              Trinn 4 Avsluttende opplæring                                              38
+            		        4.1 Sikkerhetskurs på veg                                          38
+            		        4.2 Tilstrekkelig øving                                            41
+
+
+
+
+4
+                                                                          V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+4   Opplæringen i klasse B kode 96 og BE                                                     45
+    Hovedmål for opplæring klasse B kode 96 og BE jf. § 12-1                                 45
+    Trinnvis opplæring                                                                       45
+
+5 Trinnmål, kursmål, delmål og aktuelt innhold i klasse B kode 96 og BE                      47
+  Trinn 2 Grunnleggende kjøretøy- og kjørekompetanse                                         47
+		        2.1 Kunnskap om risiko i tilknytning til å kjøre bil med tilhenger                 48
+		        2.2 Grunnleggende kunnskap om lastsikring                                          48
+		        2.3 Til- og frakopling av tilhenger og sikkerhetskontroll                          48
+		        2.4 Plassbehov ved kjøring rett fram og i sving, og kjøring i mot- og utforbakke   48
+		        2.5 Rygging                                                                        48
+		        2.6 Trinnvurdering jf. § 7-5                                                       48
+  Trinn 3 Trafikal del                                                                       50
+		        3.1 Systematisk og automatisert informasjonsinnhenting                             50
+		        3.2 Tydelig, sikker og effektiv kjøring i variert terreng                          50
+		        3.3 Snuing og bruk av medhjelper                                                   51
+		        3.4 Selvstendig kjøring i variert trafikkmiljø på en måte som gir god
+ 			            samhandling og er økonomisk og miljøvennlig                                  51
+		        3.5 Trinnvurdering jf. § 7-5                                                       51
+  Trinn 4 Avsluttende opplæring                                                              52
+		        4.1 Kurs i sikring og merking av last - klassene B kode 96, BE, D1E, DE og T       52
+		        4.2 Sikkerhetskurs på veg – klassene B kode 96 og BE                               54
+		        4.3 Tilstrekkelig øving                                                            55
+
+
+
+
+                                                                                                          5
+V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+6
+                                                                                     V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+Bakgrunn og formål
+
+Lovgrunnlaget for føreropplæringen
+Vegtrafikkloven av 18. juni 1965 gir grunnlag for det som er fastsatt om trafikkopplæringen. Med hjemmel
+i loven har Samferdselsdepartementet fullmakt til å gi bestemmelser om teoretisk og praktisk opplæring
+av personer som vil ta førerkort, kompetansebevis eller bevis for å ha gjennomgått annen bestemt
+trafikkopplæring. Mål for trafikkopplæringen og krav til undervisningen er fastsatt av Vegdirektoratet
+gjennom forskrift av 1. oktober 2004 om trafikkopplæring og førerprøve m.m. Av forskrifta går det blant
+annet fram at undervisningen skal legge til rette for at eleven kan nå målene for opplæringen.
+
+Vegdirektoratet fastsetter læreplaner for trafikkopplæringen i hver klasse. Læreplanene tar utgangspunkt
+i forskriftas krav til mål og undervisning. En læreplan er ikke en forskrift etter forvaltningsloven.
+
+
+
+Læreplanens funksjoner
+Læreplanen skal ivareta behovet for informasjon, veiledning og, sammen med forskrifta, styring av
+føreropplæringen.
+
+
+Informasjon
+Ved å beskrive mål og innhold i opplæringen gir læreplanen informasjon til trafikklærere og andre fagfolk,
+men også til elevene selv og deres foresatte, om hva opplæringen omfatter og hva den skal tjene til.
+
+
+Veiledning
+Først og fremst er læreplanen en veiledning for trafikklærerne. Den gir informasjon om hva det skal gis
+opplæring i, og føringer for hvordan. Den skal fungere både som rettesnor og som faglig og pedagogisk
+inspirasjon. Trafikklærerne har relativt stor metodefrihet; dvs. frihet til å legge til rette fagstoffet slik de
+selv mener det er best for eleven, bare de holder seg til de rammene som læreplanen setter. Behovet for
+veiledning gjennom sentrale læreplaner må ses i sammenheng med den profesjonelle kompetansen
+lærerne har.
+
+
+Styringsverktøy
+Trafikklæreren skal ivareta viktige oppgaver for samfunnet når det gjelder trafikksikkerhet, og legge til rette
+for at eleven utvikler den førerkompetansen som er nødvendig for å kunne medvirke i nullvisjonsarbeidet.
+
+
+
+Læreplanens oppbygning
+Læreplanen er for hver førerkortklasse i hovedsak delt inn i en generell og en klassespesifikk del.
+
+Begrunnelsene for valgene som er gjort når det gjelder innhold og progresjon i trafikkopplæringen
+er samlet i kapittel 1. Dette er gjort av praktiske årsaker. Det er viktig at læreplanens øvrige kapitler
+leses i sammenheng med dette kapittelet. For den som skal planlegge undervisningen, er det også helt
+nødvendig å kjenne forutsetningene for trinnmålene, kursmålene og delmålene i læreplanen.
+
+Kapittel 2 gir en kort oversikt over innholdet og progresjonen i opplæringen i klassen.
+
+
+
+
+                                                                                                                     7
+V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+            I kapittel 3 beskrives opplæringen trinn for trinn. Alle trinn har en innledende tekst som er ment
+            å gi en oversikt over opplæringen i trinnet. I tillegg henvises det til aktuelle bestemmelser i trafikk-
+            opplæringsforskrifta som blant annet setter rammer for opplæringen. Deretter følger læringsmålene
+            slik disse framgår av forskrifta, inklusive kravet om trinnvurdering. Denne teksten er gjengitt på grå
+            bakgrunn for å gjøre det tydelig at det(te) er forskrifta som er gjengitt. Så følger en tekst som poengterer
+            at undervisningen skal legge til rette for at elevene når målene og kort om handlingsrommet for dette.
+            Aktuelt innhold i undervisningen er ordnet etter tema i samsvar med målene uten at dette låser læreren
+            til å ta opp stoffet i den rekkefølgen som er satt. Avslutningsvis gis kommentarer til trinnet og eventuelle
+            obligatoriske kurs. Hensikten med kommentarene er å utdype intensjoner og å gi læreren råd om hvordan
+            undervisningen kan tilrettelegges best mulig.
+
+
+
+
+8
+                                                                GENERELL DEL :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+1         Generell del
+Læreplanens ulike nivåer – fra idé til praksis
+Den kanadiske skoleforskeren og læreplanteoretikeren John I. Goodlad opererer med fem ulike læreplan-
+og fortolkningsnivåer som beskriver prosessen fra læreplanens idéer til praksis (elevenes erfaringer).
+Hovedbudskapet er at tolkninger og beslutninger på et nivå er avhengig av, og påvirker, beslutninger
+på et annet nivå.
+
+Idéenes læreplan reflekterer ideer som fremmes i samfunnsdebatten før utformingen av selve
+læreplandokumentet. Slike idéer kan ha sitt utspring i fag, forskning, pedagogikk og tidligere erfaringer.
+
+Når det gjelder norsk føreropplæring kommer idéene, eller det faglige grunnlaget som læreplandokumentet
+hviler på, fra blant annet Nasjonal Transportplan og rapporten Førerkompetanse i et hierarkisk perspektiv;
+konsekvenser for føreropplæringen (2004).
+
+Den formelle læreplanen er det offisielle, vedtatte og skrevne læreplandokumentet, dvs. dette
+dokumentet.
+
+Den oppfattede læreplan er lærerens tolkning og forståelse av den formelle læreplanen. Dette er en
+kritisk fase i prosessen der lærerens profesjonelle kompetanse er avgjørende. Som en følge av at den
+formelle læreplanen ofte er et produkt av ulike interesser og kan inneholde mange kompromisser, vil
+den også kunne gi rom for ulike tolkninger.
+
+Det er viktig at trafikkskolen setter av tilstrekkelig tid til å analysere det formelle læreplandokumentet og
+sette seg inn i grunnlagsmaterialet, idéenes læreplan. Lærernes tolkning av den formelle læreplanen
+vil blant annet være avhengig av deres erfaring som lærere, egne og skolenes holdninger, verdier og
+kompetanse, og hvordan de vurderer muligheten til å kunne gjennomføre læreplanen i praksis. Den
+oppfattede læreplan vil aldri være helt lik for alle lærere.
+
+Innenfor rammene av klare, forpliktede mål og krav som er satt, har faglig leder og lærere et felles
+ansvar for å utarbeide undervisningsplaner. Undervisningsplanene vil vise hvordan skolen har oppfattet
+læreplanen.
+
+Den gjennomførte læreplanen beskriver hvordan læreplanen kommer til uttrykk i praktisk opplæring.
+Denne læreplanen gjenspeiler lærernes forståelse av planen og den lokale tolkningen ved den enkelte
+skole. I tillegg vil andre forhold som for eksempel tilgjengelige læremidler og lærerens kompetanse spille
+inn. På bakgrunn av dette vil gjennomføringen av læreplanen ved ulike skoler kunne variere mye selv
+om utgangspunktet er den samme formelle planen. Opplæringsprosessen er dessuten uforutsigbar.
+Det er ikke nødvendigvis alltid samsvar mellom det en lærer planlegger ut fra gjeldende læreplan, og
+det som faktisk skjer i opplæringen. Læreren må mange ganger ty til improvisasjon og ad hoc løsninger
+når undervisningen ikke går som planlagt.
+
+Den erfarte læreplanen er elevenes opplevelser og erfaringer i opplæringen. Det kan være forskjell
+mellom det lærerne tror de gjør og det elevene faktisk opplever. Den erfarte læreplanen vil variere ut fra
+hvordan læreren underviser og de forutsetninger og den bakgrunn elevene møter opplæringen med.
+I og med at elevene er forskjellige, med hensyn til blant annet erfaringer og motivasjon, vil de kunne
+sitte igjen med ulikt læringsutbytte. Imidlertid vil det også være likheter i deres erfaringer fordi lærerens
+undervisning har en struktur og et innhold som setter rammer for hva de opplever.
+
+
+
+
+                                                                                                                9
+V851 L ÆREPL AN FØRERKORTKL A SSER :: GENERELL DEL
+
+
+
+
+            Den skjulte læreplanen
+            Den erfarte læreplanen vil ikke bare omfatte de sider ved den formelle læreplanen som er gjennomført
+            i praksis, men også det som ikke er planlagt. Dette kan ha karakter av mer «utilsiktede budskap» til
+            elevene, og blir av mange omtalt som den skjulte læreplanen. For eksempel kan trafikklærernes valg
+            av arbeidsmåte eller presentasjon av et tema medføre at andre verdier enn de læreren har planlagt,
+            formidles til elevene.
+
+            Elevene kan da komme til å lære noe som ikke er uttrykt som mål i læreplanen. Den skjulte læreplanen
+            er først et problem når denne læringen går på tvers av det som egentlig er målet for opplæringen.
+
+            Læreren kan ikke hindre utilsiktet læring, men må ta hensyn til at den skjer.
+
+
+
+            Utvikling av førerkompetanse
+            Kompetanse
+            Kompetanse kan betraktes som de kunnskaper, ferdigheter og andre egenskaper som en person må
+            ha for å kunne løse oppgaver. Hva som er tilfredsstillende kompetanse vil variere med hvilke oppgaver
+            som skal løses. I en vurdering av hva som er nødvendig kompetanse, må en derfor ta utgangspunkt i
+            de oppgavene som skal løses.
+
+
+            Førerkompetanse
+            Den som skal føre et kjøretøy på en sikker måte, må ha en omfattende kompetanse. Det er en forutsetning
+            at føreren behersker kjøretøyet rent teknisk. Føreren må også kunne samhandle med andre trafikanter,
+            forutse hvordan disse vil handle og hvordan trafikksituasjoner kan utvikle seg. For å kjøre sikkert må
+            føreren forstå hva som kan være, eller utvikle seg til, farlige situasjoner. Føreren må også forstå hvordan
+            egen atferd innvirker på sikkerheten, og ha vilje til å handle slik at kjøringen blir sikker. Førerkompetanse
+            kan betraktes som et samlebegrep for den kompetansen som kreves for å løse alle disse oppgavene.
+
+            Førerkompetanse kan altså sees på som de kunnskaper, ferdigheter, holdninger og den motivasjon
+            føreren trenger for å mestre trafikkmiljøet på en sikker måte. Kompetansen omfatter mer enn observerbare
+            ferdigheter. Føreren må ha ferdigheter i å tolke ulike trafikksituasjoner, og vurdere hvilken atferd som
+            er passende. Det kreves også at føreren kan leve seg inn i andres situasjon; føreren må ha empati.
+            Samtidig må føreren ha tilstrekkelig selvkontroll til å handle i tråd med egne vurderinger basert på
+            hensiktsmessighet og sikkerhet.
+
+            En godt utviklet førerkompetanse er en forutsetning for å lykkes i trafikken. Føreren må ha kontroll over
+            plutselige innskytelser, aggresjon og andre " forstyrrende" emosjoner. Det stilles krav om at føreren kan
+            samarbeide med og ta hensyn til andre trafikanter. Førerkompetanse er ikke medfødt. Kompetansen læres
+            gjennom imitasjon, forståelse, praktisering og forsterkning. Viljen til å kjøre sikkert kan skapes gjennom
+            å gi føreren kunnskap om konsekvenser av å velge en sikker kjøreatferd. Å utvikle førerkompetanse
+            er en prosess som skjer over tid. En må gå ut fra at alle, når de begynner på føreropplæringen sin,
+            allerede har en betydelig trafikal kompetanse. Utviklingen vedvarer gjennom alle trinn i opplæringen
+            og vil fortsette livet ut.
+
+
+
+
+10
+                                                              GENERELL DEL :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+Innhenting og bearbeiding av informasjon
+Førere har ulike mål med eller motiver for sin kjøring, for eksempel transport, opplevelse av spenning, se
+seg om og vise seg fram. Uansett mål stilles føreren overfor oppgaver som skal løses under kjøringen.
+Føreren må holde kjøretøyet på vegen, unngå å kjøre på andre trafikanter og lignende. Disse oppgavene
+løser føreren i hovedsak ved å innhente og bearbeide informasjon. Informasjon fra omgivelsene som
+føreren oppfatter som relevant for situasjonen, velges ut og koples til den kunnskapen som føreren
+allerede har i sitt kunnskapslager. Kunnskapen forteller føreren hva som bør gjøres, og det fattes en
+beslutning som så fører til en handling. Hvor hensiktsmessig en valgt handling er, vil i stor grad avhenge
+av kunnskapen (inkludert erfaringsgrunnlaget) føreren har fra før.
+
+Kunnskap har altså sterk innflytelse på hvilken informasjon fra omgivelsene som velges ut for videre
+bearbeiding. Med liten kunnskap kan føreren velge ut uvesentlig informasjon som utgangspunkt for
+bearbeidingen. Vesentlig informasjon kan bli oversett. Omfanget av, kvaliteten på og relevansen til
+kunnskapen har også en direkte innflytelse på hvor hensiktsmessige de valgte handlingene vil være.
+Mangelfull kunnskap gir dårlige løsninger, og dermed uheldige valg av handlinger.
+
+Bevisst bearbeiding av informasjon kan være en svært ressurskrevende prosess. Menneskets kapasitet
+til bevisst bearbeiding av informasjon er begrenset. Når en stor mengde informasjon skal bearbeides,
+kan det lett føre til overbelastning. Informasjonen bearbeides da dårlig og fører ofte til feilhandlinger.
+
+Antallet oppgaver som skal løses under kjøring er så stort at om alle oppgavene skulle løses gjennom
+bevisst bearbeiding av informasjon, ville det skape store problemer. Føreren ville gjøre mange feil og
+sannsynligheten for en ulykke ville øke. En forutsetning for kjøring i dagens trafikk er at det meste av
+kjøringen foregår automatisk.
+
+Handlinger som utføres ofte, vil gradvis bli automatisert. Dette gjør at trafikale situasjoner utløser
+handlinger direkte uten at informasjonen først bearbeides bevisst.
+
+Dermed frigjøres kapasitet. Føreren kan da løse noen oppgaver gjennom automatiske handlinger, mens
+han samtidig løser andre oppgaver gjennom bevisst bearbeiding av informasjon. Erfarne førere vil løse
+enkle oppgaver som girskifte, bruk av blinklys, holde kjøretøyet på vegen, stoppe for rødt lys, holde
+avstand til forankjørende og liknende gjennom automatiserte handlinger. Bevisst bearbeiding brukes til
+mer komplekse problemer som for eksempel å vurdere hvordan andre trafikanter vil bevege seg, hvor glatt
+vegen er, om den frie strekningen er lang nok til forbikjøring, hvilken veg som skal velges og liknende.
+
+Læring skjer i hovedsak gjennom bevisst bearbeiding av informasjon. Selv om læring skjer som en
+kontinuerlig prosess, vil det være hensiktsmessig at den som skal tilrettelegge for læring, tenker ut fra
+en trinnvis modell. I trafikkopplæringen er det viktig at de kjøretekniske ferdighetene er automatisert
+i en rimelig grad før eleven starter treningen med å løse mer komplekse oppgaver i trafikken. Elever
+med mangelfull trening må tenke bevisst på girskifte, på å holde kjøretøyet på vegen og andre tekniske
+oppgaver. Elevene vil da ha dårlige forutsetninger for samtidig å lære hvordan de skal forholde seg
+til andre trafikanter, siden kapasiteten til bevisst bearbeiding av informasjon alltid er begrenset. Hvis
+eleven håndterer de enkle problemene gjennom automatiserte handlinger, frigjøres kapasitet til bevisst
+bearbeiding av nye oppgaver, og eleven kan lære hvordan mer komplekse oppgaver kan løses. Føreren
+kan da løse noen oppgaver gjennom automatiske handlinger, mens han samtidig løser andre oppgaver
+gjennom bevisst bearbeiding av informasjon. Føreren kan altså arbeide med flere oppgaver samtidig.
+
+
+
+
+                                                                                                             11
+V851 L ÆREPL AN FØRERKORTKL A SSER :: GENERELL DEL
+
+
+
+
+            Førerkompetanse i et hierarkisk perspektiv
+            Føreropplæringen bygger i stor grad på GDE- rammeverket. Dette er en teoretisk modell som framstiller
+            oppgavene en fører står overfor, og hva som må læres, i ulike nivåer. Nivåene representerer et hierarkisk
+            perspektiv på føreropplæringen og gir en oversikt over hva opplæringen bør omfatte. Fra lavt til høyt
+            var nivåene i denne modellen til å begynne med:
+
+               1) Manøvreringsnivå (manøvrering av kjøretøyet)
+               2) Taktisk nivå (handlingsvalg i trafikale situasjoner)
+               3) Strategisk nivå (valg ved reiser/ turer og forhold knyttet til reiser/ turer)
+               4) Overordnet nivå (generelle handlings- og vurderingstendenser og måter å se verden på)
+
+            I 2010 ble modellen utvidet med et femte nivå som inkluderer faktorer i førerens sosiale miljø. Disse
+            faktorene består blant annet av kultur, normer og verdier som igjen reflekteres i trafikklovgivning og
+            -overvåkning. Den framstilles nå slik:
+
+
+
+               Sosialt miljø (for eksempel kultur, lovgivning, regelhåndheving, subkultur,
+               gruppeverdier og normer)
+
+
+                  Generelle handlings- og vurderingstendenser og måter å se verden
+                  på (for eksempel livsstil, motiv, verdier, selvkontroll, vaner og helse)
+
+                     Valg ved reiser og forhold knyttet til reiser (for eksempel valg av
+                     reisemåte og planlegging av reisetidspunkt)
+
+                        Handlingsvalg i trafikale situasjoner (for eksempel regler- og
+                        reguleringer, trafikale ferdigheter og sikkerhetsmarginer)
+
+                           Manøvrering av kjøretøyet (for eksempel tekniske kjøreferdigheter,
+                           veggrep og fartstilpasning)
+
+            Figur 1. GDE- modellen.
+
+
+            Selv om nivåene er kvalitativt forskjellige og holdes atskilt i matrisen, er de ikke uavhengige av hverandre.
+            Alle nivåene er til stede når det foreligger en situasjon under kjøringen, og en fører trenger kunnskaper
+            og ferdigheter innen hvert av de fem nivåene.
+
+            De kognitive strukturene som utgjør fjerde nivå, det personlige nivået, gir grunnlaget for hvordan
+            personen generelt forholder seg i livet, så vel som i trafikken spesielt. Disse er derfor mer stabile og
+            grunnleggende enn de tre underleggende nivåene, som på sin side er mer områdespesifikke og
+            underordnet.
+
+            I utgangspunktet tenker en at høyere nivå kontrollerer og leder atferden på lavere nivå. Denne kontrollen
+            er likevel ikke en enkel prosess ovenfra og ned, fordi den hele tiden blir avveid mot tilbakemeldingene
+            fra selve handlingen.
+
+            Nivåene er til en viss grad gjensidig avhengige, slik at endringer på ett nivå fører til endringer i de andre
+            nivåene. Gjensidig avhengighet er imidlertid ikke det samme som likhet. Ikke minst er det viktig å være
+
+
+
+
+12
+                                                                   GENERELL DEL :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+bevisst på forholdet mellom det personlige fjerde nivået og det femte sosiale. Individet har sine personlige
+mål og søker blant annet etter bekreftelser, samtidig som det sosiale påvirker og former. Når læreren
+skal tilrettelegge for at eleven skal kunne utvikle seg til å bli en ansvarlig fører, er det derfor viktig å se
+på mulighetene for tilbakemelding på tanker og atferd. Tilbakemeldinger kan komme på ulike måter fra
+lærer, foreldre, jevnaldrende, vegen, politiet og, ikke minst, eleven selv. Det er derfor viktig å legge til
+rette for at eleven utvikler evne til selvvurdering.
+
+Ferdigheter som tas i bruk, og valg som tas på lavere nivå, påvirkes av egenskapene på høyere nivå.
+Dette er essensen av skillet mellom det føreren kan gjøre, og det han er villig til å gjøre. Uansett hvor mye
+sikkerhetsrelatert kunnskap føreren har, er resultatene av denne kunnskapen i siste omgang avhengig
+av om og hvordan kunnskapen blir brukt.
+
+Det er viktig å lære om hvilke faktorer som påvirker kjøringen på de ulike nivåene, når faktorene gir negativ
+effekt og å utvikle innsikt i hvordan en selv forholder seg til eller står i forhold til faktorene.
+
+
+
+Gjennomgående temaer
+Føreropplæringen i alle klasser har sju gjennomgående temaer.
+
+
+Lover, regler og trafikken som system
+Elevene må helt fra starten av opplæringen reflektere over det sammensatte system kjøring i trafikk er,
+og hvilket ansvar den enkelte fører har.
+
+Før elevene begynner å kjøre i trafikken, må de tilegne seg forståelse for
+   - lover og regler som styrer samhandlingen mellom trafikanter
+   - trafikken som system
+   - førerens rolle i dette systemet
+
+Elevene skal bruke denne forståelsen til å ordne og tolke inntrykkene de får under den trafikale treningen.
+
+
+Kjøreteknisk ferdighet
+En annen forutsetning for effektiv læring under kjøring i trafikk, er at eleven har gode kjøretekniske
+ferdigheter. En elev som må konsentrere seg om giring, bremsing og styring under den trafikale treningen,
+vil oppfatte lite av atferden til andre trafikanter. Det er derfor viktig at elevene har fått så mye kjøreteknisk
+trening at grunnleggende handlinger er tilstrekkelig automatisert før den trafikale treningen begynner.
+
+
+Trafikal ferdighet
+Trafikal ferdighetstrening utgjør vanligvis den mest omfattende delen av opplæringen. Elevene skal
+gradvis lære seg å samhandle med andre trafikanter. Kunnskap om lover og regler og god kjøreteknisk
+ferdighet er en forutsetning for effektiv trafikal trening. De erfaringene kjøretreningen gir, er viktige for
+at eleven skal få innsikt i egne handlinger og vurderinger.
+
+
+Økonomisk og miljøvennlig kjøring
+For å kjøre økonomisk og miljøvennlig, må elevene vite hva som kjennetegner slik kjøring, og ha utviklet
+ferdigheter og vilje til å praktisere slik kjøring. I opplæringen må elevene tilføres kunnskap og ferdigheter,
+og få anledning til å utvikle gode holdninger til miljøet og til miljøvennlig kjøring. Temaet bør tas opp tidlig
+i opplæringen. Det må knyttes til den praktiske kjøringen, og særlig til den kjøretekniske og trafikale
+treningen. Temaet vil derfor være aktuelt gjennom størstedelen av opplæringen.
+
+
+
+
+                                                                                                                    13
+V851 L ÆREPL AN FØRERKORTKL A SSER :: GENERELL DEL
+
+
+
+
+            Planlegging og forberedelse før kjøring
+            Temaet omhandler valg føreren må ta før kjøreturen (for eksempel neste dag). Føreren må ha gode rutiner
+            med hensyn til ernæring, søvn, alkohol, valg av reiserute og planlegging av reisetidspunkt.
+
+            Temaet passer best til teoretisk opplæring og diskusjon, og bør vektlegges mest i den avsluttende delen
+            av opplæringen. Det er også mulig å praktisere deler av dette temaet under den trafikale treningen, og
+            da særlig når elevene skal kjøre selvstendig.
+
+
+            Handlings- og vurderingstendenser
+            Kunnskap om hvordan handlings- og vurderingstendenser hos føreren kan virke inn på kjøreatferden,
+            hører med til føreropplæringen. Elevene må gjennom hele opplæringen, men særlig i den trafikale
+            ferdighetstreningen, få øving i å reflektere over egne handlings- og vurderingstendenser for å få en
+            dypere forståelse av det å ferdes i trafikken. Temaet bør særlig legges vekt på i starten og i avslutningen
+            av opplæringen.
+
+
+            Selvinnsikt
+            Eleven skal gjennom opplæringen utfordres til å reflektere over egen kompetanse, egne handlings- og
+            vurderingstendenser og hvordan disse virker inn på kjøreatferden. I begynnelsen av opplæringen hører
+            denne kunnskapen med til det bakteppet eleven bør se opplæringen mot. Mot slutten av opplæringen,
+            når eleven har fått en mer variert kjøreerfaring og en dypere forståelse av det å kjøre, har eleven fått et
+            annet grunnlag for å reflektere over betydningen av egne handlings- og vurderingstendenser. Denne
+            innsikten er en viktig ballast når eleven skal kjøre på egen hånd.
+
+
+
+            Opplæringen
+            Trinnvis opplæring
+            Føreropplæringen har fire trinn. Målene for trinn 1- 3 angir forutsetningene for å ha et godt utbytte av
+            opplæringen på det neste trinnet, og det er derfor viktig at eleven i all hovedsak har nådd målene i et
+            trinn før opplæringen i neste trinn påbegynnes. Det er kjøreferdigheten som avgjør hvilket trinn eleven
+            befinner seg i.
+
+                                                                                                        Førerprøve
+                                                                                    Trinn 4
+                                                                                   Avsluttende
+                                                                                   opplæring
+                                                              Trinn 3
+                                           Trinn 2           Trafikal del
+                                      Grunnleggende
+                                        kjøretøy- og
+                 Trinn 1             kjørekompetanse
+                Grunnkurs
+
+
+            Figur 2. Trinnvis opplæring.
+
+
+
+            Målene for trinn 1–4 angir samlet den kompetansen som er nødvendig for å nå hovedmålet. Innholdet i
+            hvert trinn forutsettes videreført og videreutviklet i neste trinn. For å sikre en hensiktsmessig progresjon
+            må de sju temaene vektlegges på ulike tidspunkt i opplæringen.
+
+
+
+14
+                                                                    GENERELL DEL :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+                                                     Trinn 1          Trinn 2         Trinn 3      Trinn 4
+
+ Selvinnsikt
+
+
+
+ Handlings- og vurderingstendenser
+
+
+
+ Planlegging og forberedelse
+
+
+
+ Økonomisk og miljøvennlig kjøring
+
+
+
+ Trafikal ferdighet
+
+
+
+ Teknisk kjøreferdighet
+
+
+
+ Lover, regler og trafikken som system
+
+
+Figur 3. Relativt omfang av opplæring innen de ulike tema og inndelingen av opplæringen i trinn.
+
+
+
+Moduler
+For å unngå at en elev som ønsker førerkort i flere klasser må gå gjennom det samme lærestoffet flere
+ganger, er opplæringssystemet modulbasert. I de lette klassene viser dette seg først og fremst gjennom
+at trafikalt grunnkurs er en felles modul for alle klasser. For de tunge klassene er de fleste obligatoriske
+kursene felles for flere klasser.
+
+
+Obligatoriske kurs
+Føreropplæringen skal bidra til at elevene får førerkompetanse. Etter endt opplæring skal eleven ha de
+kunnskaper, ferdigheter, holdninger og den motivasjon som er nødvendig for å kjøre i samsvar med
+hovedmålet.
+
+Noen av opplæringsmålene som skal bidra til denne kompetansen, er vanskelig eller svært tidkrevende
+å vurdere ved en førerprøve. For å sikre at disse emnene likevel får plass i opplæringen, er det fastsatt
+obligatoriske kurs. Eleven må da følge undervisningen i et bestemt antall timer. I kursene vektlegges
+øvelser som av sikkerhetsmessige, praktiske eller økonomiske årsaker er vanskelige å gjennomføre på
+egenhånd, samt tema som risikoforståelse, systemforståelse og andre emner som i stor grad har med
+holdninger til trafikksikkerhet å gjøre.
+
+
+
+
+                                                                                                                   15
+V851 L ÆREPL AN FØRERKORTKL A SSER :: GENERELL DEL
+
+
+
+
+            Obligatorisk trinnvurdering
+            Når kunnskaper og ferdigheter kan måles uten for store problemer, vil det som oftest være hensiktsmessig
+            å fastsette krav om en vurdering, framfor et krav om at eleven skal ha deltatt i et bestemt antall
+            undervisningstimer. Vurderingen skjer først og fremst ved førerprøven. Selv om eleven på denne måten
+            har stor frihet til å velge et eget opplæringsløp fram til førerprøven, er det ønskelig at opplæringen har
+            en god struktur og progresjon. Dels for å bidra til dette, dels for å støtte elevens læring og utvikling av
+            selvinnsikt og evne til å vurdere egne sterke og svake sider, er det fastsatt at eleven skal gjennomføre
+            to obligatoriske trinnvurderinger i løpet av opplæringen.
+
+            I disse timene skal eleven, med utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene
+            for trinnet er nådd og om grunnlaget for videre opplæring er tilstrekkelig. Læreren skal gi eleven en
+            tilråding i spørsmålet om eleven har den kompetansen som er nødvendig for å få et godt utbytte av
+            opplæringen i neste trinn. Trinnvurderingen skal vare 45 minutter og inneholde før- og ettersamtale,
+            i tillegg til praktisk kjøring. Hensikten med før- og ettersamtalen er å veilede eleven i forhold til faglig
+            ståsted og videre læreprosess.
+
+            Eleven kan selv velge om lærerens tilrådning skal følges. Hvis læreren anbefaler at eleven skal øve mer
+            i trinn 2 eller 3, stilles det ikke krav om ny trinnvurdering når denne øvingen er gjennomført. Først ved
+            gjennomføring av den praktiske obligatoriske opplæringen kan en elev avvises. Forskrifta fastsetter
+            at trafikklæreren skal avvise eleven hvis det oppstår tvil om han har tilstrekkelige kjøreferdigheter til å
+            gjennomføre den praktiske obligatoriske opplæringen på en meningsfull måte.
+
+            For at trinnvurderingen skal fungere etter intensjonen, må videre opplæring være avhengig av hvilken
+            vurdering elev og lærer gjør i løpet av eller ved utgangen av timen. En bør unngå å begrense dette
+            valget ved for eksempel å bestemme at sikkerhetskurs på øvingsbane skal gjennomføres samme dag
+            som trinnvurderingen.
+
+
+
+            Arbeidsmåter
+            Undervisningen skal legges opp på en slik måte at elevene utvikler evne til refleksjon, til å ta andres
+            perspektiv og til å samarbeide i trafikken. Den skal påvirke elevenes bevissthet, oppfatning og holdning
+            til risiko, vilje til å ta ansvar og forholdsregler og til å velge kjøremåter som reduserer risikoen for uhell
+            og ulykker. Det har mindre betydning hvor langt læreren er kommet i sitt undervisningsopplegg, hvis
+            eleven ikke har kommet like langt i sin læring. Det skal legges vekt på å benytte arbeidsmåter som gjør
+            elevene til aktive deltakere.
+
+            Læreplanen legger føringer for at opplæringen skal være preget av aktiv elevmedvirkning gjennom
+            erfaringsutveksling og dialog. Ofte vil det være hensiktsmessig at læreren legger opp til en
+            problemorientert undervisning. Dette innebærer at læreren forbereder konkrete problemstillinger som
+            elevene skal drøfte og ta stilling til. Oppgavene skal utformes fra hovedmålene for det enkelte tema, og
+            læreren må ha lagt en plan for tema, aktiviteter og oppsummering. Aktivitetene må være relativt tydelig
+            lærerstyrt, ved at læreren hele tiden vurderer elevenes evne til å nå målet med dem.
+
+
+            Individuell tilpasning av undervisningen
+            Behovet for opplæring vil variere. Noen elever har allerede førerkort og kjøreerfaring i en annen
+            førerkortklasse. Muligheten for privat øvingskjøring vil også variere. Ved planlegging av opp-
+            læringsforløpet må læreren ta hensyn til den enkelte elevs erfaringsbakgrunn og måte å tilegne seg
+            lærestoffet på. Organisering, valg av aktiviteter og spørsmålsstilling skal i alle delene av opplæringen
+            tilpasses elevenes ulike behov og forutsetninger slik at de får et godt læringsutbytte.
+
+
+
+
+16
+                                                                GENERELL DEL :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+Mål i føreropplæringen
+Målene indikerer hvilken retning en ønsker eleven skal utvikle seg i. Hvordan målene formuleres legger
+rammer for lærerens undervisning og elevens læring.
+
+Skillet mellom ikke- obligatorisk og obligatorisk opplæring er forsøkt tydeliggjort gjennom bruken av verb.
+
+For de ikke- obligatoriske delene er det i hovedsak brukt produktmål som beskriver kunnskaper og
+ferdigheter eleven skal sitte igjen med når undervisningen er over. Måloppnåelsen kan i stor grad vurderes
+på førerprøven. Eksempler på verb som blir brukt er beskrive, gjøre rede for, mestre og beherske.
+
+Verbene som blir brukt for de obligatoriske delene er i hovedsak utformet som prosessmål. Disse er
+knyttet til emnene som ikke er så lett å vurdere utbyttet av. Verbene gir føringer for hva eleven skal gjøre
+eller delta på i undervisningen, for eksempel oppleve, erfare og videreutvikle.
+
+Skillet mellom ikke-obligatorisk og obligatorisk opplæring er ikke alltid skarpt. Det kan også være en
+forventning om et målbart utbytte når det gjelder obligatoriske deler. I visse sammenhenger er derfor
+verb som for eksempel vite og beherske brukt også i målene for disse.
+
+
+
+
+                                                                                                               17
+V851 L ÆREPL AN FØRERKORTKL A SSER :: GENERELL DEL
+
+
+
+
+18
+                                                     OPPL ÆRINGEN I KL A SSE B :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+2         Opplæringen i klasse B
+
+    Hovedmål for opplæringen jf. § 11-1
+    Etter å ha gjennomført trafikkopplæringen i klasse B skal eleven ha den kompetansen som
+    er nødvendig for å kjøre bil på en ansvarlig måte.
+
+    Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er
+    nødvendig for å kjøre på en måte som:
+    - er trafikksikker
+    - gir god samhandling
+    - fører til god trafikkavvikling
+    - tar hensyn til helse, miljø og andres behov
+    - er i samsvar med gjeldende regelverk
+
+
+
+Trinnvis opplæring
+Opplæringen i klasse B har 4 trinn. Målene i ett trinn angir forutsetningene for å ha et godt utbytte av
+undervisningen i det neste trinnet. Læringsmomentene i hvert trinn forutsettes videreført i neste trinn.
+Målene for trinn 1–4 angir samlet den kompetansen som kreves for å få førerett i klasse B.
+
+
+Trinn 1
+I trinn 1 er målene hovedsakelig rettet mot elevens risikoforståelse og trafikksystemet. Opplæringen
+består av trafikalt grunnkurs. Kurset er felles for alle de lette klassene. Det skal bidra til at eleven får en
+grunnleggende forståelse for hva førerrollen og førerdyktighet innebærer. Kurset omfatter bl.a. førstehjelp
+og å være trafikant i mørket.
+
+
+Trinn 2
+I trinn 2 skal eleven lære å mestre bilen rent kjøreteknisk, uten å måtte rette oppmerksomheten mot
+andre trafikanter. God kjøreteknisk ferdighet er nødvendig for å få utbytte av treningen i trinn 3, og vil
+også innebære at kjøringen er økonomisk og mest mulig miljøvennlig. Eleven skal tilegne seg kunnskap
+om kjøretøyet og bilføreransvaret i tillegg til grunnleggende kunnskap om mennesket og vegen. Det er
+ikke fastsatt minste timetall for opplæringen i dette trinnet. Omfanget av undervisningen må tilpasses
+elevens forutsetninger og muligheter for øvingskjøring.
+
+Mot slutten av trinnet skal eleven gjennomføre en trinnvurdering i samsvar med § 7-5. Eleven skal, med
+utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget
+for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den
+kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+
+
+Trinn 3
+I trinn 3 er målene rettet mot elevens læring av trafikale ferdigheter i varierte veg- og trafikkmiljø. Kunnskap
+om aktuelle bestemmelser i vegtrafikklovgivningen inngår. Ved avslutningen av trinn 3 skal eleven kjøre
+selvstendig og ha et prestasjonsnivå nær kravene til å bestå førerprøven. Det er ikke fastsatt minste
+timetall for opplæringen i dette trinnet. Undervisningen må tilpasses elevens erfaringsbakgrunn og
+muligheter for øvingskjøring.
+
+
+
+
+                                                                                                                   19
+V851 L ÆREPL AN FØRERKORTKL A SSER :: OPPL ÆRINGEN I KL A SSE B
+
+
+
+
+            Mot slutten av trinnet skal eleven gjennomføre en trinnvurdering i samsvar med § 7-5. Eleven skal, med
+            utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget
+            for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den
+            kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+
+            Sikkerhetskurs på øvingsbane er obligatorisk for alle som skal ha førerett i klasse B. Kurset skal bidra til at
+            eleven videreutvikler kompetanse til å unngå ulykker, bl.a. gjennom øving som ikke kan gjennomføres på
+            veg. Kurset gjennomføres mot slutten av trinn 3, unntaksvis i tilknytning til sikkerhetskurs på veg i trinn 4.
+
+
+            Trinn 4
+            Målene i trinn 4 er hovedsakelig rettet mot elevens risikoforståelse og selvinnsikt, slik som i trinn 1.
+            En viktig forutsetning er at emnene risikoforståelse, kunnskap om regler og trafikken som system
+            utdypes gjennom hele opplæringen, selv om disse temaene vektlegges spesielt i starten og slutten
+            av opplæringen.
+
+            Sikkerhetskurs på veg er obligatorisk for alle som skal ha førerett i klasse B. Kurset skal bidra til at eleven
+            videreutvikler kompetanse til å unngå ulykker, bl.a. gjennom selvstendig øving på veg.
+            Den obligatoriske opplæringen alene er vanligvis ikke nok til å nå fram til hovedmålet for opplæring til
+            førerkort klasse B. I tillegg må det suppleres med tilstrekkelig øving gjennom opplæring ved trafikkskole,
+            øvingskjøring eller begge deler.
+
+
+            Gjennomføring av opplæringen og læringsutbytte
+
+            Det er grunn til å tro av de fleste vil ha best utbytte av å fordele føreropplæringen over tid. Fordelt
+            opplæring vil gi anledning til bl.a. modning og privat øving både mellom vanlige kjøretimer og mellom
+            obligatoriske deler. Det vil også gi bedre anledning til å nå målet når det gjelder mørkekjøring, og til å
+            få erfaring fra kjøring på alle slags føre. Ikke minst vil det gjøre det lettere å unngå for stort fravær fra
+            arbeidsplass eller skole samtidig som en ønsker å gjennomføre føreropplæringen. Forskning tyder på at
+            de som har omfattende kjørerfaring, er mindre ulykkesutsatt den første tiden etter at de har fått førerkort.
+            Omfattende privat øving, mengdetrening, anbefales, spesielt etter gjennomføring av sikkerhetskurs
+            på veg.
+
+            Se også kommentarene til trinn 4 når det gjelder tidspunkt for gjennomføring av sikkerhetskurs på veg.
+
+
+
+
+20
+           T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+3         Trinnmål, kursmål, delmål
+          og aktuelt innhold i klasse B
+Trinn 1 Trafikalt grunnkurs
+Gjennom opplæringen i trinn 1 skal eleven utvikle en grunnleggende forståelse for hva bilkjøring
+innebærer.
+
+    Mål for trinn 1 jf. § 11-2
+    Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt
+    utbytte av videre opplæring.
+
+    Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å
+    øvingskjøre.
+
+Opplæringen i trinn 1 er obligatorisk og består av trafikalt grunnkurs, jf. trafikkopplæringsforskriften kap.
+8. Kurset er felles for alle førerkortklasser og er grunnlaget for videre opplæring og vilkår for å kunne
+øvingskjøre. Målene er hovedsakelig rettet mot elevens risikoforståelse og trafikksystemet.
+
+Kurset har følgende deler:
+Del 1 Trafikkopplæringen
+Del 2 Trafikk og førerrollen
+Del 3 Mennesket i trafikken og samhandling
+Del 4 Trafikkopplæring, øvingskjøring og kjøreerfaring
+Del 5 Plikter ved trafikkuhell og førstehjelp
+Del 6 Tiltak ved trafikkulykke
+Del 7 Trafikant i mørket
+
+Delene har fastsatte mål. Aktuelt innhold som er oppført under hver del, viser hva undervisningen bør
+omfatte.
+
+Kurset er på i alt 17 undervisningstimer, fordelt over minst 5 samlinger, og kan gjennomføres med inntil
+16 elever, jf. § 8-1 tredje ledd. Det er adgang til å ta med inntil 2 elever i tillegg på deler av kurset, dersom
+disse har hatt forfall ved deler av tidligere kurs. Alternativt kan 2 elever som faller inn under unntakene
+i § 8-2 første ledd bokstavene b), c) eller d) tas i tillegg til de 16 elevene under opplæring i plikter ved
+trafikkuhell og førstehjelp.
+
+Det skal være 4 timer undervisning om plikter ved trafikkuhell og førstehjelp, jf. § 8-1 fjerde ledd. Av dette
+skal 1 time brukes til praktisk øving i forbindelse med en arrangert ulykke.
+
+Det skal være 3 timer undervisning om å være trafikant i mørket, jf. § 8-1 femte ledd. Minst 1 time skal
+være utedemonstrasjon på et område med liten eller ingen trafikk. Denne delen kan gjennomføres med
+inntil 6 elever per lærer. Minst 1 time skal være demonstrasjon i bil på veg i reelle trafikksituasjoner med
+elevene som passasjerer. Denne delen kan gjennomføres med inntil 2 elever i bilen. Resterende tid
+disponeres til forventninger, mål, oppsummering og refleksjon med medelever og lærere i klasserom.
+Øvrig undervisning skal være 10 timer og fordeles jevnt over 3 samlinger. Det kan gjennomføres bare
+en samling i trafikalt grunnkurs per dag, jf. § 8-1 sjuende ledd.
+
+Undervisningen i førstehjelp skal gjennomføres av kvalifisert personell godkjent av Norsk Førstehjelpsråd.
+
+
+
+
+                                                                                                                                                               21
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   For å få godkjent trafikalt grunnkurs, må eleven ha deltatt i alle timene som hører med til kurset. Hvis en
+                   elev har forfall fra deler av det, må det legges til rette for at timene kan tas igjen på tilsvarende kurs senere.
+
+                   Før øvingskjøring kan begynne, må trafikalt grunnkurs være fullført. Trafikalt grunnkurs avsluttet i perioden
+                   16. mars – 31. oktober gir likevel rett til å øvingskjøre 16. mars – 31. oktober, jf. § 2-1 andre ledd.
+
+                        Mål for trafikalt grunnkurs jf. § 8-3
+                        Eleven skal gjennom opplevelser, aktiviteter og oppsummeringer bli bevisst på hva som menes
+                        med at enhver skal ferdes hensynsfullt, og være aktpågivende og varsom så det ikke kan
+                        oppstå fare eller voldes skade, og slik at annen trafikk ikke unødig blir hindret eller forstyrret,
+                        jf. vegtrafikkloven § 3.
+
+                     Eleven skal
+                     1. kjenne til formelle begrunnelser for at vi har trafikkopplæring, vilkår for å få førerkort og at
+                   		 det finnes læreplaner for trafikkopplæring
+                     2. ha grunnleggende forståelse for trafikk og førerrollen ved å
+                   		 a. bli bevisst hvordan regler om plassering, fart, vikeplikt, skilt og vegoppmerking og
+                   			 andre former for regulering og styring bidrar til sikrere og mer effektiv trafikkavvikling
+                   		 b. drøfte samfunnets behov og miljømessige konsekvenser av vegtrafikken
+                   		 c. bli bevisst ansvaret føreren har for å velge andre måter å reise på enn ved eget kjøretøy,
+                   			 eller å la være å reise, om dette er det beste for en selv, eventuelle passasjerer, miljø m.m.
+                     3. videreutvikle sin kunnskap om mennesket i trafikken ved å
+                   		 a. drøfte ulike trafikantgruppers forutsetninger, behov og perspektiv
+                   		 b. beskrive vesentlige elementer i kjøreprosessen og bli bevisst betydningen av motivasjon
+                   			 og følelser
+                   		 c. forstå betydningen av kommunikasjon og samhandling
+                   		 d. bli bevisst hvilken betydning ansvarsforståelse, selvinnsikt og vilje har for hvordan vi
+                   			 handler i trafikken
+                     4. ha kunnskap om betydningen av trafikkopplæring ved å
+                   		 a. kjenne til reglene for øvingskjøring
+                   		 b. drøfte sammenhengen mellom kjøreerfaring og trafikkulykker
+                   		 c. forstå betydningen av automatisering av grunnleggende handlinger og handlingsmønstre
+                   		 d. drøfte føreropplæringsmodellen og hvordan opplæring ved trafikkskole og privat øving
+                   			 er nyttig og nødvendig for å nå målet for opplæringen
+                     5. beherske grunnleggende ferdigheter i forbindelse med trafikkulykker og førstehjelp ved å
+                   		 a. ha kunnskap om plikter ved trafikkuhell
+                   		 b. kjenne til rutiner for sikring av og opptreden på skadested
+                   		 c. kunne vurdere skadeomfang og øve på praktisk førstehjelp
+                     6. delta i redningsarbeidet ved en arrangert ulykke og gjennom denne
+                   		 a. oppleve å komme først til skadestedet, forstå viktigheten av å kjenne skadeomfanget
+                   			 før ulykken varsles og hvordan varsling gjøres
+                   		 b. øve på grunnleggende rutiner på skadestedet
+                   		 c. videreutvikle den praktiske ferdigheten i grunnleggende livreddende førstehjelp
+                   			 ved trafikkulykker
+                     7. bli bevisst gjennom demonstrasjon ute og i bil hvordan trafikkulykker i mørket kan unngås
+                   		 ved å
+                   		 a. oppleve og erfare årsaksforhold ved typiske ulykker som skjer i mørket og ha grunnlag
+                   			 for å vurdere risiko ved kjøring i mørket
+                   		 b. drøfte hvordan vi som trafikanter kan opptre for å redusere risikoen ved ferdsel i mørket
+                   		 c. drøfte hva som er riktig lysbruk og atferd ellers ved kjøring, parkering og nødstopp i mørket
+
+                        Eleven skal vurdere sin egen kompetanse til å begynne videre opplæring, og ha så god
+                        forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+
+
+22
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta. Med tanke på
+å nå disse kan det, innenfor hver av de sju delene av trafikalt grunnkurs, arbeides med å nå flere mål
+samtidig, eller i annen rekkefølge, enn den som er fastsatt i forskrifta for vedkommende del, jf. §§ 7-1
+og 7-2.
+
+Aktuelt innhold i undervisningen
+I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+1.1 Trafikkopplæringen
+   Aktuelt innhold
+   - Presentasjon og introduksjon til kurset
+   - Begrunnelser for trafikkopplæring
+   - Vilkår for å få førerkort
+   - Hovedmål for trafikkopplæringen i lette klasser
+   - Læreplaner
+
+
+1.2 Trafikk og førerrollen
+   Aktuelt innhold
+   - Regler og reguleringer og betydningen av disse for sikker samhandling i trafikken
+   - Samfunnets behov
+   - Konsekvenser for miljøet
+   - Ansvaret føreren har for å vurdere om det er forsvarlig å kjøre
+   - Hensynet til en selv, passasjerer, miljø m.m.
+   - Fysisk og emosjonell tilstand
+   - Vær-, føre- trafikk- og andre forhold
+   - Alternative reisemåter
+
+
+1.3 Mennesket i trafikken og samhandling
+   Aktuelt innhold
+   - Forutsetninger, behov og perspektiv barn og eldre har
+   - Forutsetninger, behov og perspektiv mopedister og motorsyklister har
+   - Forutsetninger, behov og perspektiv førere av store og tunge kjøretøyer har
+   - Kjøreprosessen
+   - Betydningen av motivasjon og følelser for atferd og læring
+   - Kommunikasjon og samhandling mellom trafikanter
+   - Tolking av trafikksituasjoner
+   - Ansvarsforståelse og vilje til å overholde regler
+   - Ulykker, menneskelig svikt og føreres feilvurdering
+   - Eget forhold til risiko
+   - Selvinnsikt
+
+
+1.4 Trafikkopplæring, øvingskjøring og kjøreerfaring
+   Aktuelt innhold
+   - Regler for øvingskjøring
+   - Kjøreerfaring og ulykkesrisiko
+   - Automatisering av handlinger og handlingsmønstre
+   - Sammenheng mellom opplæring, øvingskjøring og mengdetrening
+   - Intensjonene i føreropplæringsmodellen
+
+                                                                                                                                                             23
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   1.5 Plikter ved trafikkuhell og førstehjelp
+                     Aktuelt innhold
+                     - Plikter etter vegtrafikkloven til å stanse og hjelpe mennesker og dyr som er kommet til
+                   		 skade m.m.
+                     - Rutiner for sikring av og opptreden på skadested
+                     - Vurdere skadeomfang
+                     - Meldeplikt, også ved skade på dyr
+                     - Grunnleggende førstehjelp og praktiske øvinger
+
+
+                   1.6 Tiltak ved trafikkulykke
+                        Aktuelt innhold
+                        - Først på skadested
+                        - Sikring
+                        - Vurdere skadeomfang
+                        - Varsling
+                        - Opptreden på skadested
+                        - Redningsarbeid
+                        - Grunnleggende førstehjelp ved trafikkulykker
+
+
+                   1.7 Trafikant i mørket
+                        Aktuelt innhold
+                        - Mørkeulykker og årsaker
+                        - Siktstrekninger
+                        - Risikofaktorer ved å ferdes i mørket
+                        - Klær og refleksutstyr
+                        - Hensiktsmessig lysbruk
+                        - Hensiktsmessig tilpassing av fart og plassering
+                        - Hensiktsmessig atferd ellers ved ferdsel i mørket
+
+
+                   Kommentarer til trafikalt grunnkurs:
+                   Vegen er en viktig samfunnsarena for mange mennesker. Arbeidet med sosiale ferdigheter må
+                   derfor videreføres i trafikkopplæringen. Det trafikale grunnkurset skal bidra til å bygge opp om
+                   førerkortkandidatene som ansvarlige førere. Målene for kurset har generell gyldighet og de befinner seg
+                   ofte på et mer overordnet nivå. Kurset skal i liten grad inneholde lærestoff som kan leses på egen hånd.
+                   Fokus skal rettes mot forståelsen av trafikken som system, med aktører som har ulike forutsetninger, mot
+                   forhold som påvirker risikoen, mot førerens ansvar og betydningen av selvinnsikt og selvkritisk vurdering.
+
+                   Det er flere grunner til å ha et trafikalt grunnkurs
+                     - Det er viktig at en tidlig i opplæringen fokuserer på forhold som påvirker risikoen og
+                   		 betydningen av selvinnsikt og selvkritisk vurdering.
+                     - Det er hensiktsmessig å samle en del lærestoff som er felles for alle lette klasser slik at
+                   		 personer som skal ta førerkort for flere klasser, slipper å gå gjennom samme lærestoff flere ganger.
+                     - Det er viktig å gi elevene grunnleggende forståelse av trafikk før de begynner å øvingskjøre, slik
+                   		 at de både har et riktigere perspektiv på det å kjøre og har et grunnlag som letter innlæringen
+                   		senere.
+
+                   Mange av emnene som tas opp i det trafikale grunnkurset, forutsettes å bli videreført i den enkelte
+                   førerkortklassen. Dette gjelder bl.a. emner som grensesetting, selvinnsikt, empati, forhold til risiko mv.
+
+
+
+
+24
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Tidsperspektivet
+Utvikling og læring av sosial kompetanse er en omfattende prosess som skjer over lang tid. Læreren må
+bygge på den sosiale kompetansen elevene har, og legge til rette for at elevene forstår at det i trafikken
+er behov for regler om fartstilpassing, vikeplikt, plassering, tegngivning osv. Enkelte trafikkregler, skilt
+mv. kan brukes som illustrasjon i forbindelse med et emne som tas opp.
+
+Innhold
+Ved fastsettelse av hvilket lærestoff som skal være obligatorisk, er det særlig tatt to hensyn. Det første
+er om opplæringen av praktiske grunner er vanskelig å gjennomføre på egen hånd. Det andre er om
+måloppnåelsen er vanskelig å vurdere ved førerprøven. For mer grundig gjennomgang av regelverket
+hvor faktastoffet vektlegges i større grad, skal trafikklæreren henvise til lærebøker, klassespesifikk
+teoriundervisning mv. Faktastoff er viktig, og elevene skal motiveres for å oppsøke kunnskapen. Likevel
+er det en kjensgjerning av fartsovertredelser, risikofylte forbikjøringer, ulykker mv. oftere er forårsaket
+av manglende forståelse for regelverket enn manglende kunnskap om reglene.
+
+Undervisningen kan også legges til reelle situasjoner i trafikken, for eksempel i form av demonstrasjoner,
+praktiske observasjoner, praktisk kjøring med elevene som passasjerer e.l.
+
+Skolene står fritt til å utvide kurset. Det må da presiseres overfor elevene at den obligatoriske delen
+består av 17 timer.
+
+I tilknytning til Del 4 Trafikkopplæring, øvingskjøring og kjøreerfaring oppfordres skolene til å invitere
+personer som skal bistå elevene ved øvingskjøring. Gjennom denne delen skal elevene og foreldre/
+ledsagere skaffe seg kunnskap om regler for og betydningen av øvingskjøring, og forstå sammenhengen
+mellom kjøreerfaring og ulykkesrisiko. Skolene kan også samarbeide med andre ressurspersoner (f.
+eks. fra Statens vegvesen). Temaet øvingskjøring gjennomgås når læreren er blitt kjent med elevene.
+Det frivillige tilbudet kan da lettere tilpasses elevenes behov.
+
+Det er viktig å skape en forståelse for betydningen av omfattende øving, mengdetrening, tidlig i
+opplæringen, og vektlegge betydningen av slik øving både utover i læringsprosessen og etter endt
+formell opplæring. Begrepet mengdetrening blir brukt om å trene mye på noe som det allerede er gitt
+opplæring i, og er øvd på.
+
+Ved gjennomføring av Plikter ved trafikkuhell og Tiltak ved trafikkulykke er det viktig at alle elevene
+aktiviseres. Det anbefales at instruktøren har med seg en hjelpeinstruktør.
+
+
+Undervisningen
+Problemorientert undervisning
+Læreren bør legge til rette for problemorientert undervisning. Dette innebærer at læreren må forberede
+konkrete problemstillinger slik at diskusjonene fører fram til bestemte resultater. Oppgavene utformes
+ut fra hovedmålene i leksjonene og lærer må ha lagt en plan for tema, aktiviteter og oppsummering.
+Elevene har allerede en del trafikal kompetanse ved å være fotgjengere, passasjerer og syklister. Mange
+har gode kunnskaper om trafikkregler, skilter, vegoppmerking, årsaker til ulykker, risikoforhold mv.
+Selv om noen har et mer likegyldig forhold til disse kunnskapene, skal oppgavene bygge på at elevene
+allerede har mye erfaring fra trafikken. Gode regler ved oppgaveutforming er å gå fra det kjente til det
+ukjente, fra det konkrete til det abstrakte.
+
+Problemorienterte arbeidsmåter med gruppearbeid og dialog anbefales, spesielt når det er tale om
+undervisning der arbeid med holdninger og motivasjon inngår. Når læreren skal velge metode, bør
+han bl.a. avveie følgende: I hvilken grad kan elevene på egen hånd komme fram til målet for emnet? I
+hvilken grad kan jeg gi en tydelig oppgave som elevene kan arbeide med selvstendig? I hvilken grad er
+denne oppgaven aktiviserende for alle, og vil gruppene trenge omtrent samme tid til å løse oppgaven?
+
+
+
+                                                                                                                                                             25
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   Det er viktig at elevene blir presentert for og opplever at de deltar på et helhetlig kurs med et gitt
+                   hovedinnhold. Kurset inneholder til dels lærestoff som er vanskelig for elevene, og det er viktig at de
+                   gis anledning til ettertanke og modning.
+
+                   Organisering
+                   I klasserommet bør elevene sitte slik at alle ser hverandre, noe som gjør det enklere å kommunisere
+                   med hverandre.
+
+
+
+
+26
+           T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Trinn 2 Grunnleggende kjøretøy- og kjørekompetanse
+Gjennom opplæringen i trinn 2 skal eleven lære å mestre bilen rent kjøreteknisk, uten å måtte rette
+oppmerksomheten mot andre trafikanter. God kjøreteknisk ferdighet er nødvendig for å få utbytte av
+treningen i trinn 3, og vil også innebære at kjøringen er økonomisk og mest mulig miljøvennlig. Eleven
+skal tilegne seg kunnskap om føreropplæringen, bilen, ansvar i tilknytning til bilkjøring og mennesket
+som trafikant. Kunnskapsstoffet skal bidra til at eleven lærer de kjøretekniske ferdighetene raskere og
+med mer forståelse, og til at eleven skal kunne ivareta førerens ansvar for kontroll og tilsyn med kjøretøyet.
+
+Det er ikke fastsatt minste timetall for opplæring på dette trinnet. Omfanget av undervisningen må
+tilpasses elevens forutsetninger og muligheter for øvingskjøring.
+
+Eleven skal gjennomføre en obligatorisk trinnvurdering mot slutten av trinn 2, jf. § 7-5.
+
+Innholdet i undervisningen forutsettes å bli videreført i trinn 3 og 4, samtidig som det er en del av
+grunnlaget for oppgavene som blir gitt ved førerprøven.
+
+   Mål for trinn 2 jf. § 11-3
+   Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha
+   godt utbytte av trafikal opplæring i trinn 3.
+
+   Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy
+   til trafikkbildet og samhandlingen med andre trafikanter.
+
+   Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper
+   og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke,
+   og oppdage mangler ved, bilen.
+
+  Eleven skal
+  1. gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen
+		 i klasse B
+  2. gjøre rede for bilens oppbygning med tanke på sikkerhet og miljø
+  3. gjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar,
+		 offentlige reaksjoner og plikter ved trafikkuhell
+  4. gjøre rede for kjøring med tilhenger
+  5. gjøre rede for menneskets kapasitet og trafikkens krav, herunder rus, rusmidler og bilkjøring
+  6. gjøre seg klar for kjøring
+  7. utføre igangsetting og stans, giring, styring, bremsing og rygging i variert terreng
+  8. beherske grunnleggende kjøretøybehandling i områder med liten trafikk
+  9. utføre aktuell sikkerhetskontroll av bilen.
+
+Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+som er fastsatt i forskrifta for vedkommende trinn eller del av kurs, jf. §§ 7-1 og 7-2.
+
+Aktuelt innhold i undervisningen
+I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+
+
+                                                                                                                                                               27
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   2.1 Førerkort og trafikkopplæring
+                     Aktuelt innhold
+                     - Førerkortklasser og vilkår for å få førerkort
+                     - Vilkår for å kunne øvingskjøre
+                     - Grunnregler for atferd i trafikken
+                     - Oversikt over opplæringen klasse B, som grunntanker, progresjon og fordeling
+                   		 av opplæringen over tid, måloppnåelse, risikoforståelse og selvvurdering
+
+
+                   2.2 Bilens oppbygning med tanke på sikkerhet og miljø
+                        Aktuelt innhold
+                        - Kjøretøyets aktive og passive sikkerhet
+                        - Førerstøttesystemer, funksjon og varslingsanordninger
+                        - Forsvarlig og forskriftsmessig stand
+                        - Sikkerhetskontroll
+                        - Bil og miljø
+                        - Økonomisk og miljøvennlig kjøring
+                        - Påbudt og tillatt lysutstyr og bruk av dette
+
+
+                   2.3 Eiers og brukers ansvar
+                        Aktuelt innhold
+                        - Førers og eiers ansvar, jf. også trafikalt grunnkurs og førerrollen
+                        - Registrering og eierforhold
+                        - Lasting og sikring av personer og last
+                        - Tauing av kjøretøy
+                        - Dokumenter
+                        - Forsikring og økonomisk ansvar
+                        - Offentlige reaksjoner
+                        - Plikter og tiltak ved trafikkuhell
+
+
+                   2.4 Kjøring med tilhenger
+                        Aktuelt innhold
+                        - Regler
+                        - Ansvar
+                        - Bremser
+                        - Sikring av last
+                        - Kjøreegenskaper, betydningen av sikkerhetskontroll
+
+
+                   2.5 Menneskets kapasitet og trafikkens krav
+                        Aktuelt innhold
+                        - Forholdet mellom trafikkens krav og menneskets kapasitet
+                        - Kjøreprosessen, bearbeiding av informasjon og automatisering
+                        - Fysisk og emosjonell tilstand, vær, føre, trafikk og andre forhold
+                        - Rus, rusmidler, tretthet og sykdom og andre faktorer som virker inn på føreren
+
+
+                   2.6 Gjøre klar for kjøring
+                        Aktuelt innhold
+                        - Sittestilling
+                        - Sikt
+
+
+
+28
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+   -   Bilbelte og hodestøtte
+   -   Start og stopp av motoren
+   -   Bruk av pedaler, gir, parkeringsbrems og andre betjeningsinnretninger
+   -   Passasjerer, last m.m.
+
+
+2.7 Grunnleggende bruk av bilen i variert terreng
+  Aktuelt innhold
+  - Rattgrep og bruk av rattet
+  - Observasjon og tegn ved igangsetting og stans
+  - Kontrollert og behagelig igangsetting og stans, på flat veg, i med- og motbakke
+		 med og uten parkeringsbrems
+  - Krypekjøring
+  - Sikring av bil
+  - Kort stans ny start på flat veg og i bakke
+  - Behagelig opp- og nedgiring på flat veg, i med- og motbakke
+  - Normalakselerasjon opp til 60 km/t
+  - Normalbremsing (1,5 – 2 m/s2) fra minst 60 km/t
+  - Stans ved angitt sted fra forskjellige hastigheter
+  - Hard nedbremsing for å kunne stanse foran en hindring
+  - Valg av riktig gir i forhold til fart
+  - Sving til høyre og venstre i vegkryss
+  - Sittestilling og sikt ved rygging
+  - Rygging rett bakover og i sving
+  - Snuing og parkering, ulike metoder, i enkelt miljø
+
+
+2.8 Grunnleggende kjøretøybehandling i områder med liten trafikk
+   Aktuelt innhold
+   - Funksjonell øving ved sammenhengende kjøring i områder med liten trafikk
+   - Økonomisk og miljøvennlig kjøring
+
+
+2.9 Sikkerhetskontroll
+Aktuelt innhold
+   - Lasteevne og kjøring med tilhenger
+   - Bremser
+   - Hjul og dekk
+   - Styring
+   - Lys
+   - Sikt
+   - Driftssikkerhet
+   - Sikkerhetsutstyr
+   - Varselinnretninger
+
+
+2.10 Trinnvurdering jf. § 7-5
+Trinnvurderingen gjennomføres mot slutten av trinn 2.
+
+
+Kommentarer til trinn 2
+Den praktiske opplæringen bør begynne i et område med liten eller ingen trafikk. I starten vil eleven ha
+behov for å bruke mye oppmerksomhet på de tekniske ferdighetene og annen trafikk vil kunne forsinke
+læringen av disse. Det har også stor betydning for at privat øvingskjøring skal være så sikker som mulig,
+at eleven har gode nok grunnleggende tekniske ferdigheter før øving i trafikk blir påbegynt.
+
+                                                                                                                                                             29
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   Læreplanen legger opp til at eleven under hele opplæringen skal vurdere sin egen kompetanse etter
+                   hvert som denne utvikles.
+
+                   Den obligatoriske trinnvurderingen gjennomføres mot slutten av trinnet. Hensikten med trinnvurderingen
+                   er å gi eleven anledning til selv å ta stilling til om målene for trinnet er nådd tilstrekkelig godt til at det er
+                   grunnlag for å ha utbytte av opplæringen i neste trinn. Læreren skal dessuten gi sin tilråding i spørsmålet
+                   om eleven har den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring. Det er
+                   viktig at eleven før gjennomføringen er forberedt og godt kjent med hensikten med trinnvurderingen
+                   og hvordan denne bli gjennomført. Eventuelle oppgaver og klargjøringer i forhold til gjennomføringen
+                   kan med fordel gis allerede ved innledningen til trinnet.
+
+                   Læreren skal legge til rette for at målene nås og velge undervisningsform tilpasset den enkelte elev og
+                   opplæringsinnholdet. Enkelte elever forstår lett hvordan en øvelse skal utføres gjennom forklaring, i
+                   andre tilfeller kan det være vel så effektivt at læreren demonstrerer. Ikke minst kan det siste være aktuelt
+                   i undervisning av fremmedspråklige.
+
+                   Det er viktig at både grunntankene i føreropplæringen, miljøkonsekvensene av bilbruk og prinsippet
+                   om delt ansvar som en av bæresøylene i 0-visjonsarbeidet, blir gjort tydelig for elevene.
+
+                   Førerkort klasse B gir innenfor visse rammer rett til å kjøre med tilhenger. Føreren må kjenne til hvordan
+                   tilhengeren påvirker bilens kjøreegenskaper, og bl.a. kunne gjennomføre nødvendig sikkerhetskontroll
+                   og sikring av last for å redusere risikoen for uhell i forbindelse med slik kjøring.
+
+                   Med kravet om at eleven skal beherske grunnleggende kjøretøybehandling menes at nivået skal være
+                   godt nok til at oppmerksomheten kan rettes mot trafikkbildet. Dette er en forutsetning for å ha godt
+                   utbytte av undervisningen i trinn 3. Dette betyr ikke at ferdighetene skal være så gode at det ikke er
+                   behov for videre utvikling av disse. Med videre øving vil nivået gradvis forbedres og automatiseres,
+                   noe det også blir stilt krav om i trinn 3 gjennom bl.a. mål om «å kjøre effektivt og behagelig, miljøvennlig
+                   og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter». De ulike delferdighetene
+                   trinnet består av, settes sammen i større helheter og anvendes i faktiske situasjoner i trafikken.
+
+                   Med aktuell sikkerhetskontroll menes at eleven skal kunne utføre sikkerhetskontroller som det er
+                   aktuelt for bilføreren å gjøre ut fra det ansvaret føreren er pålagt i regelverket. Målet vil være grunnlag
+                   for oppgaver ved førerprøven. Oppgavene vil så godt som alltid inneholde et praktisk element og et
+                   oppfølgingsspørsmål. Kandidaten må kunne kontrollere om et forhold er i orden eller ikke, og kunne
+                   si noe om årsaken til, eller konsekvensen av, en feil. Et eksempel kan være å avgjøre om bilen har
+                   riktige dekk i forhold til vognkortet, å kontrollere dekkene for skader, om mønsterdybden er tilstrekkelig,
+                   om luftrykket er riktig, kommentere slitasjen og årsaker til denne. Målet gir ikke grunnlag for å kreve
+                   omfattende kunnskap om dekktyper og dekkmerking som det ikke er rimelig at føreren vanligvis har. Det
+                   er viktig å bruke instruksjonsboka for bilen, bl.a. for å være sikker på hvordan en kontrollerer funksjonen
+                   på for eksempel kollisjonspute, ABS-bremser og andre førerstøttesystemer, og hvordan en skal handle
+                   ved varsel om feil ved slikt sikkerhetsutstyr. ”Driftssikkerhet” bør først og fremst omfatte kontroll av
+                   motorolje og drivstoff. Mangel på olje og drivstoff vil kunne føre til ufrivillig stans på steder der det er
+                   farlig, for eksempel i tunneler.
+
+                   Det er ikke fastsatt timetall for opplæringen i trinn 2. En kombinasjon av opplæring ved trafikkskole og
+                   privat øving og mengdetrening vil både være økonomisk og gi et godt læringsutbytte.
+
+                   Private ledsagere bør bli veiledet av trafikklæreren i hvordan målene skal forstås. Ledsageren bør også
+                   inviteres til å være tilstede i kjøretimer for å forstå hvordan opplæringen blir gjennomført. På den måten
+                   vil ledsageren bedre forstå betydning av å etablere riktige arbeidsvaner og hvorfor moment som for
+                   eksempel økonomisk og miljøvennlig kjøring er lagt inn allerede i starten av den praktiske opplæringen.
+                   Slik vil ledsageren kunne bidra til at øvingskjøringen blir et effektivt og godt supplement til opplæring
+                   ved trafikkskole. Et godt samarbeid mellom elev, trafikklærer og ledsager vil stimulere til mengdetrening
+                   med god kvalitet.
+
+30
+           T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Trinn 3 Trafikal del
+Gjennom opplæringen i trinn 3 skal eleven lære å beherske kjøring i variert trafikk. Eleven skal også
+tilegne seg kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen. Ved avslutningen av trinnet
+skal elevens ferdighet være slik at kjøringen er tilnærmet selvstendig.
+
+Det er ikke fastsatt minste timetall for opplæringen på dette trinnet. Undervisningen må tilpasses elevens
+erfaringsbakgrunn og muligheter for øvingskjøring.
+
+Sikkerhetskurs på øvingsbane er obligatorisk for alle som skal ha førerett i klasse B, og gjennomføres
+i samsvar med §§ 11-6 og 11-7 mot slutten av opplæringen på trinn 3, før eller etter trinnvurderingen.
+Unntaksvis kan kurset gjennomføres i tilknytning til kjøring i landevegsmiljø eller til kjøring i variert
+trafikkmiljø i sikkerhetskurs på veg, jf. § 11-8 tredje og fjerde ledd, når dette kan være fordelaktig for
+eleven. Det skal særlig tas hensyn til den totale undervisningsbelastningen og elevens læringsutbytte
+når undervisningen organiseres på denne måten.
+
+Eleven skal gjennomføre obligatorisk trinnvurdering mot slutten av trinn 3, jf. § 7-5 .
+
+Innholdet i trinn 3 forutsettes å bli videreført i trinn 4, samtidig som det vil være en del av grunnlaget for
+oppgavene som blir gitt ved førerprøven.
+
+   Mål for trinn 3 jf. § 11-4
+   Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for
+   å ha godt utbytte av avsluttende opplæring i trinn 4.
+
+   Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+   Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende
+   kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen
+   ferdighet til å kjøre i god samhandling med andre.
+
+  Eleven skal
+  1. gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetninger
+  2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+  3. gjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder
+		 kjøring i tunnel, og de regler som gjelder for bilkjøring
+  4. anvende systematisk og automatisert informasjonsinnhenting
+  5. mestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljø
+  6. mestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte
+		 og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbi
+  7. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+  8. mestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert
+		 trafikkmiljø i god samhandling med andre trafikanter.
+
+Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+som er fastsatt i forskrifta for vedkommende trinn eller del av kurs, jf. §§ 7-1 og 7-2.
+
+Aktuelt innhold i undervisningen
+I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+
+
+                                                                                                                                                              31
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   3.1 Trafikksystemet, trafikantgrupper og interessemotsetninger
+                        Aktuelt innhold
+                        - Trafikksystemet
+                        - Trafikantgrupper og interessemotsetninger
+                        - Miljøkonsekvenser av privatbilismen
+                        - Miljøvennlige transportløsninger
+
+
+                   3.2 Veg, vegoppmerking, skilt og annen regulering
+                        Aktuelt innhold
+                        - Definisjoner
+                        - Anlegg i vegen
+                        - Vegoppmerking (også i våre naboland)
+                        - Skilt
+                        - Lysregulering
+                        - Anvisninger
+
+
+                   3.3 Atferd i trafikken
+                     Aktuelt innhold
+                     - Vegtrafikklovgivningen
+                     - Grunnregler
+                     - Kommunikasjon og samhandling med andre trafikantgrupper som barn,
+                   		 eldre, motorsyklister og førere av store og tunge kjøretøy
+                     - Signal og tegn
+                     - Fartsavpassing
+                     - Veggrep og aktuelle fysiske lover
+                     - Plassering på vegen
+                     - Vikeplikt
+                     - Rygging og vending
+                     - Stans og parkering
+                     - Planovergang
+                     - Motorveg
+                     - Møting
+                     - Tunnelsikkerhet og kjøring i tunnel
+                     - Kjøring i kø og ved flaskehalser
+                     - Forbikjøring
+                     - Mørkekjøring
+                     - Bruk av sikringsutstyr og sikring av personer i bil
+
+
+                   3.4 Informasjonsinnhenting
+                        Aktuelt innhold
+                        - Grunnleggende se-teknikk
+                        - Oppdage og oppfatte vegkryss, myke trafikanter, hindringer, skilt og oppmerking i god tid
+                        - Kjøring inn mot og gjennom kryss med ulik utforming, sikt og regulering
+                        - Kjøring mellom kryss
+                        - Tilpassing av fart og valg av plassering i forhold til sikt- og trafikkforhold
+
+
+                   3.5 Kjøring i bolig, tettsteds- og bymiljø
+                        Aktuelt innhold
+                        - Helhetlig overblikk
+
+
+
+32
+         T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+  -   Tydelig og presis kjøremåte
+  -   Ulike slag kryss
+  -   Regler, skilt og vegoppmerking
+  -   Envegsregulering
+  -   Flere kjørefelt
+  -   Forutse og oppfatte andres atferd og særlig risikoforhold
+  -   Handlingsberedskap
+  -   Samhandling
+  -   Stans og parkering'
+
+
+3.6 Kjøring i landevegsmiljø
+  Aktuelt linnhold
+  - Sittestilling, forankringspunkter, rattgrep og ratt-kontroll
+  - Blikkbruk og informasjonsinnhenting
+  - Kjøring i områder med fartsgrense 70 km/t eller mer
+  - Kurs- og fartsstabilitet
+  - Presis kjøreteknikk
+  - Kjøreteknikk i kurver
+  - Normal og rask akselerasjon og retardasjon til og fra ca. 80 km/t
+  - Kryss, kjøring inn på og ut av større veg
+  - Særlige risikoforhold
+  - Møting
+  - Unngå utforkjøringsulykker
+  - Å bli forbikjørt - trafikkavvikling
+  - Forbikjøring
+  - Stans og parkering
+
+
+3.7 Kjøring i kø, i tunnel og i mørket
+  Aktuelt innhold
+  - Se-teknikk
+  - Sikt
+  - Forutse og oppfatte andres atferd og særlig risikoforhold
+  - Plassering og fartstilpassing
+  - Forholdsregler ved stans og parkering
+  - Riktig bruk av påbudt og tillatt lysutstyr
+  - Atferd ved uhell i tunnel og i mørket
+  - Bruk av sikkerhetsutstyr
+
+
+3.8 Sikker samhandling
+  Aktuelt innhold
+  - Tidlig og fullstendig overblikk
+  - Tydelig og forutsigbar kjøremåte
+  - Tempo, flyt, avvikling
+  - Handlingsberedskap
+  - Økonomisk og miljøvennlig kjøring
+  - Selvstendig kjøring
+  - Forutsetninger, behov og perspektiv barn og eldre har
+  - Forutsetninger, behov og perspektiv mopedister og motorsyklister har
+  - Forutsetninger, behov og perspektiv førere av store og tunge kjøretøyer har
+
+
+
+
+                                                                                                                                                            33
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   3.9 Trinnvurdering jf. § 7-5
+                   Trinnvurderingen gjennomføres mot slutten av trinn 3, før eller etter at sikkerhetskurs på øvingsbane
+                   er gjennomført.
+
+
+                   Kommentarer til trinn 3
+                   Når opplæringen i trinn 3 er fullført skal kompetansen være nær det nivået hvor eleven kan kjøre
+                   selvstendig og oppfylle kravene til førerprøven. Eleven skal kunne kjøre effektivt og behagelig, miljøriktig
+                   og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+
+                   Heller ikke i trinn 3 er det fastsatt minste timetall for opplæringen. Undervisningen må tilpasses elevens
+                   erfaringsbakgrunn og muligheter for øvingskjøring, jf. kommentarer til trinn 2. Selv om eleven tar
+                   opplæring ved trafikkskole, bør privat øvingskjøring og mengdetrening ha stor plass i dette trinnet,
+                   bl.a. for å gi godt grunnlag for sikkerhetskurs på veg i trinn 4.
+
+                   Det er viktig at opptakten som er gjort i trafikalt grunnkurs når det gjelder å legge til rette for at eleven
+                   utvikler forståelse for hva det innebærer å kjøre bil i tråd med vegtrafikklovgivningen og lærer seg til å
+                   ta tilstrekkelig hensyn til andre, blir videreført. Spesiell oppmerksomhet må vies til sårbare trafikanter
+                   og å søke å ta deres perspektiv. Ved kjøring i landevegsmiljø er det bl.a. nødvendig å arbeide med
+                   fartstilpassing til sikt, føre, eventuelt vegarbeid o.a.
+
+                   Risikoen for møteulykker kan reduseres bl.a. ved valg av møtepunkt og plassering. Det er viktig å
+                   samarbeide med andre kjørende som vil foreta forbikjøring, enten disse kommer i møte eller bakfra.
+                   Utfordringer vil f.eks. være knyttet til kjøretøy som er lette å overse, som mopeder og motorsykler, og
+                   til store kjøretøy som lastebiler, busser og vogntog som krever ekstra vegbredde og siktstrekning for
+                   å kunne kjøre forbi. Trening i vurdering i forbindelse med møting og å bli forbikjørt, vil danne et godt
+                   grunnlag for bl.a. å vurdere behov for fri veg ved egen forbikjøring.
+
+                   En stor del av ungdomsulykkene er utforkjøringsulykker. Det er viktig å bevisstgjøre betydningen av å
+                   alltid har kontroll over eget kjøretøy ved å ta hensyn til veg- og føreforholdene og tilpasse farten.
+
+                   Kjøring i kø, i tunnel og i mørket er vektlagt med et eget mål. Ved å tilpasse avstanden til forankjørende
+                   riktig kan vegaviklingskapasiteten utnyttes optimalt samtidig som sikkerheten opprettholdes. Kjøring i
+                   tunnel kan innebære særlige utfordringer som bl.a. brått skiftende sikt og veggrep ved inn- og utkjøring.
+                   Grunnlaget for sikker atferd i mørket blir lagt gjennom demonstrasjonene i trafikalt grunnkurs. Gjennom
+                   tilstrekkelig øving i dette trinnet opparbeides nødvendig kompetanse bl.a. når det gjelder å bruke lyset
+                   og tilpasse fart og plassering til aktuelle kjøresituasjoner i mørket. Det er viktig at elevene motiveres for
+                   å fordele opplæringen slik at alle får anledning til å øve på å kjøre i mørket, selv om førerprøven avlegges
+                   i den lyse årstiden.
+
+                   Det er en fotutsetning for å lykkes med den praktiske opplæringen at eleven tilegner seg tilstrekkelig
+                   kunnskapsgrunnlag før eller parallelt med øvingen.
+
+
+                   3.10 Sikkerhetskurs på øvingsbane
+                   Sikkerhetskurs på øvingsbane er obligatorisk. Som hovedregel skal kurset gjennomføres mot slutten av
+                   trinn 3, før eller etter trinnvurderingen. Unntaksvis kan kurset gjennomføres i tilknytning til Sikkerhetskurs
+                   på veg, del 4.1.2 Kjøring i landevegsmiljø eller 4.1.3, kjøring i variert trafikkmiljø når dette kan være
+                   fordelaktig for eleven, jf. § 11-4. Det skal særlig tas hensyn til den totale undervisningsbelastningen og
+                   elevens læringsutbytte når undervisningen organiseres på denne måten.
+
+
+
+
+34
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Kurset har følgende deler
+Del 1 Mål, organisering og forventninger
+Del 2 Sikring av personer og last
+Del 3 Førerens grad av kontroll over kjøretøyet
+Del 4 Refleksjon og oppsummering
+
+Kurset er på 4 timer og gjennomføres i sin helhet på øvingsbanen, jf. § 11-6. 1 time brukes til mål,
+forventninger, refleksjon og oppsummering med medelever og lærere i klasserom. 1 time brukes til
+sikring av personer og last. I tillegg skal hver elev ha 2 timer praktisk øving med tanke på bevisstgjøring
+av faktorer som påvirker førerens muligheter til å ha kontroll over bilen. Kurset innledes med del 1 og
+avsluttes med del 4. Banens størrelse, kjøremønster, kapasitet og sikkerhetssoner bestemmer hvor
+mange biler som kan være på banen samtidig. Det skal være en trafikklærer i hver bil. Ved øving på
+banen kan det være inntil 2 elever i hver bil. Øvrig undervisning kan gjennomføres med inntil 16 elever.
+
+   Mål for sikkerhetskurs på øvingsbane, jf. § 11-7
+   Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik
+   at ulykker unngås.
+
+   Eleven skal lære å sikre personer og last og forstå hvordan bilens bremse- og styremuligheter
+   påvirkes av førerens kjøremåte og bilens utrustning.
+
+  Eleven skal
+  1. kjenne til kursets mål og organisering, og bli bevisst og sette ord på egne forventninger
+		 og mål
+  2. forstå betydningen av å sikre personer og last i eller på bil ved å
+		 a) oppleve hvordan løse gjenstander påvirkes og tilegne seg kunnskap om hvilke
+			 krefter en person utsettes for ved bråstopp
+		 b) tilegne seg kunnskap om og øve på å sikre barn, voksne, last og gjenstander
+  3. videreutvikle sin kompetanse til å ha kontroll over bilen ved å
+		 a) oppleve hvordan fart, kjøremåte, førerstøttesystem, dekk og tilgjengelig veggrep
+			 virker inn på bilens bremse- og styremuligheter
+		 b) oppleve krisesituasjoner og bli bevisst egne reaksjoner
+  4. reflektere over sine erfaringer og opplevelser ved å
+		 a) dele disse med medelever og lærere
+		 b) vurdere egne sterke og svake sider som bilfører og velge ut områder med utviklings-
+			muligheter
+
+Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+
+Med tanke på å nå disse kan det, innenfor hver av de fire delene av sikkerhetskurs på bane, arbeides med
+å nå flere mål samtidig, eller i annen rekkefølge, enn den som er fastsatt i forskrifta for vedkommende
+del, jf. §§ 7-1 og 7-2.
+
+I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+3.10.1 Mål, organisering og forventninger
+   Aktuelt innhold
+   - Introduksjon og organisering
+   - Egne forventninger og mål
+   - Kursmål og arbeidsoppgaver
+
+
+                                                                                                                                                             35
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   3.10.2 Sikring av personer og last
+                        Aktuelt innhold
+                        - Utløste krefter ved bråstopp og fartens betydning for skadeomfanget
+                        - Bilens passive sikkerhet
+                        - Riktig bruk av bilbelte og hodestøtte
+                        - Sikring av barn i egnet sikringsutstyr
+                        - Plassering og sikring av last og gjenstander i og på bil
+
+                   3.10.3 Førerens grad av kontroll over kjøretøyet
+                        Aktuelt innhold
+                        - Utforsking av øvingsområdet og arbeid med elevoppgavene
+                        - Bremsestrekninger ved ulik fart og med ulik friksjon
+                        - Førerstøttesystemer
+                        - Bevegelige hinder for å skape situasjoner og opplevelser
+                        - Bevisstgjøring av elevenes handlings- og reaksjonsmønster
+                        - Kjøreprosessen
+
+                   3.10.4 Refleksjon og oppsummering
+                        Aktuelt innhold
+                        - Refleksjon og erfaringsdeling
+                        - Vurdering av kjørekompetanse
+                        - Egne mål og forventninger
+                        - Kursmålet
+
+                   Kommentarer til sikkerhetskurs på øvingsbane
+                   Kurset skal gi elevene kunnskaper, ferdigheter og innsikt som er nødvendig for å kunne utvikle en form for
+                   handlingsberedskap mot ulykker. Det skal legges særlig vekt på momenter knyttet til sikring av personer
+                   i bil, og møte- og utforkjøringsulykker. Undervisningen legges opp slik at elevaktiviteten er stor i alle
+                   deler av kurset. Kurset gjennomføres i sin helhet på øvingsbanen. Kurset må ses i sammenheng med
+                   sikkerhetskurs på veg, og knyttes nært sammen med reelle situasjoner ved kjøring på veg.
+
+                   Innledningen gjennomføres i klasserom med en gruppe elever. Eleven skal få kjennskap til helheten i
+                   kurset, hvordan det er organisert og hvem som er ansvarlige for gjennomføringen.
+
+                   Elevene skal arbeide sammen om egne forventninger og mål, som skal være grunnlag for de praktiske
+                   øvingene. Sekvensen skal ikke være en teoretisk gjennomgang av kurset. Elevene bør føre logg eller
+                   på annen måte ta notater underveis gjennom hele kurset. Det er en fordel om disse notatene følger
+                   elevene også gjennom sikkerhetskurs på veg i trinn 4. Hva som menes med logg i denne sammenheng,
+                   er omtalt i kommentarene til sikkerhetskurs på veg.
+
+                   I sekvensen om sikring av personer og last må det legges mest vekt på å forstå behovet for sikring og
+                   at alle får forståelse av betydningen av å bruke bilbelte riktig. Det er viktig å poengtere at last ikke må
+                   plasseres slik at den hemmer kommunikasjonen med andre trafikanter ved å hindre sikt eller skjule
+                   blink- og bremselys.
+
+                   Elevene gis konkrete arbeidsoppgaver som de skal løse eller finne svar på i løpet av kurset. Elevene bør
+                   utfordres til å forutse mulige hendelser. De bevegelige hindrene benyttes for å skape aktuelle situasjoner.
+
+                   Elevene bør erfare tapt kontroll. Dette anses å være viktig med tanke på å oppfatte og forstå risiko.
+
+
+
+
+36
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+Kjøringen på øvingsbanen bør gjennomføres med et åpent kjøremønster. Med åpent kjøremønster
+menes at hele anlegget med alle veger og områder som ikke er spesielt avstengt, beregnet til parkering,
+sikkerhetssoner el., blir utnyttet for å skape opplevelser og erfaringer den enkelte eleven trenger for å
+nå målene for kurset. Åpent kjøremønster innebærer at læreren må utnytte mulighetene anlegget har,
+og mest mulig unngå venting mens andre øver.
+
+Utfordringer og situasjoner bør skapes mest mulig naturlig, enten ved bruk av bevegelig hindre eller
+ved at bilen mister veggrep på grunn av for høy fart eller andre faktorer.
+
+Avsluttende oppsummering i klasserom gjennomføres umiddelbart etter den praktiske baneøvingen.
+Det er en fordel at alle lærerne er til stede i klasserommet. Undervisningen kan organiseres ved at en
+eller to lærere leder undervisningssekvensen. Oppsummeringen skal handle om elevenes opplevelser,
+erfaringer og synspunkter.
+
+Unntaksvis kan kurset gjennomføres i tilknytning til 4.1.2 eller 4.1.3 når dette kan være fordelaktig for
+elevene, jf. § 11-4. Det skal særlig tas hensyn til den totale undervisningsbelastningen og elevenes
+læringsutbytte når undervisningen organiseres på denne måten.
+
+
+
+
+                                                                                                                                                              37
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   Trinn 4 Avsluttende opplæring
+                   Opplæringen i trinn 4 skal bringe eleven fram til hovedmålet.
+
+                   Eleven skal gjennomføre obligatorisk sikkerhetskurs på veg i samsvar med §§ 11-8 og 11-9, og i tillegg
+                   ha tilstrekkelig øving, jf. § 11-5. Øvingen kan skje gjennom opplæring ved trafikkskole, som privat
+                   øvingskjøring eller en kombinasjon av disse.
+
+                        Mål for trinn 4, jf. § 11-5:
+                        Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne
+                        kjøre bil i samsvar med hovedmålet.
+
+                        Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+
+                   4.1 Sikkerhetskurs på veg
+                   Sikkerhetskurs på veg er obligatorisk i trinn 4.
+
+                   Som hovedregel skal obligatorisk sikkerhetskurs på øvingsbane være gjennomført, og målet for trinn
+                   3 være nådd, før undervisning i trinn 4 påbegynnes.
+
+                   Målene for kurset er hovedsakelig rettet mot elevens risikoforståelse og trafikksystemet, slik som i trinn
+                   1. En viktig forutsetning er at emnene risikoforståelse, kunnskap om regler og trafikken som system
+                   utdypes gjennom hele opplæringen, selv om disse temaene vektlegges spesielt i starten og ved slutten.
+
+                   Kurset har følgende deler
+                   Del 1 Bilkjøringens risiko
+                   Del 2 Kjøring i landevegsmiljø
+                   Del 3 Planlegging og kjøring i variert trafikkmiljø
+                   Del 4 Refleksjon og oppsummering
+
+                   De ulike delene av sikkerhetskurs på veg må gjennomføres i fastsatt rekkefølge. Kurset omfatter i alt 13
+                   undervisningstimer, jf. § 11-8.
+
+                   Kurset begynner med 2 timer undervisning i klasserom om bilkjøringens risiko.
+
+                   Andre del er 5 timer praktisk øving i landevegskjøring.
+
+                   Tredje del er 4 timer undervisning i planlegging og kjøring i variert trafikkmiljø. Minst 3 timer skal være
+                   selvstendig kjøring i variert trafikkmiljø, resterende tid skal benyttes til planlegging og oppsummering.
+
+                   Kurset avsluttes med 2 timer refleksjon og oppsummering i klasserom.
+
+                   Praktisk øving gjennomføres med inntil 2 elever. Kjøring i variert miljø gjennomføres som hovedregel
+                   med 2 elever som arbeider sammen. Øvrig undervisning kan gjennomføres med inntil 16 elever.
+
+
+
+
+38
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+   Mål for sikkerhetskurs på veg, jf. § 11-9:
+   Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at
+   ulykker unngås.
+
+   Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter
+   med lav risiko.
+
+  Eleven skal
+  1. ha forståelse for bilkjøringens risiko ved å
+		 a. kjennekursets mål og organisering og sette ord på egne forventninger og mål
+		 b. drøfte begrepet kjøredyktighet
+		 c. kjenne til fordelingen av de alvorligste ulykkene i forhold til alder, kjønn og tidspunkt
+		 d. drøfte årsakene til de vanligste og alvorligste ungdomsulykkene og foreslå, argumentere
+			 for og ta stilling til effektive tiltak for å motvirke disse
+		 e. identifisere og beskrive mulige risikofaktorer i en gitt trafikksituasjon, forklare hva
+			 risikoen består i og velge ut, beskrive og argumentere for en ønsket atferd
+		 f. drøfte hvordan de selv påvirker og påvirkes av andre og være bevisst på sin personlige
+			 kjørestil med tanke på risiko og miljø
+  2. videreutvikle sin kjørekompetanse i landevegsmiljø ved å
+		 a. øve på kjøring på landeveg med varierende standard
+		 b. identifisere og beskrive trafikkmiljøet, forutse og påpeke mulige risikomomenter
+			 og angi en hensiktsmessig kjøremåte fremover i tid
+		 c. anvende presis kjøreteknikk og videreutvikle en miljøvennlig og økonomisk kjøremåte
+		 d. oppleve og erfare situasjoner med særlig stor risiko ved inn- og/eller avkjøring
+			 fra større veg og vurdere og utvise hensiktsmessig atferd i slike situasjoner
+		 e. oppleve og erfare møtesituasjoner og å bli forbikjørt, og vurdere og utvise hensikts-
+			 messig atferd og vilje til å ivareta egen og andres sikkerhet i slike situasjoner og ved
+			 vurdering av om egen forbikjøring kan gjennomføres eller ikke
+		 f. skrive logg
+  3. planlegge og gjennomføre kjøring i variert trafikkmiljø ved å
+		 a. anvende hensiktsmessige hjelpemidler for å kunne beskrive, forklare og begrunne
+			 ulike forhold en må forvente og ta hensyn til i løpet av kjøreturen
+		 b. kjøre selvstendig over lengre strekninger i et skiftende miljø som varierer i vegstandard
+			 og mellom typisk landeveg, by- og tettstedsmiljø
+		 c. begrunne handlingsvalg og kjøremåter
+		 d. skrive logg
+  4. reflektere over sine erfaringer og opplevelser ved å
+		 a. dele disse med medelever og lærere
+		 b. beskrive og begrunne egne valg og kjøremåter
+		 c. vurdere egne sterke og svake sider som bilfører og velge ut områder med utviklings-
+			muligheter
+		 d. vurdere og ta stilling til ulike løsninger i en gitt problemstilling, gjøre rede for sitt syn
+			 og kunne argumentere for dette.
+
+Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+
+Med tanke på å nå disse kan det innenfor hver av de fire delene av sikkerhetskurs på veg, arbeides med
+å nå flere mål samtidig, eller i annen rekkefølge, enn den som er fastsatt i forskrifta for vedkommende
+del, jf. §§ 7-1 og 7-2.
+
+
+
+
+                                                                                                                                                             39
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   Aktuelt innhold i undervisningen
+                   I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+                   er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+                   læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+                   og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+                   4.1.1 Bilkjøringens risiko
+                        Aktuelt innhold
+                        - Presentasjon og introduksjon av kurset
+                        - Kjøredyktighet, refleksjon og selvvurdering
+                        - Trafikkulykker, ulykkestyper, årsaker og tiltak
+                        - Sikringsutstyr i bil
+                        - Vurdering av risikomomenter i gitte trafikksituasjoner
+                        - Problemstillinger knyttet til normer, verdier, ansvar, gruppepress, selvstendighet og egne valg
+                        - Refleksjon og vurdering av egen kjøreatferd
+                        - Starte arbeid med planlegging av 4.1.3
+
+                   4.1.2 Kjøring i landevegsmiljø
+                     Aktuelt innhold
+                     - Lengre, sammenhengende kjøring på landeveg med varierende standard
+                     - Motvirke risiko for utforkjøring
+                     - Kommenterende kjøring, beskrive det statiske og dynamiske veg- og trafikkmiljøet
+                     - Presis kjøreteknikk
+                     - Miljøvennlig og økonomisk kjøremåte
+                     - Inn/utkjøring større veg med særlige risikomomenter som stiller krav til risikovurderingen
+                     - Møtesituasjoner, planlegging av møtepunkt og reduksjon av risiko
+                     - Ta hensyn til trafikk som kommer bakfra, medvirkning ved forbikjøring
+                     - Vurderinger knyttet til mulig forbikjøring imot, å bli forbikjørt og til selv å skulle kjøre forbi
+                     - Skrive logg med opplevelser og erfaringer både underveis og ved avslutningen av denne
+                   		 delen som basis for neste del og avsluttende refleksjon og oppsummering av kurset
+
+                   4.1.3 Planlegging og kjøring i variert miljø
+                     Aktuelt innhold
+                     - Planlegging av kjøretur og -rute ved hjelp av en planleggingsoppgave som eleven
+                   		 har forberedt seg på
+                     - Drøfting av løsningsforslag før kjøreturen med medelever og lærer
+                     - Nødvendige forberedelser før kjøring
+                     - Selvstendig kjøring over lengre strekninger i et skiftende miljø
+                     - Kommenterende kjøring
+                     - Begrunne egne handlingsvalg i etterkant av en situasjon
+                     - Påvirke oppmerksomheten ved bevisst bruk av ulike distraksjoner
+                     - Skrive logg med opplevelser og erfaringer både underveis og ved avslutningen av denne
+                   		 delen som kan brukes som basis for avsluttende refleksjon og oppsummering av kurset
+
+                   4.1.4 Refleksjon og oppsummering
+                        Aktuelt innhold
+                        - Erfaringsdeling og meningsutveksling
+                        - Refleksjon over egne erfaringer og opplevelser - logg
+                        - Kjørekompetanse/kjøredyktighet
+                        - Verdier, normer og holdninger
+
+
+
+40
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+   -   Handlings- og vurderingstendenser og mulige konsekvenser av disse i trafikal sammenheng
+   -   Egne sterke og svake sider som bilførere og utviklingsmuligheter
+
+
+4.2 Tilstrekkelig øving
+Eleven skal i tillegg til sikkerhetskurs på veg ha tilstrekkelig øving til å kunne kjøre i samsvar med
+hovedmålet.
+
+   Aktuelt innhold
+   - Supplerende øving ved trafikkskole
+   - Privat øving/mengdetrening
+
+
+Kommentarer til trinn 4
+Opplæringen i trinn 4 skal bidra til å bringe elevene fram til hovedmålet. Hovedmålet blir ikke uten videre
+nådd ved å gjennomføre sikkerhetskurs på veg. I tillegg til sikkerhetskurs på veg må det suppleres med
+tilstrekkelig øving gjennom opplæring ved trafikkskole og annen øvingskjøring, for å nå trinnmålet. Det
+er viktig at målene for trinn 3 er nådd før opplæringen i trinn 4 påbegynnes.
+
+Eleven og eventuell privat ledsager må motiveres til omfattende øving før den obligatoriske opplæringen
+i trinn 4 gjennomføres, slik at eleven har kompetanse nok til å ha godt utbytte av kurset. Det anbefales å
+gjennomføre sikkerhetskurs på veg så tidlig at det er rom for mye mengdetrening etter kurset, før planlagt
+førerprøve. Kurset vil være et vesentlig grunnlag for at den private øvingen i dette trinnet skal kunne
+skje på en sikker og selvstendig måte, og kunne være allsidig og realistisk. Slik kan denne treningen,
+mengdetreningen, få tilstrekkelig omfang og kvalitet til å medvirke til redusert ulykkesutsatthet i den
+første tiden som førerkortinnehaver.
+
+
+Kommentarer til sikkerhetskurs på veg
+Generelt
+Trafikale holdninger og risikoforståelse som ble bevisstgjort i begynnelsen av opplæringen, videreutvikles
+og sammenfattes til en helhet i den avsluttende oppsummeringen. Undervisningen skal legge grunnlaget
+for at denne sammenfatningen blir meningsfull. Dette krever at trafikklærer og ledsager på alle trinn i
+opplæringen er bevisst dette, uavhengig av trinnets hovedtema, jf. også tredje ledd i § §11-3 og 11-4.
+Problemorientert undervisning gjøres realistisk ved å ta utgangspunkt i de erfaringene og situasjonene
+som eleven møter i den praktiske kjøretreningen.
+
+Det anbefales å bruke logg som et hjelpemiddel gjennom alle de tre første delene av kurset. Utvelgelsen
+av situasjoner og opplevelser som eleven selv synes gav nyttige erfaringer og loggføringen av disse, er
+ment å skulle danne grunnlaget for samtale og refleksjon. Med loggføring menes at eleven tar notat i
+løpet av eller ved slutten av kursdelen. Omfanget må være tilstrekkelig til at eleven husker situasjoner og
+egne reaksjoner og kan bruke disse i påfølgende deler av kurset. For at eleven skal nå målene for kurset,
+må læreren legge til rette for at eleven møter aktuelle og utfordrende situasjoner. Samtale og refleksjon
+kan skje både underveis og i etterkant av den praktiske kjøringen. Mest mulig av kunnskapsstoffet bør
+formidles underveis eller i etterkant av praksis. Det bør legges stor vekt på å gjøre eleven til en aktiv
+deltaker.
+
+Hver av de ulike delene av kurset gjennomføres samlet. Så langt det er praktisk mulig, bør kurset
+gjennomføres med en gruppe elever som starter og avslutter kurset sammen. Undervisningen må
+tilpasses den enkelte elev også i dette kurset. Forhold knyttet til utforkjøring og møteulykker vektlegges
+gjennom alle delene av kurset.
+
+
+
+
+                                                                                                                                                             41
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+                   Bilkjøringens risiko
+                   I denne delen bør elevene gjøres kjent med innholdet i hele kurset. Det er ikke ønskelig med for
+                   mye teoretisering i denne delen. Det meste av kunnskapsstoffet er ment bearbeidet underveis
+                   og i oppsummeringsdelen. Den innledende delen bør derfor gi eksempler på de utfordringer og
+                   arbeidsoppgaver elevene kan vente seg videre i kurset. Det er en fordel å la elevene få kjennskap til
+                   eller starte planleggingsoppgaven til 4.1.3 allerede i denne delen.
+
+                   Kjøring i landevegsmiljø
+                   I denne delen vil vegens standard, kurvatur, siktforhold og trafikkmengde variere. Elevenes evne til å
+                   tolke informasjon, beskrive miljøet, anvende en presis kjøreteknikk og velge sikre trafikale løsninger
+                   skal utfordres. Erfaringer og loggføring fra denne delen danner grunnlaget for opplæringen i 4.1.3.
+
+                   Elevene skal gradvis videreutvikle evnen til å kjøre selvstendig og samtidig sette ord på forventninger
+                   og kommentere kjøringen. Det anbefales å bruke bilens kjørecomputer eller andre hjelpemidler for å
+                   få fram informasjon om tids- og drivstofforbruk, gjennomsnittsfart mm. Denne delen gjennomføres
+                   som en sammenhengende undervisningssekvens. Det bør legges inn refleksjonspauser underveis
+                   for samtale og føring av logg.
+
+                   For å arbeide med vurderinger i forbindelse med møting og forbikjøring, er det ikke påkrevd at flere
+                   lærevogner samarbeider. Det forutsettes at eleven har høyt nok ferdighetsnivå fra trinn 3 til å kunne følge
+                   annen trafikk, og arbeide med møte- og forbikjøringssituasjoner som naturlig oppstår. I den grad to eller
+                   flere lærevogner samarbeider, må dette skje på en måte som ikke forstyrrer øvrig trafikk unødig. Det er
+                   ikke ønskelig at det øves konsentrert på å kjøre forbi i denne delen av opplæringa. Å kjøre forbi er en
+                   situasjon som de fleste opplever som relativt risikofull, og det er viktig å ikke «ufarliggjøre» den gjennom
+                   mengdeøving. Som det står uttrykt i «Føreropplæring i et hierarkisk perspektiv»: En «farlig» øvelse bør
+                   ikke gjennomføres mer enn to ganger, ellers kan den bli «morsom» og sikkerhetsbudskapet går tapt.
+
+                   Denne delen bør som et minimum inneholde følgende:
+                     - Sammenhengende kjøring i landevegsmiljø hvor vegens standard, kurvatur, siktforhold
+                   		 og trafikkmengde varierer.
+                     - Innkjøring på og/eller utkjøring fra større veg i kryss som på grunn av utforming og/eller siktforhold
+                   		 er spesielt krevende og som stiller store krav til risikoforståelse og evne til å velge sikre løsninger
+
+                   Elevene bør utfordres når det gjelder
+                      - å tolke informasjon
+                      - å beskrive veg- og trafikkmiljø, forventninger og kjøremåter framover
+                      - presis kjøreteknikk, miljøvennlig og økonomisk kjøring, og vurdering av møte- og
+                   		forbikjøringssituasjoner.
+
+                   Planlegging og kjøring i variert miljø
+                   Denne delen er ment å være en oppsummerende og sammenfattende del hvor elevene, i tillegg til
+                   kjøreoppgaver, først skal planlegge kjøreturen. Planleggingsdelen henger nøye sammen med det
+                   gjennomgående temaet Planlegging og forberedelse før kjøring, jf. Kapittel 1, som det forutsettes er
+                   gjennomgått i tidligere deler av opplæringen. Planleggingsoppgaven er dels tenkt som et hjemmearbeid
+                   hvor elevene skal forberede seg. Løsningsforslagene drøftes med medelever og lærer når de møter
+                   på kjøredagen. Planleggingsoppgaven bør inneholde elementer som angår både føreren, veg- og
+                   trafikkmiljø og kjøretøyet. Forventet tids- og drivstofforbruk, behov for pauser og referanser til bruk for å
+                   finne fram i kjøreruta bør inngå. Elevene bør ideelt sett gjøres kjent med planleggingsoppgaven allerede
+                   i 4.1.1 og senest ved avslutningen av 4.1.2. Det er viktig at elevene får tilstrekkelig tid til planleggingen.
+                   Det bør derfor gå noe tid (minst 1 dag) mellom gjennomføring av 4.1.2 og 4.1.3. Loggen brukes i
+                   planleggingen.
+
+                   Det er viktig at elevene har nådd et godt nok nivå før denne delen gjennomføres. De som det viser seg
+
+
+
+42
+          T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+har behov for det, må derfor tilbys supplerende kjøretimer etter 4.1.2. for å utvikle best mulig grunnlag
+for å få et godt læringsutbytte i 4.1.3.
+
+Elevene bør utfordres til å kommentere kjøringen og begrunne sine valg og kjøremåter gjennom hele
+denne delen.
+
+Øvingsområder og innhold
+Denne delen bør som et minimum inneholde følgende utfordringer:
+  - Områder hvor miljøet skifter mellom typisk landevegsmiljø og by/tettstedsmiljø (mer komplekse
+		 trafikksituasjoner i kombinasjon med landevegsmiljø) der elevene på selvstendig grunnlag
+		 utfordres til å ta selvstendige beslutninger
+  - Sammenhengende, selvstendig kjøring som krever konsentrasjon over lengre tid
+
+Elevene bør utfordres når det gjelder
+   - evne og vilje til å velge sikre løsninger
+   - å kommenterende kjøringen og begrunnelser for valg og kjøremåter i ettertid
+
+Refleksjon og oppsummering
+I denne delen skal elevene reflektere over og dele sine erfaringer både fra sikkerhetskurs på veg og de
+øvrige delene av opplæringen. Det kan være utfordrende å huske hendelser og opplevelser, det er derfor
+viktig at det er ført logg og at det ikke går for lang tid mellom 4.1.3 og 4.1.4. Elevene bør utfordres når
+det gjelder begreper som førerkompetanse og risikovillighet, og vurdering av egen førerkompetanse.
+
+
+
+
+                                                                                                                                                             43
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B
+
+
+
+
+44
+                                   OPPL ÆRINGEN I KL A SSE B KODE 96 OG BE :: V851 L ÆREPL AN FØRERKORTKL A SSER
+
+
+
+
+4         Opplæringen i klasse B
+          kode 96 og BE
+   Hovedmål for opplæring klasse B kode 96 og BE jf. § 12-1
+    Etter å ha gjennomført trafikkopplæringen i klasse BE, skal eleven ha den kompetansen
+    som er nødvendig for å kjøre bil med tilhenger på en ansvarlig måte.
+
+    Eleven skal ha de kunnskaper, ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig
+    for å kjøre på en måte som:
+    - er trafikksikker
+    - gir god samhandling
+    - fører til god trafikkavvikling
+    - tar hensyn til helse og miljø og andres behov
+    - er i samsvar med gjeldende lovgivning og regelverk
+
+
+
+Trinnvis opplæring
+I klasse B kode 96 og BE anses trinn 1 som dekket gjennom opplæringen for førerkort klasse B. Målene
+for trinn 2 og 3 angir forutsetningene for å ha et godt utbytte av undervisningen på det neste trinnet.
+Læringsmomentene i hvert trinn forutsettes å bli videreført i neste trinn. Målene for trinn 2-4 angir samlet
+den kompetansen som kreves for å få førerett i klasse B kode 96 eller klasse BE.
+
+Trinn 2
+I trinn 2 skal eleven lære å mestre kjøretøyene rent kjøreteknisk, i hovedsak uten å måtte rette
+oppmerksomheten mot andre trafikanter. God kjøreteknisk ferdighet er nødvendig for å få utbytte av
+opplæringen i trinn 3, og vil også innebære at kjøringen er økonomisk og mest mulig miljøvennlig.
+Eleven skal tilegne seg kunnskap om risiko ved å kjøre med tilhenger, lastsikring og sikkerhetskontroll.
+Kunnskapen skal bl.a. gi eleven grunnlag for å kunne ivareta førerens ansvar for kontroll og tilsyn med
+kjøretøyene. Det er ikke fastsatt minste timetall for undervisningen på dette trinnet. Omfanget av
+undervisningen må tilpasses elevens forutsetninger.
+
+Mot slutten av trinnet skal eleven gjennomføre en trinnvurdering i samsvar med § 7-5. Eleven skal, med
+utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget
+for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den
+kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+
+Trinn 3
+I trinn 3 er målene rettet mot elevens læring av trafikale ferdigheter i varierte veg- og trafikkmiljø. Eleven
+skal beherske kjøring med bil og tilhenger i variert trafikk og terreng. Det er ikke fastsatt minste timetall
+for opplæringen på dette trinnet. Undervisningen må tilpasses elevens erfaringsbakgrunn og muligheter
+for øvingskjøring.
+
+Mot slutten av trinnet skal eleven gjennomføre en trinnvurdering i samsvar med § 7-5. Eleven skal, med
+utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget
+for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den
+kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+
+
+
+
+                                                                                                                 45
+V851 L ÆREPL AN FØRERKORTKL A SSER :: OPPL ÆRINGEN I KL A SSE B KODE 96 OG BE
+
+
+
+
+            Trinn 4
+            Målene på trinn 4 er i hovedsak rettet mot elevens samhandling med andre trafikanter, risikoforståelse
+            og selvinnsikt. Eleven skal gjennomføre kurs i sikring og merking av last - klassene B kode 96, BE, D1E,
+            DE og T og sikkerhetskurs på veg – klasse B kode 96 og BE. Kurset i sikring og merking av last kan
+            også tas på trinn 2 eller 3 når dette er mest hensiktsmessig og grunnleggende opplæring i lastsikring
+            som beskrevet i trinn 2 er gjennomført.
+
+            Før det gis førerett i klasse B kode 96 må all obligatorisk opplæring være innmeldt til Statens vegvesen.
+            Den obligatoriske opplæringen utgjør til sammen 7 undervisningstimer.
+
+            Mange elever vil ha behov for flere timer for å nå målene for opplæringen. I klasse BE må eleven ha
+            tilstrekkelig øving til å bestå førerprøven.
+
+
+
+
+46
+T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+       5             Trinnmål, kursmål, delmål
+                     og aktuelt innhold i klasse B
+                     kode 96 og BE
+       Trinn 2 Grunnleggende kjøretøy- og kjørekompetanse
+       Gjennom opplæringen i trinn 2 skal eleven lære å mestre bil med tilhenger rent kjøreteknisk, i hovedsak
+       uten å måtte rette oppmerksomheten mot andre trafikanter. God kjøreteknisk ferdighet er nødvendig
+       for å få utbytte av opplæringen i trinn 3, og vil også innebære at kjøringen er økonomisk og mest mulig
+       miljøvennlig. Eleven skal tilegne seg kunnskap om risiko ved å kjøre med tilhenger, lastsikring og
+       sikkerhetskontroll. Kunnskapen skal bl.a. gi eleven grunnlag for å kunne ivareta førerens ansvar for
+       kontroll og tilsyn med kjøretøyene.
+
+       Det er ikke fastsatt minste timetall for opplæringen i trinn 2 bortsett fra at alle må gjennomføre en
+       obligatorisk trinnvurdering. Det er viktig at elevene får nok øving til å ha godt utbytte av opplæringen
+       i trinn 3.
+
+       Eleven skal gjennomføre en obligatorisk trinnvurdering mot slutten av trinn 2, jf. § 7-5.
+
+       Innholdet i undervisningen forutsettes å bli videreført i trinn 3 og 4, samtidig som det er en del av
+       grunnlaget for oppgavene som blir gitt ved førerprøven i klasse BE.
+
+            Mål for trinn 2 jf. § 12-3
+            Etter å ha gjennomført trinn 2 skal eleven skal ha den kompetansen som er nødvendig for å ha
+            godt utbytte av trafikal opplæring i trinn 3.
+
+            Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy
+            til trafikkbildet og samhandlingen med andre trafikanter. Eleven skal forstå behovet
+            for sikkerhetskontroll og lastsikring.
+
+            Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper
+            og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke,
+            og oppdage mangler ved, bil og tilhenger.
+
+         Eleven skal
+         1. ha kunnskap om risiko i tilknytning til å kjøre bil med tilhenger
+         2. ha grunnleggende kunnskap om lastsikring
+         3. kunne kople til og fra tilhengeren og utføre aktuell sikkerhetskontroll
+         4. kunne vurdere plassbehov ved kjøring rett fram og i sving, og kjøre vogntoget i mot- og
+       		utforbakke
+         5. kunne rygge rett bakover og i sving, og kjenne førerens ansvar og plikter i forbindelse
+       		 med rygging
+
+       Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+
+       Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+       som er fastsatt i forskrifta for vedkommende trinn eller del av kurs, jf. §§ 7-1 og 7-2.
+
+
+
+
+                                                                                                                                                                        47
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E
+
+
+
+
+                   Aktuelt innhold i undervisningen
+                   I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+                   er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+                   læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+                   og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+                   2.1 Kunnskap om risiko i tilknytning til å kjøre bil med tilhenger
+                        Aktuelt innhold
+                        - Uhellstyper
+                        - Risiko ved passering av myke trafikanter og to-hjuls kjøretøy
+                        - Risiko ved bremsing
+                        - Risiko ved dårlig lastsikring
+
+
+                   2.2 Grunnleggende kunnskap om lastsikring
+                        Aktuelt innhold
+                        - Fysiske krefter
+                        - Grunnleggende krav til lastsikring
+                        - Påbygg og sikringsutstyr
+
+                   2.3 Til- og frakopling av tilhenger og sikkerhetskontroll
+                        Aktuelt innhold
+                        - Tilkopling
+                        - Frakopling
+                        - Sikring av tilhenger ved parkering og av- og pålasting
+                        - Kontroll av kopling, bremser, hjul og dekk, lys og påbygg
+                        - Kontroll av speil og siktvinkler
+                        - Kontroll av last og lastsikring
+                        - Kontroll før kjøring (daglig kontroll)
+
+                   2.4 Plassbehov ved kjøring rett fram og i sving, og kjøring
+                       i mot- og utforbakke
+                        Aktuelt innhold
+                        - Plassbehov ved kjøring rett fram
+                        - Plassbehov i sving
+                        - Kjøring i mot- og utforbakke
+                        - Framkommelighet
+                        - Økonomisk kjøring
+                        - Sporvalg
+
+
+                   2.5 Rygging
+                        Aktuelt innhold
+                        - Rygging rett bakover og i sving
+                        - Føreransvaret
+                        - Bruk av medhjelper
+
+
+                   2.6 Trinnvurdering jf. § 7-5
+                   Trinnvurderingen gjennomføres mot slutten av trinn 2.
+
+
+
+
+48
+T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+       Kommentarer til trinn 2
+       Det er viktig at eleven utvikler forståelse for behovet for sikkerhetskontroll og lastsikring tidlig i
+       opplæringen. Med utgangspunkt bl.a. i kjøretøyene som skal brukes i opplæringen og lasten tilhengeren
+       har, kan det legges til rette for slik utvikling gjennom for eksempel oppgaver og gruppediskusjoner.
+       Den grunnleggende forståelsen for både sikkerhetskontroll og lastsikring skal bl.a. være grunnlag for
+       det obligatoriske kurset om lastsikring i trinn 4. Konsekvensene av mangelfull sikkerhetskontroll og
+       lastsikring kan lett bli større ved kjøring med tilhenger. Derfor tillegges kandidatens prestasjoner når
+       det gjelder sikkerhetskontroll større vekt ved førerprøve i klasse BE enn i B.
+
+
+
+
+                                                                                                                                                                       49
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E
+
+
+
+
+                   Trinn 3 Trafikal del
+                   Gjennom opplæringen i trinn 3 skal eleven lære seg å kjøre i variert trafikk.
+
+                   Det er ikke fastsatt minste timetall for undervisningen i dette trinnet.
+
+                   Eleven skal gjennomføre en obligatorisk trinnvurdering mot slutten av trinn 3, jf. § 7-5.
+
+                   Tema og hovedmomenter på trinn 3 forutsettes å bli videreført i trinn 4, samtidig vil de være en del av
+                   grunnlaget for oppgavene som blir gitt ved førerprøven i klasse BE.
+
+                        Mål for trinn 3, jf. § 12-4
+                        Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha
+                        godt utbytte av den avsluttende opplæringen i trinn 4.
+
+                        Elevene skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+                        Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper
+                        og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre
+                        bil med tilhenger i god samhandling med andre.
+
+                     Eleven skal
+                     1. ha systematisk og automatisert informasjonsinnhenting
+                     2. kunne kjøre tydelig, sikkert og effektivt i variert terreng
+                     3. kunne vurdere snuplasser, snumåter og bruk av medhjelper
+                     4. kunne kjøre selvstendig i variert trafikkmiljø på en måte som gir god samhandling
+                   		 med andre trafikanter og samtidig er økonomisk og miljøvennlig
+
+                   Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+
+                   Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+                   som er fastsatt i forskrifta for vedkommende trinn eller del av kurs, jf. §§ 7-1 og 7-2.
+
+                   Aktuelt innhold i undervisningen
+                   I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+                   er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+                   læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+                   og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+                   3.1 Systematisk og automatisert informasjonsinnhenting
+                        Aktuelt innhold
+                        - Bruk av speil
+                        - Utnytte siktsoner ved utgangen av svinger
+                        - Etterkontroll etter å ha passert hindringer, myke trafikanter og to-hjuls kjøretøy
+                        - Trafikk like bak som er vanskelig å se i speil
+
+
+                   3.2 Tydelig, sikker og effektiv kjøring i variert terreng
+                        Aktuelt innhold
+                        - Tydelig fartstilpassing, plassering og tegngiving
+                        - Effektiv bruk av motorkraft og gir og utnytting av bevegelsesenergi
+                        - Utnytte terrenget
+
+
+
+
+50
+T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+       3.3 Snuing og bruk av medhjelper
+            Aktuelt innhold
+            - Vurdere snuplass
+            - Tilkjøring for rygging
+            - Plassering av og kommunikasjon med medhjelper
+
+       3.4 Selvstendig kjøring i variert trafikkmiljø på en måte som gir god
+           samhandling og er økonomisk og miljøvennlig
+            Aktuelt innhold
+            - Ikke virke truende på andre trafikanter
+            - Ikke unødig hindre eller forstyrre annen trafikk
+            - Unngå unødig stans
+            - Utnytte bevegelsesenergi
+            - Drivstoff-forbruk
+
+
+       3.5 Trinnvurdering jf. § 7-5
+       Trinnvurderingen gjennomføres mot slutten av trinn 3.
+
+
+       Kommentarer til trinn 3
+       Når opplæringen i trinn 3 er fullført skal eleven ha grunnlag for å få godt utbytte av opplæringen i trinn 4.
+
+       Eleven skal kunne kjøre på en måte som gir god samhandling med andre trafikanter og samtidig er
+       økonomisk og miljøvennlig. Øvingsområdet bør velges slik at eleven bl.a. får trening i å utnytte bilens
+       motorkraft og kjøretøyenes bevegelsesenergi, og i å få til godt samarbeid med de som vil kjøre forbi.
+
+
+
+
+                                                                                                                                                                       51
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E
+
+
+
+
+                   Trinn 4 Avsluttende opplæring
+                   Opplæringen i trinn 4 skal bringe eleven fram til hovedmålet. Eleven skal gjennomføre kurs i sikring og
+                   merking av last - klassene B 96, BE, D1E, DE og T i samsvar med § 27-1, og sikkerhetskurs på veg –
+                   klassene B kode 96 og BE i samsvar med § 12-6, og i tillegg har tilstrekkelig øving.
+
+                   Kurset i lastsikring kan også tas på trinn 2 eller 3 når dette er mest hensiktsmessig og grunnleggende
+                   opplæring i lastsikring som beskrevet i trinn 2 er gjennomført.
+
+                        Mål for trinn 4, jf. § 12-5
+                        Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne
+                        kjøre i samsvar med hovedmålet.
+
+                        Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+
+                   4.1 Kurs i sikring og merking av last - klassene B kode 96, BE, D1E, DE og T
+                   Før det gis førerett i klasse B kode 96, og før førerprøve i klassene BE, D1E, DE og T, skal eleven ha
+                   gjennomført obligatorisk kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T
+                   dersom de ikke har gjennomgått dette tidligere. Kurset omhandler sikring og merking av last på tilhenger,
+                   og har et omfang på 2 undervisningstimer. Av dette skal 1 time være praktisk øving i merking og sikring
+                   av last på tilhenger. Denne øvingen kan gjennomføres med maksimalt 4 elever i gruppen.
+
+                        Mål for kurs i sikring og merking av last – klassene B kode 96, BE, D1E, DE og T, jf. § 27-1.
+                        Eleven skal forstå behovet for å sikre og merke last, og få nødvendig øving i å sikre last på tilhenger.
+
+                     Eleven skal
+                     1. vite at mangelfull sikring har årsak i menneskelig svikt, kan forårsake tragedier og få
+                   		 store konsekvenser
+                     2. kjenne til regelverket som gjelder for sikring av last på kjøretøy og for transport av farlig gods
+                   		 når føreren ikke har særskilt kompetansebevis
+                     3. gjennom demonstrasjon oppleve kreftene som virker inn på lasten under kjøring, friksjonens
+                   		 betydning og bli kjent med ulike metoder for sikring av last som låsing, stenging, surring
+                   		 og dekking
+                     4. gjøre rede for spesielle faremoment ved last som er feil plassert, last med høyt tyngdepunkt,
+                   		 hengende last, flytende last, levende dyr og persontransport
+                     5. øve på å
+                   		 a) plassere, sikre og merke lang last tilsvarende en tømmerstokk
+                   		 b) plassere og sikre et kolli med minstemål 1x1x1 meter, eller 0,8 x 1,2 x 1 meter
+                   		 c) plassere og sikre annen last som rundballe eller storsekk, vekt minst 350 kg
+                     6. forstå behovet for vedlikehold og avgjøre om lastsikringsutstyret er i forsvarlig stand
+
+
+                   Undervisningen skal legge til rette for at eleven når de målene som er fastsatt i forskrifta.
+
+                   Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+                   som er fastsatt i forskrifta for vedkommende del, jf. §§ 7-1 og 7-2.
+
+                   Aktuelt innhold i undervisningen
+                   I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+                   er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+                   læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+                   og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+
+
+
+52
+T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+       4.1.1 Årsaker til og konsekvenser av mangelfull sikring av last
+            Aktuelt innhold
+            - Risikoforhold ved mangelfull sikring av last
+            - Årsaker til mangelfull sikring
+            - Ulykker og menneskelige tragedier som følge av mangelfull sikring
+
+       4.1.2 Regelverkets krav
+         Aktuelt innhold
+         - Hovedkravene som stilles til sikring av last og til sikringsutstyr
+         - Sikring av spesiell last krever spesiell kunnskap
+         - Regler for transport av personer og av dyr
+         - Regler for transport av farlig gods i landbruk og skogbruk for førere som ikke har
+       		 særskilt kompetansebevis
+
+       4.1.3 Behov for sikring og valg av sikringsmetode og -utstyr
+            Aktuelt innhold
+            - Bråbrems med usikret kolli
+            - Kjøring i sving med usikret kolli
+            - Akselerasjon med usikret kolli
+            - Størrelse og retning og friksjonens innvirkning på de krefter som virker inn på last under kjøring
+            - Ulike metoder for sikring av last som låsing, stenging, surring og dekking
+            - Sikringsutstyr (fiberbånd, kjetting, nett, presenning)
+
+       4.1.4 Spesielle faremomenter
+         Aktuelt innhold
+         - Spesielle faremomenter ved last som er feil plassert, last med høyt tyngdepunkt,
+       		 hengende last og flytende last
+         - Faremoment ved transport av levende dyr og persontransport
+
+       4.1.5 Øving i lastsikring
+            Aktuelt innhold
+            - Riktig plassering med tanke på fordeling av vekten mellom krok og akslinger
+            - Sikring av lasten ved hjelp av stenging og surring
+            - Antall stropper som må benyttes i tillegg til stenging
+            - Hvordan og hvor stroppene festes
+            - Merking av utstikkende gods i samsvar med forskriftskrav
+            - Kontroll og vedlikehold av lastsikringsutstyr
+
+       4.1.6 Vedlikehold og vurdering av utstyr
+            Aktuelt innhold
+            - Behov for vedlikehold
+            - Vurdering av om utstyret er forsvarlig å bruke
+
+
+
+
+                                                                                                                                                                       53
+V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R : : T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E
+
+
+
+
+                   4.2 Sikkerhetskurs på veg – klassene B kode 96 og BE
+                   Før det gis førerett i klasse B kode 96, og før førerprøve i klasse BE, skal eleven ha gjennomført obligatorisk
+                   sikkerhetskurs på veg - klasse B kode 96 og BE, dersom de ikke har gjennomgått dette tidligere. Kurset
+                   omhandler kjøring med tilhenger med lav risiko og i god samhandling med andre trafikanter, og vurdering
+                   av egen kjøredyktighet, og har et omfang på 3 undervisningstimer. Det kan være inntil 2 elever i bilen
+                   samtidig.
+
+                        Mål for sikkerhetskurs på veg – klasse B kode 96 og BE, jf. § 12-7
+                        Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at
+                        ulykker unngås.
+
+                     Eleven skal
+                     1. planlegge kjøreruta
+                     2. forstå risikoen ved å kjøre personbil med tilhenger i ulike trafikkmiljø
+                     3. utvikle sin kjørekompetanse, spesielt med tanke på oppfatning av risikosituasjoner,
+                   		 planlegging av møting, å bli forbikjørt, vurdering av snuplass og måte å snu på, og
+                   		 økonomisk kjøring
+                     4. kunne sette ord på egne erfaringer og med bakgrunn i disse, kunne vurdere sin egen kjøre-
+                   		 dyktighet til å kjøre bil med tilhenger, og muligheter for forbedring
+
+                   Undervisningen skal legge til rette for at elevene når de målene som er fastsatt i forskrifta.
+
+                   Med tanke på å nå disse kan det arbeides med å nå flere mål samtidig, eller i annen rekkefølge, enn den
+                   som er fastsatt i forskrifta for vedkommende del, jf. §§ 7-1 og 7-2.
+
+                   Aktuelt innhold i undervisningen
+                   I oversikten nedenfor er aktuelt innhold i undervisningen ordnet i tema i samsvar med målene. Oversikten
+                   er ikke uttømmende, men illustrerer hva undervisningen bør omfatte. Innenfor forskriftas rammer velger
+                   læreren selv, med utgangspunkt i elevens behov og tilgjengelige ressurser, øvingsområde m.m., metoder
+                   og rekkefølge i behandlingen av lærestoffet med tanke på å legge best mulig til rette for elevens læring.
+
+                   4.2.1 Planlegging av kjøreruta
+                        Aktuelt innhold
+                        - Risiko for hindringer eller interessekonflikter med andre trafikanter
+                        - Framkommelighet
+
+                   4.2.2 Risiko ved å kjøre personbil med tilhenger i ulike trafikkmiljø
+                        Aktuelt innhold
+                        - Uhellstyper
+                        - Risiko ved plassering av mye trafikanter og to-hjuls kjøretøy
+                        - Risiko ved bremsing
+                        - Kontroll av eventuell varmgang i bremser, nav og dekk
+                        - Risiko ved dårlig lastsikring
+                        - Kontroll og eventuell etterstamming av lastsikring
+
+                   4.2.3 Oppfatting av risikosituasjoner
+                        Aktuelt innhold
+                        - Systematisk og effektiv observasjon
+                        - Vurdering av konflikter og risiko
+                        - Begrunnelse for valg
+
+
+
+54
+T R I N N M Å L , K U R S M Å L , D E L M Å L O G A K T U E LT I N N H O L D I K L A S S E B K O D E 9 6 O G B E : : V 8 5 1 L Æ R E P L A N F Ø R E R K O R T K L A S S E R
+
+
+
+
+       4.2.4 Egne erfaringer, vurdering av egen dyktighet og muligheter for forbedring
+            Aktuelt innhold
+            - Erfaringer
+            - Kjøredyktighet
+            - Utviklingsmuligheter
+
+       Kommentarer til trinn 4
+       Undervisningen i trinn 4 skal bringe eleven fram til hovedmålet. Opplæringen er i stor grad rettet mot
+       elevens risikoforståelse og selvinnsikt. Det er viktig å unngå at det blir oppfattet slik at målene uten
+       videre er nådd ved å gjennomføre den obligatoriske opplæringen. Mange vil ha behov for mer øving,
+       på trafikkskolen eller privat. Ikke minst gjelder dette de som går opp til førerprøve i klasse BE.
+
+       Kommentarer til sikkerhetskurs på veg
+       Grunnlaget for kurset er den erfaringen eleven har fra før med førerkort i klasse B og opplæringen i
+       trinn 2 og 3.
+
+       For å nå målene i kurset, må læreren tilrettelegge undervisningen slik at elevene er aktive deltakere.
+       Elevene må få møte aktuelle og utfordrende situasjoner som er egnet for samtale og refleksjon.
+       Tilsvarende sikkerhetskurs på veg for klasse B, skal kurset fokusere bl.a. på å unngå møteulykker og
+       samarbeide når møtende eller bakenforkjørende kjøretøy foretar forbikjøring.
+
+
+       4.3 Tilstrekkelig øving
+       Eleven skal i tillegg til sikkerhetskurs på veg ha tilstrekkelig øving til å kunne kjøre i samsvar med
+       hovedmålet.
+
+            Aktuelt innhold
+            - Supplerende øving ved trafikkskole
+            - Privat øving
+
+
+       Kommentarer
+       Det er viktig at eleven skaffer seg nok øving til å kunne kjøre i samsvar med hovedmålet før han eller
+       hun går opp til førerprøven.
+
+
+
+
+                                                                                                                                                                       55
+                                                                       16-1981 - grafisk.senter@vegvesen.no
+
+
+
+
+www.vegvesen.no/Fag/Publikasjoner/Handboker
+
+ISBN: 978-82-7207-698-5
+
+                                              Trygt f ram s am m e n
+

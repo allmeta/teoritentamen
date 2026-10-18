@@ -1,9 +1,26 @@
-KILDE: https://lovdata.no/dokument/SF/forskrift/1994-10-04-918 (hentet 2026-10-18)
+KILDE: https://lovdata.no/dokument/SF/forskrift/1994-10-04-918 (hentet 2026-10-18, kapittelvis)
 
-===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_1 =====
+===== KAPITTEL_1 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -11,8 +28,18 @@ Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøre
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Kjøretøyforskriften
     Ditt søk ga dessverre ingen treff.
    
     Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
@@ -379,6 +406,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -396,10 +425,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_3 =====
+===== KAPITTEL_3 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -407,8 +453,18 @@ Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøre
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Kjøretøyforskriften
     Ditt søk ga dessverre ingen treff.
    
     Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
@@ -700,6 +756,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     2. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal produsenten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
 
+    Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.
+
     Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøyer aksepteres registrert.
 
     Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg XII del B.
@@ -848,6 +906,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -865,10 +925,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/1994-10-04-918/KAPITTEL_4 =====
+===== KAPITTEL_4 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -876,8 +953,18 @@ Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøre
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Kjøretøyforskriften
     Ditt søk ga dessverre ingen treff.
    
     Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
@@ -937,6 +1024,7 @@ Trykk Escape for å lukke innholdsfortegnelse
    
     § 4-2.Søknad om typegodkjenning
 
+    Søknad om typegodkjenning av kjøretøyer eller deler skal innsendes av produsenten til Vegdirektoratet. Søknaden skal ledsages av et opplysningsdokument, som for typegodkjenning av kjøretøyer
     følger mønsteret i vedlegg II, og for typegodkjenning av deler følger mønsteret i et vedlegg eller tillegg til hvert særdirektiv for den aktuelle tekniske enhet eller del, samt av andre
     dokumenter nevnt i opplysningsdokumentet.
 
@@ -1147,6 +1235,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     2. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal fabrikanten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
 
+    Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.
+
     Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøy aksepteres registrert.
 
     Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg VIII.
@@ -1157,6 +1247,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

@@ -318,7 +318,7 @@
       "Legemidlet må ikke tas sammen med mat"
     ],
     "answer": 1,
-    "explanation": "Rød varseltrekant betyr at myndighetene har gitt detaljerte regler for bruk av legemidlet ved bilkjøring, fordi det kan svekke kjøreevnen (Legemiddelverket, ordningen lagt om i 2017–2019). Også legemidler uten trekant kan påvirke kjøringen – spør lege eller apotek. Det er forbudt å kjøre påvirket (vegtrafikkloven § 22).",
+    "explanation": "Rød varseltrekant betyr at myndighetene har gitt detaljerte regler for bruk av legemidlet ved bilkjøring, fordi det kan svekke kjøreevnen (Legemiddelverket, ordningen lagt om i 2018–2019). Også legemidler uten trekant kan påvirke kjøringen – spør lege eller apotek. Det er forbudt å kjøre påvirket (vegtrafikkloven § 22).",
     "source": "https://nhi.no/for-helsepersonell/nytt-om-legemidler/arkiv-lmv-2017/endring-i-ordningen-med-varseltrekant-pa-legemidler"
   },
   {
@@ -408,7 +408,7 @@
   {
     "id": "ansvar-30",
     "category": "Fører og eiers ansvar",
-    "text": "Bilen din stopper inne i en tunnel. Hvordan bør du varsle om situasjonen?",
+    "text": "Bilen din stopper inne i denne tunnelen. Hvordan bør du varsle om situasjonen?",
     "options": [
       "Bruke nødtelefonen i tunnelen",
       "Ringe Statens vegvesen fra mobilen",
@@ -417,6 +417,7 @@
     ],
     "answer": 0,
     "explanation": "Bruk nødtelefonen i tunnelen fremfor mobilen. Da kobles du direkte til vegtrafikksentralen, som ser nøyaktig hvor du er.",
-    "source": "https://www.vegvesen.no/trafikkinformasjon/trafikksikkerhet/trygg-i-tunnel/tunnelsikkerhet/"
+    "source": "https://www.vegvesen.no/trafikkinformasjon/trafikksikkerhet/trygg-i-tunnel/tunnelsikkerhet/",
+    "image": "/situasjon/tunnel-nodstasjon.jpg"
   }
 ]

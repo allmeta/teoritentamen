@@ -1,0 +1,373 @@
+Logg ut
+Gå til hovedinnhold
+Til forsiden Statens Vegvesen
+Lukk Søk
+Søk etter [                    ]
+Lukk Meny
+
+  • Din side
+  • Trafikk
+      □ [travelinfo] Reiseinformasjon
+      □ [roadsurrou] Vei og skilt
+      □ [safety_gre] Trafikksikkerhet
+  • Kjøretøy
+      □ [buyandsell] Kjøp og salg
+      □ [maintenanc] Eie og vedlikeholde
+      □ [transport_] Yrkestransport
+  • Førerkort
+      □ [driverlice] Ta førerkort
+      □ [driverlice] Har førerkort
+      □ [profdriver] Utdanning for yrkessjåfører
+  • Veiprosjekter
+      □ [trafficpoi] Finn veiprosjekter
+      □ [puzzle] Prosessen fram til ny vei
+      □ [nasjonal-t] Nasjonal transportplan (NTP)
+      □ [vector] Høringer veiprosjekter
+      □ [for-deg-me] For entreprenører
+  • Fag
+      □ [road_grey] Vei og gate
+      □ [cars_grey] Trafikk
+      □ [technology] Teknologi
+      □ [focus_grey] Fokusområder
+      □ [infobubble] Leverandør
+      □ [publicatio] Publikasjoner
+  • Om oss
+      □ [contact_gr] Kontakt oss
+      □ [organizati] Om organisasjonen
+      □ [employees_] Jobb i Statens vegvesen
+      □ [infobubble] Presse
+
+For at nettsidene skal fungere best mulig for deg, må du aktivere JavaScript i nettleseren din. Her finner du veiledning til hvordan du aktiverer JavaScript i
+nettleseren (ekstern lenke).
+
+Du kan også bruke nettsidene uten å aktivere JavaScript. Bruk søket eller naviger ved hjelp av nettstedkartet.
+
+ 1. Forsiden
+ 2. Fag
+ 3. Vei og gate
+ 4. Vinterdrift
+
+Salting av veier
+
+Salt er i tillegg til brøyting et hjelpemiddel i vinterdriften for å opprettholde eller raskt gjenopprette bar vei.
+
+Statens vegvesens oppgave er å sørge for fremkommelige og trafikksikre veier – også om vinteren.
+
+Hvorfor salter vi? 
+
+Salting bidrar til å opprettholde bar vei ved kuldegrader og gjenopprette bar vei etter snøvær. Bar vei vil normalt gi bedre framkommelighet og sikrere
+kjøreforhold enn en vei med snø- eller isdekke.
+
+Det er særlig to forhold som er avgjørende for hvorvidt salt må brukes i vinterdriften; klima og trafikkmengde. På veier med høy trafikk og i områder med
+vekslende værforhold vil vinterdrift med kun bruk av brøyting og sand ha begrenset effekt. Sand vil fort «blåse» av veien på grunn av trafikken. På rim, tynne
+ishinner og på våt is har sanden begrenset effekt med hensyn til økning i veigrep og varighet. På veier med høy trafikk vil man ved snøvær oppleve rask
+oppbygging av snø- og issåle, selv med hyppig brøyting. Trafikken vil polere snø- og issålen og gi lav friksjon.
+
+Salt vil hindre tilfrysning av våt veibane og dermed hindre dannelse av ishinne. Ved duggfall vil salt hindre at rim gir glatt veibane. Ved snøvær vil saltet
+hindre oppbygging av snøsåle og gjøre snøen lettere å fjerne med brøyting. Trafikk bidrar til økt effekt av salttiltak. Trafikken hjelper til nedknusing og
+fordeling av saltet, og til opptørking av veibanen. Salt vil derfor brukes på veier med relativt høy trafikk, og i områder og perioder med vekslende
+temperaturforhold.
+
+Det er godt kjent at salting kan ha negative effekter på miljø og materialer. Når det velges å benytte salt i vinterdriften, er det et mål å benytte så lite
+salt som mulig, samtidig som framkommelighet og trafikksikkerheten opprettholdes.
+
+Det er nødvendig med god kunnskap om salt, hvordan det virker og tolkning av værvarslet for å få et godt resultat.
+
+Hvorfor brukes ikke kun brøyting og sand i stedet for salt?
+
+Salt og sand har to ulike bruksområder.
+
+Hensikten med å benytte salt i vinterdriften er for å oppnå lengre perioder med bar vei, mens sand brukes for å bedre veigrepet i perioder med glatt vei ved
+snø- og isdekke.
+
+Det er vanskelig å oppnå langvarige effekter med godt veigrep med bruk av strøsand. Sanden har begrenset effekt både mht. økt veigrep og varighet på rim og
+tynne ishinner, men også på våt is. På veier med høg trafikk vil strøsand lett bli blåst bort slik at varigheten av et strøtiltak blir svært kort. Metoden med
+å blande varmt vann og sand, såkalt Fastsand, har også begrenset effekt. Fastsand forutsetter stabilt vær med kuldegrader for å oppnå god varighet. Effekten av
+et strøtiltak med Fastsand vil også har relativt kort varighet ved høy trafikk.
+
+Ved snøvær vil trafikk kompaktere snøen slik at det blir et snødekke. Dette skjer selv ved hyppig brøyting. Ved temperaturer nærmere frysepunktet (0 °C) og
+kram snø blir det lettere dannet snø-/issåle. Jo mer trafikk, jo hurtigere blir det dannet snø-/issåle. Trafikken vil bidra til polering av snøsålen og kan gi
+glatt veibane.
+
+Salt i tillegg til brøyting, vil derfor brukes på veier med høy trafikk, og i områder og i perioder med vekslende temperaturforhold.
+
+Hvordan virker saltet i vinterdriften?
+
+I vinterdriften utnyttes saltets egenskaper ut fra tre ulike hensikter:
+
+Anti-ising
+
+– salting på bar veibane for å unngå tilfrysing
+
+Anti-ising er salting som utføres på en snø- og isfri veibane (tørr, fuktig eller våt) for å unngå glatt vei på grunn av tilfrysing eller rimfrost. Da utnytter
+vi at saltet senker frysepunktet til vann. Frysepunktet for vann med oppløst salt er avhengig av saltkonsentrasjonen, dvs. hvor mye salt som er oppløst i
+vannet.  Ved lavere temperaturer trengs det derfor en vesentlig høyere saltkonsentrasjon for at det ikke skal dannes is. Dersom saltkonsentrasjonen blir for
+lav og en får tilfrysing, vil denne isen som inneholder salt være svakere enn om rent vann fryser. På saltede veier vil derfor ishinner lettere kunne brytes
+opp av trafikken.
+
+Anti-kompaktering
+
+– salting for lettere å fjerne snø ved brøyting
+
+Anti-kompaktering er salting før, under og etter snøfall for å hindre kompaktering (sammenpakking) av snø og for å gjøre snøen lettere å fjerne mekanisk.
+Saltet svekker bindinger mellom snøkrystaller og mellom snøkrystaller og veibane, slik at det blir lettere å fjerne snø ved brøyting.
+
+De-ising
+
+– salting for smelting og fjerning av snø og is i veibanen
+
+Salt kan brukes til å svekke og/eller smelte et snø- eller isdekke for å gjenopprette bar vei. Ved et tynt isdekke, eller rimfrost vil saltet kunne smelte vekk
+hele isdekket. Er det et tykt snø- eller isdekke vil saltet hjelpe til med å bryte opp sålen slik at den kan fjernes mekanisk. Salt smelter is og bryter opp
+bindinger slik at is kan fjernes lettere mekanisk og brytes lettere ned av trafikken.
+
+For mer utdypende svar henviser vi til kapittel 21.7 i rapport 365 Lærebok Drift og vedlikehold av veger (Brage)
+
+Hvilke veier salter vi?
+
+Statens vegvesens håndbok R610 «Standard for drift og vedlikehold av riksveger» er delt inn i fem såkalte vinterdriftsklasser fra A til E, men for riksveiene
+brukes bare klasse A–D.
+
+De viktigste og mest trafikkerte veiene er i driftsklasse A og B. For veier med driftsklasse A og B er det et mål at veibanen skal være fri for snø og is i
+perioder uten snønedbør. På veier med driftsklasse A og B benyttes salt som hjelpemiddel i vinterdriften i tillegg til brøyting gjennom hele vinteren.
+
+På veier i driftsklasse C, D og E kan salt benyttes under forhold hvor salt gir særlig god effekt og hvor strøing med sand har liten effekt. Dette vil typisk
+være ved såkalte overgangsperioder der hvor temperaturen veksler rundt 0 °C. På disse veiene kan salt benyttes saltet til anti-ising eller de-ising i slike
+overgangsperioder, men salt skal ikke benyttes for anti-kompaktering, altså før og under snøvær.
+
+Hvorfor saltes det av og til på bare veier med fine kjøreforhold?
+
+En av de viktigste fordelene med salt er at man kan gjøre tiltak før glatt veibane oppstår. Dersom værmeldingene viser at det kan dannes is eller rim på veien
+skal det saltes før værhendelsen for å hindre isdannelse og opprettholde bar vei. Dersom det forventes snø, saltes det i forkant av snøværet for å forhindre at
+snøen fester seg til veibanen og for å lette snøbrøytingen og hurtigere gjenopprette bar vei etter endt snøvær. Salt skal i minst mulig grad brukes til å tine
+snø og is, og man ønsker i størst mulig grad å bruke saltet for å forhindre isdannelse og for å hindre oppbygging av snøsåle ved snøvær.
+
+Det er også viktig å tenke på at det av og til kan være ganske stor forskjell på lufttemperaturen og veibanetemperaturen. I noen tilfeller vil man kunne
+oppleve at det er kuldegrader på veibanen mens det er varmegrader i luften. Eksempelvis når det er klarvær, så vil veibanen, på grunn av netto utstråling,
+kunne kjøles ned raskere enn lufta. Hvis veibanen er våt eller fuktig, så vil det kunne være behov for å salte for å unngå isdannelse selv om det er
+varmegrader i lufta.
+
+Hva slags salt brukes på veiene?
+
+I Norge brukes natriumklorid (NaCl) som salt i vinterdriften.
+
+NaCl er det samme saltet som matsalt eller bordsalt. For salt som brukes i vinterdriften settes det krav til blant annet renhet, fuktinnhold og kornstørrelse.
+
+Salt kan spres på veibanen med ulike spredemetoder. De ulike spredemetodene vil ha forskjellig virkning ved de ulike hensikten og under ulike trafikk-, vær- og
+veibaneforhold.
+
+Tørt salt
+
+Her blir saltet strødd ut tørt i form av tørre korn. Korngraderingen av saltet kan variere. Det er en billig og enkel metode. Metoden kan være effektiv dersom
+det allerede ligger snø på veien eller at veien er fuktig. Er veien derimot tørr vil mye av saltet blåses av veien på grunn av trafikken. Tørt salt vil også ha
+en tregere effekt enn andre metoder da saltet må løses opp før det blir effektivt. Tørt salt kan derfor brukes som en preventiv (forebyggende) metode når
+veibanen er fuktig eller under snøvær.
+
+Befuktet salt
+
+Befuktet salt er saltkorn som blir befuktet med saltløsning eller vann rett før det strøs ut på veien. Hensikten med å befukte saltkornene er primært å bedre
+vedheften mellom saltet og veioverflata slik at saltet ikke blåser av veien. I tillegg vil man ved å tilføre saltløsning gjøre saltet mer effektivt ved at noe
+av saltet finnes i løsningsform når det strøs ut på veien. Metoden kan brukes preventivt både ved tørr og våt veibane og under snøvær.
+
+Finkornet befuktet salt (saltslurry)
+
+Finkornet befuktet salt kan være en blanding av finkornet salt (alt mindre enn 4 mm og minst 50 % mindre enn 1 mm, f.eks. vakuumsalt) eller knuste saltkorn fra
+en kvern på sprederen (slurry) og vann eller saltløsning. Metoden vil gi en raskere effekt enn både tørt og befuktet salt. I og med at væske også tilsettes vil
+metoden, i likhet med befuktet salt, ha bedre vedheft til veien enn tørt salt. Metoden kan brukes preventivt både på tørr og våt veibane og under snøvær
+
+Saltløsning
+
+Saltløsning er salt som er fullstendig løst i vann. Løsningen har et blandingsforhold som ligger tett opp til eutektikum, det vil si den saltkonsentrasjonen
+som gir lavest frysepunkt. Saltløsning har en rask effekt og er svært effektivt som preventivt tiltak ved tørr veibane eller når det er lite fukt på veibanen.
+Metoden er også svært effektiv ved tynne ishinner. Metoden er ikke egnet ved våt veibane på grunn av fortynning og har også begrensninger ved lave
+temperaturer.
+
+Hvor mye salt brukes på riksvegene i Norge?
+
+Utviklingen i saltforbruket på riksveiene de siste 10 årene.
+
+Graf som viser forbruket av salt på europa- og riksveinettet i Norge. Sesongen 2014/15: 106 100 tonn, sesongen 2015/16: 118 300 tonn, sesongen 2016/17: 114 200
+tonn, sesongen 2017/18: 151 900 tonn, sesongen 2018/19: 112 800 tonn, sesongen 2019/20: 95 500 tonn, sesongen 2020/21: 82 200 tonn, sesongen 2021/22: 88 600
+tonn, sesongen 2022/23: 112 000 tonn, sesongen 2023/24: 109 600 tonn
+Totalt saltforbruk på riksvegnettet per sesong, fra og med sesongen 2014/2015 til og med sesongen 2023/2024. Illustrasjon: Statens vegvesen
+
+For riksveiene ble det vinteren 2023/24 brukt 109 000 tonn salt. Vi har ikke tilsvarende oversikt over saltforbruket på fylkesveier og kommunale veier.
+
+Over flere år har det skjedd en gradvis endring til mildere klima, og mange steder opplever man endringer i væreforholdene som tilsier økt behov for salting.
+Det er lengre perioder av vinteren som har værforhold med vekslinger rundt 0 ̊C, hvor det er nødvendig å salte for å unngå tilfrysing. Konsekvensen er at
+saltbehovet har økt på de veier som normalt saltes gjennom hele vintersesongen (DkA og DkB). På veier som normalt driftes med bruk av sand som
+friksjonsforbedring (DkC, Dkd og DkE), benyttes salt oftere fordi man har mer forhold der sand har liten eller dårlig effekt.
+
+Fra begynnelsen av 2000-tallet har det skjedd en gradvis økning i saltforbruket, men de siste tre siste vintrene har det vært en nedgang. Dette har flere
+årsaker, blant annet endringer i oppgjørsformer i kontraktene og mer fokus på reduksjon av saltforbruket. Men værforholdene har også mye å si, og som figuren
+viser kan saltforbruket variere mye fra år til år.
+
+Finnes det alternativer til salt?
+
+De fleste land som bruker salt i vinterdriften bruker natriumklorid – det samme stoffet som vanlig bordsalt.
+
+Ut fra den forskningen som foreligger er det så langt ikke funnet alternativer som både er like effektive, og som ikke har negative effekter når de brukes i
+tilstrekkelig store mengder. 
+
+Aktuelle alternativer til salt er i hovedsak kloridbaserte eller organiske baserte kjemikalier. Organiske kjemikalier fører i mindre grad til rustproblemer, og
+kan være mindre skadelige for vannforekomster og vegetasjonen langs veiene. Mens vanlig salt ikke brytes ned i naturen, kan organiske kjemikalier brytes ned.
+Men nedbrytingen er avhengig av en rekke forhold, blant annet temperatur og oksygentilgang. Organiske kjemikalier som ikke brytes ned før de havner i
+vannkilder kan ha store negative effekter.
+
+Et sterkt ønske er å minimalisere saltets negative konsekvenser på natur og korrosjon på biler, bruer og overbygning. Å finne en erstatning for salt er ikke
+lett. Selv om det er flere alternative kjemikalier på markedet, er disse ofte langt dyrere og krever større mengder for å oppnå samme virkning. En populær
+tilnærming, spesielt i Nord-Amerika, er å bruke tilsetningsstoffer til veisalt i et forsøk på å forbedre ytelsen. Disse tilsetningsstoffene er ofte
+sukkerbaserte biprodukter fra landbruk (Agricultural bi-products). Selv om det finnes en del praktisk erfaring med slike tilsetningsstoffer, mangler det
+fremdeles mer grunnleggende kunnskap om hvordan disse stoffene virker/forbedrer ytelsen. Saltet setter ikke bare ned frysepunktet, men bidrar også til å svekke
+isen som dannes slik at trafikken selv klarer å ødelegge den. Laboratorieforsøk viste imidlertid at tilsetningsstoffet verken hadde positiv eller negativ
+effekt på svekkelse av isen.
+
+Kan salting medføre en kuldeblanding som gir glatt vei?
+
+Temperaturen senkes når vi bruker salt til å fjerne is, men det er ikke riktig at denne prosessen i seg selv fører til spontan gjenfrysning og glatt vei.
+
+Når is smelter krever dette energi (varmeenergi), også når smelting av is skjer med bruk av et kjemikalie. Denne varmeenergien vil tas fra isen selv og
+omgivelsene, og temperaturen synker noe. Smelteprosessen, og dermed temperatursenking, vil aldri gå under det som blir endelig frysepunktet til saltløsningen.
+Saltløsningen er da fortsatt flytende og gir i seg selv ikke glatt veibane. Målinger har også vist at temperaturendringen i veioverflaten er forholdsvis liten,
+blant annet på grunn av stort varmemagasin i veikroppen og tilføring av varmeenergi fra luften. 
+
+Løs snø eller is skal alltid fjernes med brøyting før det saltes. Slik minimeres bruk av salt ved fjerning av et snø- eller isdekke. Skal man få gjenfrysning
+på veioverflaten der det er saltet for å fjerne is, må det enten skje en vesentlig uttynning ved ny nedbør, eller at været blir kaldere slik luft- og
+veibanetemperaturen senkes under frysepunktet til saltløsningen på veibanen. I slike tilfeller vil det være viktig å brøyte og salte igjen før gjenfrysing
+skjer.   
+
+Hvordan skader saltet bilene våre?
+
+Stoffer som inneholder klorider, vil akselerere korrosjonen hos jern og stål, og klorider vil dessuten også kunne virke nedbrytende på andre typer materialer.
+
+Korrosjon eller oksidasjon av stål er en elektrodereaksjon som er avhengig av en reaktiv overflate av stål, oksygen og vann, eller fuktighet. Korrosjonsgraden
+øker avhengig av ledningsevnen til fuktigheten på ståloverflaten. Økt ledningsevne oppstår når ioniserbare salter oppløses i vann på stålet.
+
+Korrosjonsgraden er avhengig av temperatur, og under ideelle forhold vil korrosjon opphøre i stor grad ved temperaturer under -2 °C, eller når luftfuktigheten
+er under 60 %.  Under kalde og tørre vintre er derfor korrosjonen på biler markant mindre enn milde og fuktige vintre.
+
+Saltingen fører til at korrosjon på kjøretøyer starter tidligere enn uten salt og at korrosjonshastigheten blir større.
+
+Korrosjon som følge av veisalting er årsak til økte bilkostnader og verdiforringelse på bilene. Redusert korrosjon på kjøretøyer oppnås med god
+understellsbehandling, hyppig vask av opphopet skitt og salt, parkering på godt ventilerte plasser og rask utbedring av eventuelle lakkskader.
+
+Ødelegger saltet asfalten?
+
+Undersøkelser som er gjennomført, viser at bindemiddelet i asfalten ikke løses opp av saltløsning. Hovedårsaken til slitasje på veidekket er piggdekkbruk, og
+piggdekkslitasjen er vesentlig større på en våt veibane enn på en tørr veibane. Med salting kan periodene med våt og fuktig vei bli lengre, og dermed kan
+dekkeslitasjen bli noe større enn uten bruk av salt.
+
+Blir bildekkene glattere av salt?
+
+Salt er lett oppløselig med vann og salt oppløst i vann vil følge vannet slik at når bildekkene kjøres tørre, blir saltet borte fra dekkene. Dersom saltvann
+fordamper på dekket, kan saltkrystaller utskilles, men ved ny kontakt med vann eller snø vil saltet raskt gå i oppløsning igjen.
+
+Tidligere undersøkelse (SINTEF 1992) viser at belegg på dekk består i hovedsak av gummi, sot og bitumen, og saltet utgjorde i størrelsesorden under 1 % av
+samlet belegg. Dekk som kun går på snø- og isføre, er mindre utsatt for at det dannes belegg i forhold til dekk som går på våt vei, uavhengig om det brukes
+salt eller ikke.
+
+Hvordan påvirker salting innsjøer?
+
+Da saltvann er tyngre enn ferskvann kan saltholdig vann synke mot bunnen av innsjøer og legge seg som et saltvannslag under ferskvannet. Hvis vannet blir
+stående slik lenge vil oksygenet brukes opp, og det kan dannes svovel- og metangasser. Hvis det stillestående, salte bunnvannet utgjør en stor del av innsjøens
+totale vannmengde vil det kunne bli et alvorlig miljøproblem for innsjøen.
+
+Salt i små mengder er i utgangspunktet lite giftig for fisk, alger og vannplanter. Statens vegvesen følger med utviklingen i mange innsjøer langs det saltede
+veinettet og vil sette i verk spesielle tiltak der en har en uakseptabel utvikling.
+
+Hvordan påvirker salting grunnvann og brønner?
+
+Salt vann kan sige gjennom jordsmonnet nær veien og ned til grunnvannet. Konsekvensene av dette vil variere alt etter saltmengder, nedbørsmengder,
+grunnvannsmagasinets og brønnuttakets størrelse og nærhet til vei.
+
+Små grunnvannsmagasiner og små brønner (enkelthusbrønner) med lav gjennomstrømning er generelt mest følsomme for saltforurensning. Grunne brønner nær vei kan i
+verste fall få en så betydelig økning i saltkonsentrasjonen som følge av veisalting at de ikke kan brukes til drikkevann. Risikoen for dette avtar vanligvis jo
+lenger fra veien brønnen er, og jo større grunnvannsmagasinet er.
+
+Hvordan påvirker salting vegetasjonen langs veiene?
+
+Veisalt kan skade vegetasjonen langs veien. Vanligvis viser skadene seg nær veien (inntil 10-15 meter), ved spesielle forhold enda lenger bort fra veien.
+Vegetasjonen skades enten ved at saltsprut legger seg på plantene, eller at salt oppløst i vann trekkes opp i plantene gjennom røttene. Vegetasjonen kan også
+skades ved at saltet kan endre forholdene i jordsmonnet rundt røttene. Omfanget av saltskader på vegetasjonen er sterkt avhengig av lokale jordbunns- og
+avrenningsforhold.
+
+Hva kan gjøres for å redusere saltmengden og fortsatt ha gode kjøreforhold?
+
+Det viktigste tiltaket for å kunne redusere saltmengden er å fjerne mest mulig snø, is og vann fra veiene før de saltes. På en forholdsvis tørr vei trengs det
+små mengder salt, og saltet kan bli liggende svært lenge etter utlegging.
+
+For å kunne oppnå en best mulig saltpraksis er det viktig at det tilrettelegges med et godt driftsopplegg med godt egnet utstyr. Saltbilsjåfører må ha gode
+kunnskaper om salting for å kunne velge riktig metode og dosering ut fra værmeldinger og veiforhold.
+
+Tørt salt som spres på veien må gå raskt i oppløsning slik at saltet ikke blåses ut av veien. Tap av saltet er påvirket av trafikkmengden, trafikkhastighet og
+vind, fuktighet på veibanen, størrelse på saltkornene, mv. Minst tap ved utlegging oppnås normalt med å legge ren saltløsning.
+
+Hva gjør Statens vegvesen for å redusere saltforbruket og miljøskader som følge av saltingen?
+
+Som følge av saltets negative effekter er det et mål om å brukes så lite salt som mulig og samtidig oppnå best mulig kjøreforhold. Målet er ikke knyttet til en
+reduksjon i det totale saltforbruket men at det oppnås et så lavt strekningsvist saltforbruk som mulig på de veiene som saltes.
+
+I perioden 2007–2011 gjennomførte Statens vegvesen forsknings- og utviklingsprosjektet Salt SMART. Det overordnede målet i Salt SMART-programmet var å finne
+fram til en miljøforsvarlig saltpraksis. Det vil si at innsatsen for å opprettholde framkommelighet og trafikksikkerhet på veiene om vinteren ikke skal gi
+uakseptabel skade på miljøet. Gjennom Salt SMART har Statens vegvesen
+
+  • undersøkt og dokumentert saltets miljøvirkninger på jord, biologi og vann
+  • funnet nivå for naturens tålegrenser av salt
+  • utviklet klassifiseringssystem for miljøsoner
+  • beskrevet metodikk for overvåking
+
+Salt SMART utarbeidet en rekke tiltak for å oppnå en optimal vinterdrift med lavt saltforbruk.
+
+Statens vegvesen har utført FoU-programmet Vinterdrift (EVI) i perioden 2013–2016. Dette forsknings- og utviklingsprosjektet har hatt ulike tema som bidrar til
+kunnskap som er viktig for å oppnå et lavt saltforbruk. Det har blant annet blitt sett på effekt av ulike spredemetoder, utvikling og bruk av måleteknologi for
+å oppnå bedre mengdenøyaktighet på spredere. Samtidig har det vært et mål å videreutvikle grunnleggende kunnskap om kjemikalier i vinterdriften. Her har det
+vært et samarbeid med NTNU om opprettelse av Forskningssenter Vinterdrift ved NTNU. Grunnleggende kunnskap om kjemikalier er viktig for å kunne benytte salt på
+en optimal måte, men også for å kunne vurdere effekten av mulige alternativer kjemikalier eller tilsetningsstoffer til salt.
+
+Kompetanse om salting hos brøyte- og strøbilsjåfører er essensielt for å kunne oppnå et optimalt saltforbruk. Statens vegvesen har derfor i samarbeid med
+entreprenørbransjen utført ulike tiltak innen opplæring de siste årene. Det har blitt utviklet opplæringsmateriell som entreprenører kan benytte i sin
+opplæring av vinterdriftspersonell. Alt personell som skal arbeide med vinterdrift for Statens vegvesen gjennom driftskontraktene må gjennomgå en
+kompetansetest for å vise at de har mottatt nødvendig opplæring. Dette opplæringsmateriellet finner du på siden for driftskontrakter.
+
+Vinterdrift
+
+  • Kompetansetest og opplæringsmateriell vinterdrift
+  • Standardkrav
+  • Tall og fakta
+  • Snøbrøyting og rydding
+  • Salting
+
+  • Sandstrøing
+  • Andre vinteroppgaver på og langs vei
+  • Vinterforskning og faglig samarbeid
+
+Chat med oss
+
+Kontakt oss
+
+  • Kontakt Statens vegvesen
+  • Følg oss i sosiale medier
+
+Om vegvesen.no
+
+  • Nettstedskart
+  • Personvern
+  • Informasjonskapsler (cookies)
+  • Tilgjengelighetserklæring
+
+Statens vegvesen
+
+  • Om organisasjonen
+
+Org.nr.: 971 032 081
+
+  • Statistikk og analyser
+  • Innsyn etter offentligloven
+  • Offentlige høringer
+  • Skjema
+
+Language
+
+  • Bokmål
+  • Nynorsk (ikkje tilgjengeleg)
+  • English (not available)
+

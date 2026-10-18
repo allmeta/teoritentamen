@@ -1,0 +1,183 @@
+Bremsevæske | HELLA
+FunktionBremsesystemer er meget komplicerede, da utallige
+elementer skal arbejde sammen uden problemer, så bremserne
+fungerer også i ekstreme situationer. En meget vigtig del
+er bremsevæsken, for væsken overfører pedalens tryk til
+bremsesystemet ved hjælp af hydraulisk tryk.For at væsken skal
+virke korrekt, må dens funktion på intet tidspunkt og under ingen
+omstændigheder forringes. Bremsevæsken skal derfor være
+modstandsdygtig over for lave temperaturer, så den ikke bliver
+tyktflydende eller fryser. Og væsken må heller ikke kunne koge ved
+høje temperaturer, da dampen danner bobler, hvilket kan forringe
+bremsevirkningen. Andre vigtige egenskaber for bremsevæsken er
+korrosionsbeskyttelse, smøring samt forenelighed med forskellige
+materialer i selve bremsesystemet. Bremsevæsken skal altid være i
+orden og i tilstrækkelig mængde, så funktionen og trafiksikkerheden
+garanteres under kørslen. Kogepunkt og viskositetBremsevæsker
+(DOT 3, DOT 4, DOT 4LV, DOT 5,1) er baseret på en polyglykol-
+forbindelse, og den er hygroskopisk. Det vil sige, at den optager
+fugt fra omgivelserne, hvilket som regel sker i form af en diffusion
+via bremseslangerne eller bremsevæskebeholderen. Jo ældre
+komponenterne er, desto højere er gennemtrængeligheden. Hvis
+bremsevæskens vandindhold bliver for højt, falder kogepunktet.
+Derfor er det tørre kogepunkt, det våde kogepunkt samt viskositeten
+for en bremsevæske utroligt vigtige.Tørt kogepunkt:Det tørre
+kogepunkt er kogepunktet for en ny bremsevæske fra en
+forseglet beholder uden vandindhold.Vådt kogepunkt:Det våde
+kogepunkt er det kogepunkt, som opnås for en bremsevæske, der
+indeholder 3,5 % (vægtprocent) vand under bestemte betingelser.
+Viskositet:Viskositet er et mål for, hvor tyktflydende en væske
+er. Jo højere viskositeten er, desto mere tyktflydende (mere sej)
+er en væske; jo lavere viskositeten er, desto mere tyndtflydende
+(letflydende) er væsken.De fleste væskers viskositet aftager med
+stigende temperatur. For bremsevæsker, der er afstemt til moderne
+biler med ESP og ABS (DOT 4 LV og DOT 5.1), er viskositeten
+meget vigtig, for her er der brug for en relativ høj flydeevne selv
+ved lave temperaturer.Klassificering iht. DOTFor at bremsevæsker
+skal overholde de sikkerhedsrelevante krav for disse kriterier,
+er der udfærdiget bestemte minimumsstandarder. For at de kan
+overholdes, findes der en internationalt forpligtende klassificering
+iht. DOT ("United States Department of Transportation"), som
+fabrikanterne skal overholde.DOT-klassificeringDOT 3DOT 4DOT
+4 LVDOT 5,1Tørt kogepunkt>205 (229)>230 (268)>230 (267)>260
+(269)Viskositet ved 100°C [mm²/s] (1,95) (2,34) (2,1) (2,16)Viskositet
+ved -40°C [mm²/s] (1200) (1315) (675) (810)(I parentes: Testresultater
+for HELLA bremsevæske)ServiceanvisningHELLA anbefaler
+følgende skifteintervaller for at sikre bedst mulig bremsefunktion
+og maksimal sikkerhed:DOT 3: for hver 12 månederDOT 4, DOT 4
+LV, DOT 5.1: for hver 24 månederBrug kun bremsevæsker, som
+er angivet i servicehæftet eller på bremsevæskebeholderens
+dæksel i køretøjet.Bremsesystemet samt især bremseslangerne
+bør kontrolleres regelmæssigt for utætheder i forbindelse med
+serviceeftersyn.Sortiment og emballageHELLA bremsevæske
+fås i følgende emballager:TypeArtikelnummerEmballage /
+literDOT 38DF 355 360-0711,00DOT 48DF 355 360-0010,25DOT
+48DF 355 360-0110,50DOT 48DF 355 360-0211,00DOT 48DF
+355 360-0315,00DOT 48DF 355 360-04120,00DOT 4 LV8DF 355
+360-0511,00DOT 4 LV8DF 355 360-0615,00DOT 5,18DF 355
+360-0810,50DOT 5,18DF 355 360-0911,00
+
+Brake systems are complex entities in which many elements must work together perfectly to
+ensure safe functioning, even in extreme situations. The brake fluid plays a very important role in
+this, as it transfers the power from the pedals to the brake system by means of hydraulic pressure.
+
+In order for it to fulfill its function, the effectiveness of the brake fluid must never be impeded under
+any circumstances. This means that the brake fluid needs to be resistant to low temperatures
+in order to ensure that it does not become viscous, or even freeze. It must never boil at high
+temperatures, as the resulting vapor bubbles could impair the performance of the brakes. Other
+important properties of brake fluid include corrosion protection, lubrication and good compatibility
+with the various materials used in the brake system. Brake fluid must function perfectly and be
+present in sufficient quantities at all times in order to guarantee that the vehicle functions reliably
+and remains safe on the road.
+
+
+
+Boiling point and viscosity
+
+Brake fluid (DOT 3, DOT 4, DOT 4LV,DOT 5,1) is based on a polyglycol bond, and is hygroscopic.
+This means that it absorbs humidity from its surroundings, usually by means of diffusion via the
+brake hose or the expansion tank. The older the components, the higher the permeability. If the
+water content in the brake fluid is too high, the boiling point will drop. As such, the dry boiling point,
+wet boiling point and viscosity of a brake fluid are crucial.
+Dry boiling point:
+
+The dry boiling point is the boiling point of new brake fluid from a sealed container, with no water
+content.
+
+
+Wet boiling point:
+
+The term "wet boiling point" refers to the boiling point of a brake fluid with a water content of 3.5%
+(by weight) under certain conditions.
+
+
+Viscosity:
+
+The viscosity is a measure of how easily a fluid flows. The higher the viscosity, the thicker (more
+slow-flowing) a fluid is; the lower the viscosity, the thinner (more fast-flowing) it is.
+
+The viscosity of most substances reduces as their temperature is increased. Viscosity is
+particularly important in brake fluids designed for modern vehicles with ESP and ABS (DOT 4 LV
+and DOT 5.1), as they must be able to flow relatively quickly even at low temperatures.
+
+
+Classification in accordance with DOT
+
+In order to ensure that brake fluids fulfill the safety requirements for these criteria, certain minimum
+standards have been defined. In order to ensure that these are observed, the United States
+Department of Transportation has created the DOT classification, which must be observed by
+manufacturers.
+
+
+ DOT                  DOT 3               DOT 4                DOT 4 LV             DOT 5.1
+ classification
+
+ Dry boiling point    >205(229)           >230(268)            >230(267)            >260(269)
+
+ Wet boiling point    >140(149)           >155(163)            >155(172)            >180(187)
+
+ Viscosity            < 1.5(1.95)         < 1.5(2.34)          < 1.5(2,1)           < 1.5(2.16)
+ at100°C [mm²/s]
+
+ Viscosity at-40°C    <1500(1200)         <1800(1315)          <1800(675)           <900(810)
+ [mm²/s]
+
+
+(In brackets: test results for HELLA brake fluid)
+
+
+Maintenance information
+
+HELLA recommends the following maintenance intervals in order to guarantee optimum brake
+performance and maximum safety:
+• DOT 3: every 12 months
+• DOT 4, DOT 4 LV, DOT 5.1: every 24 months
+
+Only use the brake fluids specified in the service manual or on the cover of the expansion tank of
+the vehicle in question.
+
+In addition to this, the brake system – and the brake hoses in particular – should be checked for
+leaks regularly during service inspections.
+
+
+Product range and containers
+
+HELLA brake fluid is available in the following containers:
+
+
+ Type                              Article number                    Container/liters
+
+ DOT 3                             8DF 355 360-071                   1.00
+
+ DOT 4                             8DF 355 360-001                   0.25
+
+ DOT 4                             8DF 355 360-011                   0.50
+
+ DOT 4                             8DF 355 360-021                   1.00
+
+ DOT 4                             8DF 355 360-031                   5.00
+
+ DOT 4                             8DF 355 360-041                   20.00
+
+ DOT 4 LV                          8DF 355 360-051                   1.00
+
+ DOT 4 LV                          8DF 355 360-061                   5.00
+
+ DOT 5.1                           8DF 355 360-081                   0.50
+
+ DOT 5.1                           8DF 355 360-091                   1.00
+
+
+
+
+         Important safety note
+   Technical information and practical tips have been compiled by HELLA in order to provide
+   professional support to vehicle workshops in their day-to-day work. The information
+   provided on this website is intended for use by suitably qualified personnel only.
+
+   Reprinting, distribution, reproduction, exploitation in any form or disclosure of the contents
+   of this document, even in part, is prohibited without our express, written approval and
+   indication of the source. The schematic illustrations, pictures and descriptions serve only
+   for the purposes of explanation and representation of the instructions and cannot be used
+   as a basis for installation or assembly work. All rights reserved.
+

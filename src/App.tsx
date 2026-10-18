@@ -1,25 +1,42 @@
-import { createMemo, createSignal, For, Match, onCleanup, Show, Switch } from 'solid-js'
+import { createEffect, createMemo, createSignal, For, Match, onCleanup, Show, Switch } from 'solid-js'
 import { Button } from '~/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '~/components/ui/card'
 import { Badge } from '~/components/ui/badge'
 import { cn } from '~/lib/utils'
 import {
   type Attempt, type Mode, type Question,
-  PASS_MIN, TEST_SIZE, highscores, loadAttempts, passed, pickQuestions, saveAttempt, shuffleOptions,
+  PASS_MIN, TEST_SIZE, highscores, learn, loadAttempts, loadMisses, nextFrom, passed, pickQuestions, saveAttempt,
+  saveMisses, shuffleOptions,
 } from '~/lib/quiz'
 import { questions as bank } from '~/data/questions'
 
 const fmtTime = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`
 const fmtDate = (iso: string) =>
   new Date(iso).toLocaleString('nb-NO', { dateStyle: 'short', timeStyle: 'short' })
+// Situation photos (driver's view) fill the card; sign drawings stay small.
+const imgClass = (src: string) =>
+  src.startsWith('/situasjon/') ? 'w-full rounded-lg' : 'mx-auto max-h-48 object-contain'
 const NAME_KEY = 'teoritentamen.name'
 const readName = () => { try { return localStorage.getItem(NAME_KEY) ?? '' } catch { return '' } }
+
+// Pågående prøve, så den kan fortsettes etter reload/lukket fane.
+const SAVE_KEY = 'teoritentamen.pagaende'
+type Saved = { qs: Question[]; answers: (number | null)[]; checked: boolean[]; idx: number; mode: Mode; started: number }
+const readSaved = (): Saved | undefined => {
+  try {
+    const s = JSON.parse(localStorage.getItem(SAVE_KEY) ?? 'null')
+    return s?.qs?.length && s.answers?.length === s.qs.length ? s : undefined
+  } catch { return undefined }
+}
+const clearSaved = () => { try { localStorage.removeItem(SAVE_KEY) } catch {} }
 
 export default function App() {
   const [view, setView] = createSignal<'home' | 'quiz' | 'result'>('home')
   const [attempts, setAttempts] = createSignal<Attempt[]>(loadAttempts())
   const [name, setName] = createSignal(readName())
   const [mode, setMode] = createSignal<Mode>('eksamen')
+  const practice = () => mode() !== 'eksamen' // øving og skiltpugging viser fasit underveis
+  const endless = () => mode() === 'skilt' // skiltpugging har ingen fast lengde
   const [qs, setQs] = createSignal<Question[]>([])
   const [answers, setAnswers] = createSignal<(number | undefined)[]>([])
   const [checked, setChecked] = createSignal<boolean[]>([])
@@ -32,13 +49,40 @@ export default function App() {
   onCleanup(() => clearInterval(timer))
   const elapsed = () => Math.max(0, Math.floor((now() - started()) / 1000))
 
+  const saved = readSaved()
+  if (saved) {
+    setMode(saved.mode)
+    setQs(saved.qs)
+    setAnswers(saved.answers.map((a) => a ?? undefined))
+    setChecked(saved.checked)
+    setIdx(saved.idx)
+    setStarted(saved.started)
+    setView('quiz')
+  }
+  createEffect(() => {
+    if (view() !== 'quiz') return
+    const s: Saved = { qs: qs(), answers: answers().map((a) => a ?? null), checked: checked(), idx: idx(), mode: mode(), started: started() }
+    try { localStorage.setItem(SAVE_KEY, JSON.stringify(s)) } catch {}
+  })
+
+  // Skiltpugging: skilt du bommer på lagres og kommer oftere igjen, også i senere økter.
+  const signPool = bank.filter((x) => x.category === 'Skilt')
+  const [misses, setMisses] = createSignal(loadMisses())
+  const nextSign = () => shuffleOptions(nextFrom(signPool, misses(), qs().slice(-3).map((x) => x.id)))
+  const learnAt = (i: number) => {
+    const x = qs()[i]
+    const m = learn(misses(), x.id, answers()[i] === x.answer)
+    setMisses(m)
+    saveMisses(m)
+  }
+
   const q = () => qs()[idx()]
   const correctCount = createMemo(() => qs().filter((x, i) => answers()[i] === x.answer).length)
   const answeredCount = () => answers().filter((a) => a !== undefined).length
 
   const start = () => {
     try { localStorage.setItem(NAME_KEY, name()) } catch {}
-    const picked = pickQuestions(bank).map(shuffleOptions)
+    const picked = endless() ? [nextSign()] : pickQuestions(bank).map(shuffleOptions)
     setQs(picked)
     setAnswers(picked.map(() => undefined))
     setChecked(picked.map(() => false))
@@ -53,15 +97,52 @@ export default function App() {
     if (checked()[idx()]) return
     setAnswers((a) => a.map((v, j) => (j === idx() ? i : v)))
   }
-  const check = () => setChecked((c) => c.map((v, j) => (j === idx() ? true : v)))
+  const check = () => {
+    if (endless() && !checked()[idx()]) learnAt(idx())
+    setChecked((c) => c.map((v, j) => (j === idx() ? true : v)))
+  }
+
+  // Hurtigtaster: a–d velg · j/k/↑/↓ flytt valg · h/l/←/→, N/p og n forrige/neste · s/i sjekk svar
+  const move = (d: number) => {
+    const cur = answers()[idx()], n = q().options.length
+    choose(cur === undefined ? (d > 0 ? 0 : n - 1) : Math.min(n - 1, Math.max(0, cur + d)))
+  }
+  const go = (d: number) => {
+    if (endless() && d > 0 && idx() === qs().length - 1) {
+      setQs([...qs(), nextSign()])
+      setAnswers([...answers(), undefined])
+      setChecked([...checked(), false])
+    }
+    setIdx((i) => Math.min(qs().length - 1, Math.max(0, i + d)))
+  }
+  const onKey = (e: KeyboardEvent) => {
+    if (view() !== 'quiz' || e.ctrlKey || e.metaKey || e.altKey) return
+    if ((e.target as HTMLElement).closest('input, textarea')) return
+    const opt = 'abcde'.indexOf(e.key)
+    if (opt >= 0 && opt < q().options.length) choose(opt)
+    else if (e.key === 'j' || e.key === 'ArrowDown') move(1)
+    else if (e.key === 'k' || e.key === 'ArrowUp') move(-1)
+    else if (e.key === 'l' || e.key === 'ArrowRight' || e.key === 'n') go(1)
+    else if (e.key === 'h' || e.key === 'ArrowLeft' || e.key === 'N' || e.key === 'p') go(-1)
+    else if (e.key === 's' || e.key === 'i') {
+      if (practice() && answers()[idx()] !== undefined) check()
+    } else return
+    e.preventDefault()
+  }
+  window.addEventListener('keydown', onKey)
+  onCleanup(() => window.removeEventListener('keydown', onKey))
 
   const finish = () => {
     const unanswered = qs().length - answeredCount()
-    if (unanswered && !confirm(`Du har ${unanswered} ubesvarte spørsmål. Levere likevel?`)) return
+    if (!endless() && unanswered && !confirm(`Du har ${unanswered} ubesvarte spørsmål. Levere likevel?`)) return
+    // Skiltpugging: lær også av svar som ble valgt men ikke sjekket, og tell bare besvarte.
+    if (endless()) qs().forEach((_, i) => { if (answers()[i] !== undefined && !checked()[i]) learnAt(i) })
     const a: Attempt = {
       name: name().trim() || 'Anonym', date: new Date().toISOString(), mode: mode(),
-      correct: correctCount(), total: qs().length, seconds: Math.round((Date.now() - started()) / 1000),
+      correct: correctCount(), total: endless() ? answeredCount() : qs().length,
+      seconds: Math.round((Date.now() - started()) / 1000),
     }
+    clearSaved()
     setAttempts(saveAttempt(a))
     setLast(a)
     setView('result')
@@ -104,10 +185,11 @@ export default function App() {
               </label>
               <fieldset>
                 <legend class="text-sm font-medium mb-1.5">Modus</legend>
-                <div class="grid gap-2 sm:grid-cols-2">
+                <div class="grid gap-2 sm:grid-cols-3">
                   <For each={[
                     { id: 'eksamen' as Mode, title: 'Eksamensmodus', desc: 'Som den ekte prøven. Fasit vises når du leverer.' },
                     { id: 'ovelse' as Mode, title: 'Øvingsmodus', desc: 'Sjekk svaret og se forklaring underveis.' },
+                    { id: 'skilt' as Mode, title: 'Skiltpugging', desc: `Uendelig, alle ${signPool.length} skilt. Skilt du bommer på kommer oftere igjen.` },
                   ]}>
                     {(m) => (
                       <label class={cn('rounded-lg border p-3 cursor-pointer has-[:checked]:border-primary has-[:checked]:ring-2 has-[:checked]:ring-primary/30')}>
@@ -131,7 +213,7 @@ export default function App() {
               <CardContent>
                 <Show when={attempts().length} fallback={<p class="text-sm text-muted-foreground">Ingen prøver ennå.</p>}>
                   <ol class="space-y-2 text-sm">
-                    <For each={highscores(attempts())}>
+                    <For each={highscores(attempts().filter((a) => a.mode !== 'skilt'))}>
                       {(a, i) => (
                         <li class="flex items-center gap-3">
                           <span class="w-5 text-muted-foreground tabular-nums">{i() + 1}.</span>
@@ -158,7 +240,9 @@ export default function App() {
                             <span class="text-muted-foreground">{fmtDate(a.date)}</span>
                           </span>
                           <span class="tabular-nums">{a.correct}/{a.total}</span>
-                          <Badge variant={passed(a) ? 'success' : 'error'}>{passed(a) ? 'Bestått' : 'Ikke bestått'}</Badge>
+                          <Show when={a.mode !== 'skilt'} fallback={<Badge variant="secondary">Skilt</Badge>}>
+                            <Badge variant={passed(a) ? 'success' : 'error'}>{passed(a) ? 'Bestått' : 'Ikke bestått'}</Badge>
+                          </Show>
                         </li>
                       )}
                     </For>
@@ -171,16 +255,22 @@ export default function App() {
 
         <Match when={view() === 'quiz' && q()}>
           {(_) => {
-            const reveal = () => mode() === 'ovelse' && checked()[idx()]
+            const reveal = () => practice() && checked()[idx()]
             return (
               <div class="space-y-4">
                 <div class="flex items-center justify-between text-sm text-muted-foreground">
-                  <span>Spørsmål {idx() + 1} av {qs().length}</span>
+                  <span>
+                    <Show when={endless()} fallback={<>Spørsmål {idx() + 1} av {qs().length}</>}>
+                      Spørsmål {idx() + 1} · {correctCount()} av {answeredCount()} riktige · {Object.keys(misses().m).length} skilt å øve mer på
+                    </Show>
+                  </span>
                   <span class="tabular-nums">⏱ {fmtTime(elapsed())}</span>
                 </div>
-                <div class="h-1.5 w-full rounded-full bg-muted overflow-hidden">
-                  <div class="h-full bg-primary transition-all" style={{ width: `${(answeredCount() / qs().length) * 100}%` }} />
-                </div>
+                <Show when={!endless()}>
+                  <div class="h-1.5 w-full rounded-full bg-muted overflow-hidden">
+                    <div class="h-full bg-primary transition-all" style={{ width: `${(answeredCount() / qs().length) * 100}%` }} />
+                  </div>
+                </Show>
 
                 <Card>
                   <CardHeader>
@@ -189,7 +279,7 @@ export default function App() {
                   </CardHeader>
                   <CardContent class="space-y-4">
                     <Show when={q().image}>
-                      <img src={q().image} alt="" class="mx-auto max-h-48 object-contain" />
+                      <img src={q().image} alt="" class={imgClass(q().image!)} />
                     </Show>
                     <div class="space-y-2" role="radiogroup">
                       <For each={q().options}>
@@ -218,14 +308,14 @@ export default function App() {
                   <CardFooter class="justify-between gap-2">
                     <Button variant="outline" disabled={idx() === 0} onClick={() => setIdx(idx() - 1)}>Forrige</Button>
                     <div class="flex gap-2">
-                      <Show when={mode() === 'ovelse' && !checked()[idx()]}>
+                      <Show when={practice() && !checked()[idx()]}>
                         <Button variant="secondary" disabled={answers()[idx()] === undefined} onClick={check}>Sjekk svar</Button>
                       </Show>
                       <Show
-                        when={idx() < qs().length - 1}
+                        when={idx() < qs().length - 1 || endless()}
                         fallback={<Button onClick={finish}>Lever prøven</Button>}
                       >
-                        <Button onClick={() => setIdx(idx() + 1)}>Neste</Button>
+                        <Button onClick={() => go(1)}>Neste</Button>
                       </Show>
                     </div>
                   </CardFooter>
@@ -239,17 +329,22 @@ export default function App() {
                         class={cn(
                           'size-8 rounded-md border text-xs tabular-nums cursor-pointer',
                           i() === idx() && 'ring-2 ring-primary',
-                          answers()[i()] !== undefined && !(mode() === 'ovelse' && checked()[i()]) && 'bg-primary text-primary-foreground',
-                          mode() === 'ovelse' && checked()[i()] && (answers()[i()] === x.answer ? 'bg-success text-white' : 'bg-destructive text-white'),
+                          answers()[i()] !== undefined && !(practice() && checked()[i()]) && 'bg-primary text-primary-foreground',
+                          practice() && checked()[i()] && (answers()[i()] === x.answer ? 'bg-success text-white' : 'bg-destructive text-white'),
                         )}
                         onClick={() => setIdx(i())}
                       >{i() + 1}</button>
                     )}
                   </For>
                 </nav>
+                <p class="hidden sm:block text-xs text-muted-foreground">
+                  Hurtigtaster: <kbd>A</kbd>–<kbd>D</kbd> velg · <kbd>J</kbd>/<kbd>K</kbd> eller ↑/↓ flytt valg ·{' '}
+                  <kbd>H</kbd>/<kbd>L</kbd>, ←/→, <kbd>P</kbd>/<kbd>N</kbd> eller <kbd>Shift+N</kbd> forrige/neste
+                  <Show when={practice()}> · <kbd>S</kbd>/<kbd>I</kbd> sjekk svar</Show>
+                </p>
                 <div class="flex justify-between">
-                  <Button variant="ghost" onClick={() => confirm('Avbryte prøven? Resultatet lagres ikke.') && setView('home')}>Avbryt</Button>
-                  <Button variant="outline" onClick={finish}>Lever prøven</Button>
+                  <Button variant="ghost" onClick={() => { if (confirm('Avbryte prøven? Resultatet lagres ikke.')) { clearSaved(); setView('home') } }}>Avbryt</Button>
+                  <Button variant="outline" onClick={finish}>{endless() ? 'Avslutt' : 'Lever prøven'}</Button>
                 </div>
               </div>
             )
@@ -261,11 +356,13 @@ export default function App() {
             <div class="space-y-6">
               <Card class={cn('border-2', passed(a()) ? 'border-success' : 'border-destructive')}>
                 <CardHeader class="items-center text-center">
-                  <CardTitle class="text-3xl">{passed(a()) ? 'Bestått!' : 'Ikke bestått'}</CardTitle>
+                  <CardTitle class="text-3xl">{a().mode === 'skilt' ? 'Skiltpugging' : passed(a()) ? 'Bestått!' : 'Ikke bestått'}</CardTitle>
                   <CardDescription class="text-base">
                     {a().correct} av {a().total} riktige · {a().total - a().correct} feil · {fmtTime(a().seconds)}
                   </CardDescription>
-                  <p class="text-sm text-muted-foreground">Krav: minst {PASS_MIN} riktige (maks {TEST_SIZE - PASS_MIN} feil)</p>
+                  <Show when={a().mode !== 'skilt'}>
+                    <p class="text-sm text-muted-foreground">Krav: minst {PASS_MIN} riktige (maks {TEST_SIZE - PASS_MIN} feil)</p>
+                  </Show>
                 </CardHeader>
                 <CardFooter class="justify-center gap-2">
                   <Button onClick={start}>Ny prøve</Button>
@@ -288,7 +385,7 @@ export default function App() {
                         <CardTitle class="text-base leading-snug">{i() + 1}. {x.text}</CardTitle>
                       </CardHeader>
                       <CardContent class="space-y-3">
-                        <Show when={x.image}><img src={x.image} alt="" class="max-h-24 object-contain" /></Show>
+                        <Show when={x.image}><img src={x.image} alt="" class={imgClass(x.image!)} /></Show>
                         <div class="space-y-1.5">
                           <For each={x.options}>
                             {(opt, j) => (
@@ -312,6 +409,9 @@ export default function App() {
           )}
         </Match>
       </Switch>
+      <footer class="mt-12 text-xs text-muted-foreground">
+        Situasjonsbilder: Statens vegvesen (Vegbilder), <a class="underline" href="https://data.norge.no/nlod/no/2.0">NLOD</a>. Skilt: Wikimedia Commons og Lovdata.
+      </footer>
     </main>
   )
 }

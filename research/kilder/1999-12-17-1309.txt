@@ -1,6 +1,24 @@
+KILDE: https://lovdata.no/dokument/SF/forskrift/1999-12-17-1309 (hentet 2026-10-18)
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -8,8 +26,18 @@ Forskrift om forbud mot førers bruk av håndholdt mobiltelefon under kjøring m
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Forskrift om bruk av mobiltelefon i bil
     Ditt søk ga dessverre ingen treff.
    
     ➦ Gå til opprinnelig kunngjort versjon
@@ -68,6 +96,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

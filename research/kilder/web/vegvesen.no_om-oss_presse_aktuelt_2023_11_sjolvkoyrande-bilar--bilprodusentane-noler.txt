@@ -1,0 +1,148 @@
+Logg ut
+Gå til hovedinnhold
+Til forsiden Statens Vegvesen
+Lukk Søk
+Søk etter [                    ]
+Lukk Meny
+
+  • Din side
+  • Trafikk
+      □ [travelinfo] Reiseinformasjon
+      □ [roadsurrou] Vei og skilt
+      □ [safety_gre] Trafikksikkerhet
+  • Kjøretøy
+      □ [buyandsell] Kjøp og salg
+      □ [maintenanc] Eie og vedlikeholde
+      □ [transport_] Yrkestransport
+  • Førerkort
+      □ [driverlice] Ta førerkort
+      □ [driverlice] Har førerkort
+      □ [profdriver] Utdanning for yrkessjåfører
+  • Veiprosjekter
+      □ [trafficpoi] Finn veiprosjekter
+      □ [puzzle] Prosessen fram til ny vei
+      □ [nasjonal-t] Nasjonal transportplan (NTP)
+      □ [vector] Høringer veiprosjekter
+      □ [for-deg-me] For entreprenører
+  • Fag
+      □ [road_grey] Vei og gate
+      □ [cars_grey] Trafikk
+      □ [technology] Teknologi
+      □ [focus_grey] Fokusområder
+      □ [infobubble] Leverandør
+      □ [publicatio] Publikasjoner
+  • Om oss
+      □ [contact_gr] Kontakt oss
+      □ [organizati] Om organisasjonen
+      □ [employees_] Jobb i Statens vegvesen
+      □ [infobubble] Presse
+
+For at nettsidene skal fungere best mulig for deg, må du aktivere JavaScript i nettleseren din. Her finner du veiledning til hvordan du aktiverer JavaScript i
+nettleseren (ekstern lenke).
+
+Du kan også bruke nettsidene uten å aktivere JavaScript. Bruk søket eller naviger ved hjelp av nettstedkartet.
+
+ 1. Forsiden
+ 2. Om oss
+ 3. Presse
+ 4. Aktuelt
+
+Artikkelen er over to år gammel, og innholdet kan være utdatert.
+
+Sjølvkøyrande bilar – bilprodusentane nøler
+
+Publisert 21. november 2023
+
+Mange bilar kan gje inntrykk av at dei kan køyre på eiga hand. Likevel er det framleis sjåføren bak rattet som har ansvaret for køyringa.
+
+Bilprodusentane lanserer stadig nye førarstøttefunksjonar på bilane. Fartshaldaren har vorte adaptiv, slik at bilen tilpassar farten viss du tek igjen nokon
+som held lågare fart. Filassistenten bidreg til å halde bilen i rett køyrefelt – viss vegmerkinga er god nok. Vindaugspussarane og fjernlys slår seg på og av
+sjølv.
+
+Stein-Helge Mundal
+Stein-Helge Mundal, sjefingeniør i køyretøyavdelinga.  Foto: Statens vegvesen
+
+- Denne utviklinga gir oss mange moglegheiter, men kan på sikt også gi nye problemstillingar. Etter kvart som bilane kan gi føraren meir assistanse i køyringa,
+vert føraren passiv og kan etter kvart missa ferdigheiter, forklarar Stein-Helge Mundal, som arbeider med regelverk for godkjenning av køyretøy i Statens
+vegvesen.
+
+- Internasjonale arbeidsgrupper i FN og EU jobbar med å utvikle tekniske krav til køyretøy og førarstøttesystem. I desse arbeidsgruppene jobbar representantar
+frå medlemslanda saman med bilindustrien, leverandørindustrien og ulike interesseorganisasjonar, seier han.
+
+Statens vegvesen representerer Noreg i desse arbeidsgruppene.
+
+Meir automatisering
+
+- Dei 3 siste åra har bilindustrien vore oppteken av å få friare reglar for førarstøttesystem. Dette er system som støttar føraren i køyringa, men der føraren
+framleis har det fulle ansvaret. Bilindustrien ønskjer eit regelverk som opnar for stadig meir avanserte funksjonar som tek over meir av køyringa, men utan å
+ha ansvar sjølv, seier Mundal.
+
+Årsaka til denne dreiinga er truleg at produsentane ikkje stoler heilt på sjølvkøyringsteknologien, eller at det blir for kostbart å utvikle eit system som kan
+ta over førarens oppgåver og ansvar på eit høgare automatiseringsnivå.
+
+Strikking og kjøring
+Trass i stadig meir avanserte førarstøttesystem så er ikkje dagens bilar sjølvkøyrande. Føraren har alltid ansvaret for køyringa, strikketøyet eller andre
+distraksjonar må vente. Illustrasjonsfoto: Stein-Helge Mundal
+
+Sløve bilførarar
+
+- Vi i Statens vegvesen er uroa for at bilførarane kan verte for sløve og etter kvart mistar evna til å ta kontrollen i kritiske situasjonar, når bilen i
+praksis nesten gjer det aller meste sjølv. For at føraren skal vere skjerpa, er det naudsynt at hen til ei viss grad er involvert i køyringa, seier Stein-Helge
+Mundal.
+
+For å bøte på dette, vil det kome eit krav om at føraren vert overvaka av eit anna system, såkalla driver-monitoring-system. Systemet vil åtvare om at føraren
+i visse tilfelle må ta hendene til rattet eller rette blikket mot vegen.
+
+- Denne teknologien er lite prøvd ut, og vi har lite erfaring med korleis det vil fungere. Vi trur også at alle dei ulike varslingane kan distrahere føraren,
+seier Mundal.
+
+Difor er det risiko for at dei forventa fordelane frå stadig meir avanserte førarstøttesystem kan bli overskygde av negative effektar som kan føre til fleire
+ulukker. Det kan òg føre til at satsinga på dei verkeleg automatiserte køyretøya (automatiseringsnivå 3-5) blir bremsa, då førarstøttesystem er ei enklare
+løysing for produsentane som kan la føraren ta ansvaret.
+
+Skeptiske
+
+I dei internasjonale arbeidsgruppene i FN har Statens vegvesen vore skeptiske til å godta førarstøttesystem der føraren ikkje lenger må ha hendene på rattet.
+
+- Vi har også foreslått at automatisk fartshaldar, filhaldar og filskifte ikkje skal kunne stillast inn på høgare hastigheit enn det som er fartsgrensa på
+staden. Så langt har vi ikkje fått støtte for dette frå nokon av dei andre landa, seier Mundal.
+
+Nye reglar
+
+Det er venta at nye reglar for utvida førarstøttesystem, såkalla «hands-free» køyring med ansvarleg førar,  vil vere klare i 2024.
+
+- Vi er som alltid opptekne av trafikksikkerheit og følgjer utviklinga tett, seier Mundal.
+
+  • Se alle nyheter fra Statens vegvesen
+
+Chat med oss
+
+Kontakt oss
+
+  • Kontakt Statens vegvesen
+  • Følg oss i sosiale medier
+
+Om vegvesen.no
+
+  • Nettstedskart
+  • Personvern
+  • Informasjonskapsler (cookies)
+  • Tilgjengelighetserklæring
+
+Statens vegvesen
+
+  • Om organisasjonen
+
+Org.nr.: 971 032 081
+
+  • Statistikk og analyser
+  • Innsyn etter offentligloven
+  • Offentlige høringer
+  • Skjema
+
+Language
+
+  • Bokmål
+  • Nynorsk (ikkje tilgjengeleg)
+  • English (not available)
+

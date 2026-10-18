@@ -74,4 +74,5 @@
 @layer base {
   * { @apply border-border outline-ring/50; }
   body { @apply bg-background text-foreground antialiased; }
+  kbd { @apply rounded border bg-muted px-1 font-mono text-[0.7rem]; }
 }

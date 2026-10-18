@@ -1,0 +1,83 @@
+Logg ut
+Gå til hovedinnhold
+Til forsiden Statens Vegvesen
+Lukk Søk
+Søk etter [                    ]
+Lukk Meny
+
+  • Din side
+  • Trafikk
+      □ [travelinfo] Reiseinformasjon
+      □ [roadsurrou] Vei og skilt
+      □ [safety_gre] Trafikksikkerhet
+  • Kjøretøy
+      □ [buyandsell] Kjøp og salg
+      □ [maintenanc] Eie og vedlikeholde
+      □ [transport_] Yrkestransport
+  • Førerkort
+      □ [driverlice] Ta førerkort
+      □ [driverlice] Har førerkort
+      □ [profdriver] Utdanning for yrkessjåfører
+  • Veiprosjekter
+      □ [trafficpoi] Finn veiprosjekter
+      □ [puzzle] Prosessen fram til ny vei
+      □ [nasjonal-t] Nasjonal transportplan (NTP)
+      □ [vector] Høringer veiprosjekter
+      □ [for-deg-me] For entreprenører
+  • Fag
+      □ [road_grey] Vei og gate
+      □ [cars_grey] Trafikk
+      □ [technology] Teknologi
+      □ [focus_grey] Fokusområder
+      □ [infobubble] Leverandør
+      □ [publicatio] Publikasjoner
+  • Om oss
+      □ [contact_gr] Kontakt oss
+      □ [organizati] Om organisasjonen
+      □ [employees_] Jobb i Statens vegvesen
+      □ [infobubble] Presse
+
+For at nettsidene skal fungere best mulig for deg, må du aktivere JavaScript i nettleseren din. Her finner du veiledning til hvordan du aktiverer JavaScript i
+nettleseren (ekstern lenke).
+
+Du kan også bruke nettsidene uten å aktivere JavaScript. Bruk søket eller naviger ved hjelp av nettstedkartet.
+
+ 1. Forsiden
+
+Nettsiden finnes ikke
+
+Innholdet kan ha blitt flyttet, eller du kan ha skrevet inn en nettadresse som ikke eksisterer.
+
+Gå til forsiden, eller prøv søket for å finne informasjonen du leter etter.
+
+Chat med oss
+
+Kontakt oss
+
+  • Kontakt Statens vegvesen
+  • Følg oss i sosiale medier
+
+Om vegvesen.no
+
+  • Nettstedskart
+  • Personvern
+  • Informasjonskapsler (cookies)
+  • Tilgjengelighetserklæring
+
+Statens vegvesen
+
+  • Om organisasjonen
+
+Org.nr.: 971 032 081
+
+  • Statistikk og analyser
+  • Innsyn etter offentligloven
+  • Offentlige høringer
+  • Skjema
+
+Language
+
+  • Bokmål
+  • Nynorsk (ikkje tilgjengeleg)
+  • English
+

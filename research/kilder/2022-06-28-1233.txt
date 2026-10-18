@@ -1,7 +1,24 @@
 KILDE: https://lovdata.no/dokument/SF/forskrift/2022-06-28-1233 (hentet 2026-10-18)
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -9,8 +26,18 @@ Forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Bilforskriften
               ○ § 1-1. Formål
               ○ § 1-2. Virkeområde
               ○ § 1-3. Forholdet til tidligere forskrifter
@@ -3185,6 +3212,12 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Minimumskravet til trekkende bils egenvekt med fører beregnes ved å dividere den laveste av de følgende vektene for tilhengeren med vektkvotienten i tabellen:
 
+    • Summen av tillatte akselvekter
+
+    • Tillatt vekt for akselkombinasjonen/akselgruppen
+
+    • Tillatt totalvekt.
+
                                             Utstyr på tilhenger                                               Utstyr på trekkende bil            Vektkvotient for          Vektkvotient for øvrige
                                                                                                                                                    campingvogn                    tilhengere
     Tilhenger uten bremser, med eller uten hydrauliske støtdempere, og med eller uten                   Bil med eller uten                  0,3                        0,3
@@ -3376,6 +3409,7 @@ Trykk Escape for å lukke innholdsfortegnelse
     D – Instrumentering, elektrisk system, belysning, og beskyttelse mot uatorisert bruk, inkludert cyberangrep
 
     Punkt                                         Emne                                                    Basisrettsakt             M   M   M   N   N   N   O   O   O   O   Separat teknisk  Komponent
+                                                                                                                                   [1] [2] [3] [1] [2] [3] [1] [2] [3] [4]       enhet
     D1    Signalhorn                                                                           Forordning (EU) 2019/2144
                                                                                                FN-reg. 28                          X   X   X   X   X   X                                     X
     D2    Radiostøy (elektromagnetisk kompatibilitet)                                          Forordning (EU) 2019/2144
@@ -3419,6 +3453,7 @@ Trykk Escape for å lukke innholdsfortegnelse
     E – Fører- og systemfunksjon
 
     Punkt                               Emne                                                    Basisrettsakt                        M   M   M   N   N   N   O   O   O   O   Separat teknisk  Komponent
+                                                                                                                                    [1] [2] [3] [1] [2] [3] [1] [2] [3] [4]       enhet
     E1    Grensesnitt for ettermontering av alkolås                        Forordning (EU) 2019/2144
                                                                            (EU) 2021/1243                                           X   X   X   X   X   X
     E2    Tretthets- og oppmerksomhetsvarsel                               Forordning (EU) 2019/2144
@@ -3541,6 +3576,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

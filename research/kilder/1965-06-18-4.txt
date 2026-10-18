@@ -1,7 +1,24 @@
-KILDE: https://lovdata.no/dokument/NL/lov/1965-06-18-4
+KILDE: https://lovdata.no/dokument/NL/lov/1965-06-18-4 (hentet 2026-10-18)
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -9,8 +26,20 @@ Lov om vegtrafikk (vegtrafikkloven)
 
 
 
+  • Innholdsfortegnelse
+  •  Lovens forskrifter
+  • ⎙
+  • 
+
+  • Lovens forskrifter
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Vegtrafikkloven - vtrl
     Ditt søk ga dessverre ingen treff.
    
      Lov om vegtrafikk (vegtrafikkloven)
@@ -1403,6 +1432,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/l] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

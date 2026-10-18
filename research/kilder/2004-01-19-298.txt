@@ -1,9 +1,26 @@
-KILDE: https://lovdata.no/dokument/SF/forskrift/2004-01-19-298 (hentet 2026-10-18)
+KILDE: https://lovdata.no/dokument/SF/forskrift/2004-01-19-298 (hentet 2026-10-18, kapittelvis)
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_1 =====
+===== KAPITTEL_1 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -11,8 +28,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -192,6 +219,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -209,10 +238,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_2 =====
+===== KAPITTEL_2 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -220,8 +266,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -373,6 +429,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -390,10 +448,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_3 =====
+===== KAPITTEL_3 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -401,8 +476,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -771,6 +856,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -788,10 +875,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_4 =====
+===== KAPITTEL_4 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -799,8 +903,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -964,6 +1078,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -981,10 +1097,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_5 =====
+===== KAPITTEL_5 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -992,8 +1125,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1051,6 +1194,7 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Bestemmelsene i dette kapittelet gjelder for alle førerkortutstedelser, med mindre annet fremgår.
 
+    Søknad om førerkort, ved ny førerkortklasse eller kompetanse, skal leveres på Din side eller på fastsatt papirskjema. Krav om søknad gjelder ikke for fornyelser, med mindre det kreves ny
     førerprøve.
 
     Egenerklæring om helse, eller konklusjonen fra helseattesten når helseattest kreves etter vedlegg 1, vedlegges søknaden eller innleveres som elektronisk helsemelding fra lege eller optiker der
@@ -1142,6 +1286,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -1159,10 +1305,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_6 =====
+===== KAPITTEL_6 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -1170,8 +1333,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1251,6 +1424,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -1268,10 +1443,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_7 =====
+===== KAPITTEL_7 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -1279,8 +1471,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1413,6 +1615,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -1430,10 +1634,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_8 =====
+===== KAPITTEL_8 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -1441,8 +1662,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1576,6 +1807,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -1593,10 +1826,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_9 =====
+===== KAPITTEL_9 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -1604,8 +1854,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1748,6 +2008,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -1765,10 +2027,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_10 =====
+===== KAPITTEL_10 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -1776,8 +2055,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -1903,6 +2192,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     Det kreves ikke vandelsattest, helseattest/egenerklæring, ny førerprøve eller obligatorisk opplæring. Dette gjelder likevel ikke når annet følger av tapt eller tilbakekalt førerett, jf.
     vegtrafikkloven 18. juni 1965 nr. 4 § 24, § 33 og § 34 og forskrift 19. desember 2003 nr. 1660 om tap av retten til å føre motorvogn kapittel 8.
 
+    Søker må, om nødvendig, framlegge dokumentasjon på opprinnelige førerettigheter fra utstederlandet.
+
     Om innbytte skjer før førerkortets utløpsdato, gis det norske førerkortet 15 års gyldighet for klassene AM, A1, A2, A, B1, B, og BE med mindre førerkortet er særskilt tidsbegrenset på grunn av
     sykdom eller lignende jf. § 4-3.
 
@@ -1988,6 +2279,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2005,10 +2298,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_11 =====
+===== KAPITTEL_11 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2016,8 +2326,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -2116,6 +2436,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2133,10 +2455,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_12 =====
+===== KAPITTEL_12 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2144,8 +2483,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -2379,6 +2728,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2396,10 +2747,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_13 =====
+===== KAPITTEL_13 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2407,8 +2775,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -2479,6 +2857,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2496,10 +2876,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_14 =====
+===== KAPITTEL_14 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2507,8 +2904,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -2705,6 +3112,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2722,10 +3131,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_15 =====
+===== KAPITTEL_15 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2733,8 +3159,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -2871,6 +3307,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -2888,10 +3326,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_16 =====
+===== KAPITTEL_16 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -2899,8 +3354,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -3031,6 +3496,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -3048,10 +3515,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17 =====
+===== KAPITTEL_17 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -3059,8 +3543,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -3224,8 +3718,10 @@ Trykk Escape for å lukke innholdsfortegnelse
    
     § 6.Plikt til å gi informasjon
 
+    Søker om førerett skal ved legeundersøkelsen legge fram akseptabel legitimasjon med navn, fødselsnummer (11 siffer), eller D-nummer for de som ikke har norsk fødselsnummer, og bilde, med mindre
     legen fra tidligere er godt kjent med pasienten. Der attest for synsfunksjon utfylles av optiker, gjelder tilsvarende legitimasjonsplikt overfor optiker.
 
+    Søkeren er pliktig til å gi legen så fullstendige opplysninger som mulig om sin helsetilstand. Det skal gå fram av egenerklæringen at søkeren ved sin underskrift samtykker i at legen kan innhente
     nødvendige og relevante helseopplysninger fra spesialist og tidligere fastlege for å sikre en forsvarlig vurdering.
 
     0 Endret ved forskrifter 16 juni 2010 nr. 894 (i kraft 1 juli 2010), 13 juni 2016 nr. 655 (i kraft 1 okt 2016). Endres ved forskrift 16 sep 2026 nr. 1833 (i kraft 1 jan 2027).
@@ -4211,6 +4707,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4228,10 +4726,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-1 =====
+===== KAPITTEL_17-1 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4239,8 +4754,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4324,6 +4849,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4341,10 +4868,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-2 =====
+===== KAPITTEL_17-2 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4352,8 +4896,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4441,6 +4995,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4458,10 +5014,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-3 =====
+===== KAPITTEL_17-3 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4469,8 +5042,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4574,8 +5157,10 @@ Trykk Escape for å lukke innholdsfortegnelse
    
     § 6.Plikt til å gi informasjon
 
+    Søker om førerett skal ved legeundersøkelsen legge fram akseptabel legitimasjon med navn, fødselsnummer (11 siffer), eller D-nummer for de som ikke har norsk fødselsnummer, og bilde, med mindre
     legen fra tidligere er godt kjent med pasienten. Der attest for synsfunksjon utfylles av optiker, gjelder tilsvarende legitimasjonsplikt overfor optiker.
 
+    Søkeren er pliktig til å gi legen så fullstendige opplysninger som mulig om sin helsetilstand. Det skal gå fram av egenerklæringen at søkeren ved sin underskrift samtykker i at legen kan innhente
     nødvendige og relevante helseopplysninger fra spesialist og tidligere fastlege for å sikre en forsvarlig vurdering.
 
     0 Endret ved forskrifter 16 juni 2010 nr. 894 (i kraft 1 juli 2010), 13 juni 2016 nr. 655 (i kraft 1 okt 2016). Endres ved forskrift 16 sep 2026 nr. 1833 (i kraft 1 jan 2027).
@@ -4621,6 +5206,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4638,10 +5225,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-4 =====
+===== KAPITTEL_17-4 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4649,8 +5253,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4769,6 +5383,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4786,10 +5402,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-5 =====
+===== KAPITTEL_17-5 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4797,8 +5430,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4865,6 +5508,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4882,10 +5527,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-6 =====
+===== KAPITTEL_17-6 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4893,8 +5555,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -4961,6 +5633,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -4978,10 +5652,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-7 =====
+===== KAPITTEL_17-7 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -4989,8 +5680,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -5151,6 +5852,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -5168,10 +5871,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-8 =====
+===== KAPITTEL_17-8 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -5179,8 +5899,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -5314,6 +6044,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -5331,10 +6063,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-9 =====
+===== KAPITTEL_17-9 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -5342,8 +6091,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -5441,6 +6200,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -5458,10 +6219,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-10 =====
+===== KAPITTEL_17-10 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -5469,8 +6247,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -5558,6 +6346,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -5575,10 +6365,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-11 =====
+===== KAPITTEL_17-11 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -5586,8 +6393,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -5854,6 +6671,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -5871,10 +6690,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-12 =====
+===== KAPITTEL_17-12 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -5882,8 +6718,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6011,6 +6857,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6028,10 +6876,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-13 =====
+===== KAPITTEL_17-13 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6039,8 +6904,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6183,6 +7058,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6200,10 +7077,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-14 =====
+===== KAPITTEL_17-14 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6211,8 +7105,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6364,6 +7268,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6381,10 +7287,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-15 =====
+===== KAPITTEL_17-15 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6392,8 +7315,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6472,6 +7405,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6489,10 +7424,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-16 =====
+===== KAPITTEL_17-16 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6500,8 +7452,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6583,6 +7545,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6600,10 +7564,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-17 =====
+===== KAPITTEL_17-17 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6611,8 +7592,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6693,6 +7684,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6710,10 +7703,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-18 =====
+===== KAPITTEL_17-18 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6721,8 +7731,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6805,6 +7825,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6822,10 +7844,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_17-19 =====
+===== KAPITTEL_17-19 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6833,8 +7872,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -6937,6 +7986,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -6954,10 +8005,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_18 =====
+===== KAPITTEL_18 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -6965,8 +8033,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -7120,6 +8198,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -7137,10 +8217,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_19 =====
+===== KAPITTEL_19 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -7148,8 +8245,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -7217,6 +8324,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -7234,10 +8343,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_20 =====
+===== KAPITTEL_20 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -7245,8 +8371,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -7445,6 +8581,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -7462,10 +8600,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_21 =====
+===== KAPITTEL_21 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -7473,8 +8628,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -7591,6 +8756,8 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     Del dokument
 
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
+
     Brukerveiledning
 
     ❓ ␡  
@@ -7608,10 +8775,27 @@ Trykk Escape for å lukke innholdsfortegnelse
 
     🍪Om informasjonskapsler
 
-===== /dokument/SF/forskrift/2004-01-19-298/KAPITTEL_22 =====
+===== KAPITTEL_22 =====
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -7619,8 +8803,18 @@ Forskrift om førerkort m.m. (førerkortforskriften)
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Førerkortforskriften
               ○ § 1. Definisjoner
               ○ § 2. Generelt krav til helse
               ○ § 3. Egenerklæring om helse
@@ -7847,6 +9041,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

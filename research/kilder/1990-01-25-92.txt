@@ -1,7 +1,24 @@
-KILDE: https://lovdata.no/dokument/SF/forskrift/1990-01-25-92
+KILDE: https://lovdata.no/dokument/SF/forskrift/1990-01-25-92 (hentet 2026-10-18)
+Lovdata-logo
+Til hovedinnhold
  🔍
+Søketekst
+[                    ]
+[Søk]
+Avbryt
+Logg inn🔒
 
 Hovedmeny
+
+  • Rettskilder
+  • Tjenester
+  • Om Lovdata
+
+  • Grunnloven
+  • Personvern
+  • Linkedin
+  • Twitter
+  • Facebook
 
 Verktøylinje
 
@@ -9,8 +26,18 @@ Forskrift om bruk av kjøretøy
 
 
 
+  • Innholdsfortegnelse
+  • ⎙
+  • 
+
+  • ⎙Skriv ut
+  • Del dokument
+
 Trykk Escape for å lukke innholdsfortegnelse
 
+Søk i innholdsfortegnelse (listen oppdateres idet du skriver) [                    ]
+
+  • Forskrift om bruk av kjøretøy
     Ditt søk ga dessverre ingen treff.
    
     ➦ Gå til opprinnelig kunngjort versjon
@@ -119,6 +146,12 @@ Trykk Escape for å lukke innholdsfortegnelse
     a. I Nordland, Troms og Finnmark fra og med 1. mai til og med 15. oktober, og i resten av landet fra og med første mandag etter 2. påskedag til og med 31. oktober: Minst 1,6 mm.
 
     b. I Nordland, Troms og Finnmark fra og med 16. oktober til og med 30. april, og i resten av landet fra og med 1. november til og med første søndag etter 2. påskedag:
+
+    • For kjøretøy med tillatt totalvekt ikke over 3 500 kg: Minst 3 mm.
+
+    • For kjøretøy med tillatt totalvekt over 3 500 kg: Minst 5 mm.
+
+    • For bobil med tillatt totalvekt ikke over 7 500 kg: Minst 3 mm.
 
     2. Mønsterdybde måles i hovedrillene i de midterste ¾ av slitebanens bredde og rundt dekkets omkrets, bortsett fra der det er plassert slitasjevarslere.
 
@@ -3276,6 +3309,8 @@ Trykk Escape for å lukke innholdsfortegnelse
     ×
 
     Del dokument
+
+    [https://lovdata.no/f] Kopier URL Del på Twitter Del på Facebook Del på LinkedIn Del på e-post
 
     Brukerveiledning
 

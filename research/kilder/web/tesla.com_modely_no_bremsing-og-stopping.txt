@@ -1,0 +1,24 @@
+KILDE: https://www.tesla.com/ownersmanual/modely/no_no/GUID-3DFFB071-C0F6-474D-8A45-17BE1A006365.html
+TITTEL: Bremsing og stopping (Model Y brukerhåndbok, norsk)
+(hentet 2026-10-18 via nettleser, curl ga 403. Seksjonene om ABS og nødbremsing er gjengitt i sin helhet.)
+
+Bremsesystemer
+Model Y har blokkeringsfritt bremsesystem (ABS) som forhindrer at hjulene låser seg når du bruker maksimalt bremsetrykk. Dette forbedrer styrekontrollen under tung bremsing ved de fleste veiforhold.
+
+Ved nødbremsing overvåker ABS hastigheten til hvert hjul og varierer bremsetrykket i henhold til veigrepet.
+
+Variasjonen i bremsetrykk kan kjennes som en pulserende følelse gjennom bremsepedalen. Dette viser at ABS er i drift og er ingen grunn til bekymring. Hold et fast og jevnt trykk på bremsepedalen når du kjenner pulseringen.
+
+ABS-indikatoren blinker raskt oransje på berøringsskjermen når du starter opp Model Y. Hvis denne indikatoren lyser på andre tidspunkter, har det oppstått en feil i ABS-systemet og det virker ikke lenger. Kontakt Tesla. Bremsesystemet fungerer fortsatt som det skal, og påvirkes ikke av en ABS-feil. Bremselengden kan imidlertid øke. Kjør forsiktig og unngå kraftig bremsing.
+
+Nødbremsing
+I nødstilfeller trykker du bremsepedalen helt inn og holder et fast trykk, selv på overflater med lav friksjon. ABS varierer bremsetrykket til hvert hjul i henhold til friksjonen. Dette forhindrer at hjulet låser seg og sikrer at du stanser så trygt som mulig.
+
+ADVARSEL
+Ikke pump bremsepedalen. Det forstyrrer driften av ABS og kan øke bremselengden.
+
+ADVARSEL
+Hold alltid trygg avstand til bilen foran og vær oppmerksom på farlige kjøreforhold. Selv om ABS kan redusere stopplengden, kan det ikke overvinne fysiske lover. Det reduserer heller ikke faren for vannplaning (der et lag med vann forhindrer direkte kontakt mellom dekkene og veien).
+
+ADVARSEL
+Den automatiske nødbremsingen (se Kollisjonsvarselassistent) bryter kanskje inn for å bremse automatisk i situasjoner der en kollisjon ansees som umiddelbart forestående. Automatisk nødbremsing er ikke beregnet på å forhindre en kollisjon. I beste fall kan det redusere kraften i en frontkollisjon ved å prøve å redusere kjørehastigheten. Hvis du stoler på at automatisk nødbremsing unngår en kollisjon, kan det føre til alvorlig skade eller død.

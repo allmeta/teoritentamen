@@ -394,20 +394,6 @@
     "source": "https://lovdata.no/lov/1965-06-18-4/§21"
   },
   {
-    "id": "trafikanter-29",
-    "category": "Fører og andre trafikanter",
-    "text": "Du kjører i 80 km/t og ser ned på telefonen i 2 sekunder. Omtrent hvor langt kjører du uten å se på vegen?",
-    "options": [
-      "Ca. 11 meter",
-      "Ca. 22 meter",
-      "Ca. 44 meter",
-      "Ca. 88 meter"
-    ],
-    "answer": 2,
-    "explanation": "80 km/t er ca. 22 meter i sekundet, så 2 sekunder gir ca. 44 meter i blinde. Derfor er all betjening av mobiltelefon under kjøring forbudt (mobilforskriften).",
-    "source": "https://lovdata.no/forskrift/1999-12-17-1309/§2"
-  },
-  {
     "id": "trafikanter-30",
     "category": "Fører og andre trafikanter",
     "text": "Hva er tillatt bruk av mobiltelefon under kjøring?",
