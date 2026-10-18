@@ -96,11 +96,15 @@ export default function App() {
   const choose = (i: number) => {
     if (checked()[idx()]) return
     setAnswers((a) => a.map((v, j) => (j === idx() ? i : v)))
-    if (endless()) check() // skiltpugging: svaret sjekkes og læres med en gang
   }
-  const check = () => {
-    if (endless() && !checked()[idx()]) learnAt(idx())
-    setChecked((c) => c.map((v, j) => (j === idx() ? true : v)))
+  // I skiltpugging betyr dette «snu kortet».
+  const check = () => setChecked((c) => c.map((v, j) => (j === idx() ? true : v)))
+  // Skiltpugging: egen vurdering etter at kortet er snudd. Lagres som riktig svar eller -1, læres, og neste kort vises.
+  const grade = (ok: boolean) => {
+    if (!checked()[idx()] || answers()[idx()] !== undefined) return
+    setAnswers((a) => a.map((v, j) => (j === idx() ? (ok ? q().answer : -1) : v)))
+    learnAt(idx())
+    go(1)
   }
 
   // Hurtigtaster: a–d velg · j/k/↑/↓ flytt valg · h/l/←/→, N/p og n forrige/neste · s/i sjekk svar
@@ -119,6 +123,15 @@ export default function App() {
   const onKey = (e: KeyboardEvent) => {
     if (view() !== 'quiz' || e.ctrlKey || e.metaKey || e.altKey) return
     if ((e.target as HTMLElement).closest('input, textarea')) return
+    if (endless()) {
+      // Kort: mellomrom/Enter/j snur · 1/h/← kunne ikke · 2/l/→ kunne det
+      if (!checked()[idx()] && [' ', 'Enter', 'j', 'ArrowDown', 's', 'i'].includes(e.key)) check()
+      else if (checked()[idx()] && ['1', 'h', 'ArrowLeft'].includes(e.key)) grade(false)
+      else if (checked()[idx()] && ['2', 'l', 'ArrowRight'].includes(e.key)) grade(true)
+      else return
+      e.preventDefault()
+      return
+    }
     const opt = 'abcde'.indexOf(e.key)
     if (opt >= 0 && opt < q().options.length) choose(opt)
     else if (e.key === 'j' || e.key === 'ArrowDown') move(1)
@@ -136,8 +149,6 @@ export default function App() {
   const finish = () => {
     const unanswered = qs().length - answeredCount()
     if (!endless() && unanswered && !confirm(`Du har ${unanswered} ubesvarte spørsmål. Levere likevel?`)) return
-    // Skiltpugging: lær også av svar som ble valgt men ikke sjekket, og tell bare besvarte.
-    if (endless()) qs().forEach((_, i) => { if (answers()[i] !== undefined && !checked()[i]) learnAt(i) })
     const a: Attempt = {
       name: name().trim() || 'Anonym', date: new Date().toISOString(), mode: mode(),
       correct: correctCount(), total: endless() ? answeredCount() : qs().length,
@@ -190,7 +201,7 @@ export default function App() {
                   <For each={[
                     { id: 'eksamen' as Mode, title: 'Eksamensmodus', desc: 'Som den ekte prøven. Fasit vises når du leverer.' },
                     { id: 'ovelse' as Mode, title: 'Øvingsmodus', desc: 'Sjekk svaret og se forklaring underveis.' },
-                    { id: 'skilt' as Mode, title: 'Skiltpugging', desc: `Uendelig, alle ${signPool.length} skilt. Skilt du bommer på kommer oftere igjen.` },
+                    { id: 'skilt' as Mode, title: 'Skiltpugging', desc: `Flashcards med alle ${signPool.length} skilt. Nye skilt og skilt du ikke kunne, kommer oftere.` },
                   ]}>
                     {(m) => (
                       <label class={cn('rounded-lg border p-3 cursor-pointer has-[:checked]:border-primary has-[:checked]:ring-2 has-[:checked]:ring-primary/30')}>
@@ -259,19 +270,50 @@ export default function App() {
             const reveal = () => practice() && checked()[idx()]
             return (
               <div class="space-y-4">
-                <div class="flex items-center justify-between text-sm text-muted-foreground">
-                  <span>
-                    <Show when={endless()} fallback={<>Spørsmål {idx() + 1} av {qs().length}</>}>
-                      Spørsmål {idx() + 1} · {correctCount()} av {answeredCount()} riktige · {Object.keys(misses().m).length} skilt å øve mer på
-                    </Show>
-                  </span>
-                  <span class="tabular-nums">⏱ {fmtTime(elapsed())}</span>
-                </div>
-                <Show when={!endless()}>
-                  <div class="h-1.5 w-full rounded-full bg-muted overflow-hidden">
-                    <div class="h-full bg-primary transition-all" style={{ width: `${(answeredCount() / qs().length) * 100}%` }} />
+                <Show when={endless()}>
+                  <div class="flex flex-wrap items-center justify-between gap-2 text-sm text-muted-foreground">
+                    <span>Kort {answeredCount() + 1} · kunne {correctCount()} av {answeredCount()}</span>
+                    <span>{Object.keys(misses().seen).length} av {signPool.length} sett · {Object.keys(misses().m).length} å øve mer på</span>
+                  </div>
+                  <Card>
+                    <CardContent class="pt-6 space-y-6">
+                      <img src={q().image} alt="" class="mx-auto h-56 w-full object-contain" />
+                      <Show
+                        when={checked()[idx()]}
+                        fallback={<p class="text-center text-muted-foreground">Hva betyr skiltet? Svar for deg selv, og snu kortet.</p>}
+                      >
+                        <div class="text-center space-y-2">
+                          <p class="text-2xl font-semibold">{q().options[q().answer]}</p>
+                          <p class="text-sm text-muted-foreground">
+                            {/* "Skilt 829 Navn (underskilt). Tekst" → "Skilt 829 · underskilt. Tekst" uten å gjenta navnet */}
+                            {q().explanation.replace(/^Skilt (\S+) .*?\(([^)]+)\)\./, 'Skilt $1 · $2.')}{' '}
+                            <Show when={q().source}><a href={q().source} target="_blank" rel="noreferrer" class="underline">Kilde</a></Show>
+                          </p>
+                        </div>
+                      </Show>
+                    </CardContent>
+                    <CardFooter class="justify-center gap-3">
+                      <Show when={checked()[idx()]} fallback={<Button size="lg" onClick={check}>Vis svar</Button>}>
+                        <Button size="lg" variant="destructive" onClick={() => grade(false)}>Kunne ikke</Button>
+                        <Button size="lg" class="bg-success text-white hover:bg-success/90" onClick={() => grade(true)}>Kunne det</Button>
+                      </Show>
+                    </CardFooter>
+                  </Card>
+                  <p class="hidden sm:block text-center text-xs text-muted-foreground">
+                    Hurtigtaster: <kbd>Mellomrom</kbd>/<kbd>J</kbd> snu · <kbd>1</kbd>/<kbd>H</kbd>/← kunne ikke · <kbd>2</kbd>/<kbd>L</kbd>/→ kunne det
+                  </p>
+                  <div class="flex justify-end">
+                    <Button variant="outline" onClick={finish}>Avslutt</Button>
                   </div>
                 </Show>
+                <Show when={!endless()}>
+                <div class="flex items-center justify-between text-sm text-muted-foreground">
+                  <span>Spørsmål {idx() + 1} av {qs().length}</span>
+                  <span class="tabular-nums">⏱ {fmtTime(elapsed())}</span>
+                </div>
+                <div class="h-1.5 w-full rounded-full bg-muted overflow-hidden">
+                  <div class="h-full bg-primary transition-all" style={{ width: `${(answeredCount() / qs().length) * 100}%` }} />
+                </div>
 
                 <Card>
                   <CardHeader>
@@ -313,7 +355,7 @@ export default function App() {
                         <Button variant="secondary" disabled={answers()[idx()] === undefined} onClick={check}>Sjekk svar</Button>
                       </Show>
                       <Show
-                        when={idx() < qs().length - 1 || endless()}
+                        when={idx() < qs().length - 1}
                         fallback={<Button onClick={finish}>Lever prøven</Button>}
                       >
                         <Button onClick={() => go(1)}>Neste</Button>
@@ -345,8 +387,9 @@ export default function App() {
                 </p>
                 <div class="flex justify-between">
                   <Button variant="ghost" onClick={() => { if (confirm('Avbryte prøven? Resultatet lagres ikke.')) { clearSaved(); setView('home') } }}>Avbryt</Button>
-                  <Button variant="outline" onClick={finish}>{endless() ? 'Avslutt' : 'Lever prøven'}</Button>
+                  <Button variant="outline" onClick={finish}>Lever prøven</Button>
                 </div>
+                </Show>
               </div>
             )
           }}
@@ -359,7 +402,9 @@ export default function App() {
                 <CardHeader class="items-center text-center">
                   <CardTitle class="text-3xl">{a().mode === 'skilt' ? 'Skiltpugging' : passed(a()) ? 'Bestått!' : 'Ikke bestått'}</CardTitle>
                   <CardDescription class="text-base">
-                    {a().correct} av {a().total} riktige · {a().total - a().correct} feil · {fmtTime(a().seconds)}
+                    <Show when={a().mode === 'skilt'} fallback={<>{a().correct} av {a().total} riktige · {a().total - a().correct} feil · {fmtTime(a().seconds)}</>}>
+                      Kunne {a().correct} av {a().total} kort · {a().total - a().correct} å øve mer på
+                    </Show>
                   </CardDescription>
                   <Show when={a().mode !== 'skilt'}>
                     <p class="text-sm text-muted-foreground">Krav: minst {PASS_MIN} riktige (maks {TEST_SIZE - PASS_MIN} feil)</p>
@@ -371,23 +416,25 @@ export default function App() {
                 </CardFooter>
               </Card>
 
-              <h2 class="text-xl font-semibold">Gjennomgang</h2>
+              <h2 class="text-xl font-semibold">{a().mode === 'skilt' ? 'Kort du ikke kunne' : 'Gjennomgang'}</h2>
               <For each={qs()}>
                 {(x, i) => {
                   const chosen = answers()[i()]
                   const ok = chosen === x.answer
+                  if (a().mode === 'skilt' && chosen !== -1) return null
                   return (
                     <Card>
                       <CardHeader>
                         <div class="flex gap-2">
-                          <Badge variant={ok ? 'success' : 'error'}>{ok ? 'Riktig' : chosen === undefined ? 'Ubesvart' : 'Feil'}</Badge>
+                          <Badge variant={ok ? 'success' : 'error'}>{ok ? 'Riktig' : chosen === undefined ? 'Ubesvart' : chosen === -1 ? 'Kunne ikke' : 'Feil'}</Badge>
                           <Badge variant="secondary">{x.category}</Badge>
                         </div>
                         <CardTitle class="text-base leading-snug">{i() + 1}. {x.text}</CardTitle>
                       </CardHeader>
                       <CardContent class="space-y-3">
                         <Show when={x.image}><img src={x.image} alt="" class={imgClass(x.image!)} /></Show>
-                        <div class="space-y-1.5">
+                        <Show when={a().mode === 'skilt'}><p class="font-semibold">{x.options[x.answer]}</p></Show>
+                        <div class="space-y-1.5" hidden={a().mode === 'skilt'}>
                           <For each={x.options}>
                             {(opt, j) => (
                               <div class={optionClass(j(), true, chosen, x.answer)}>
