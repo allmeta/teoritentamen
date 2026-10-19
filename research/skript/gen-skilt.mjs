@@ -20,7 +20,7 @@ for (const s of signs) {
 const hasVariants = new Set(signs.filter((s) => s.nr.includes('.')).map((s) => s.nr.split('.')[0]))
 const usable0 = signs.filter((s) => !(hasVariants.has(s.nr) && !s.nr.includes('.')))
 const usable = usable0.filter((s) => s.nr.length <= 3 || s.nr.includes('.') ? true : false)
-  .filter((s) => /^[1-9]/.test(s.nr) && s.nr.split('.')[0].length === 3 && !/Eksemp/i.test(s.name))
+  .filter((s) => /^[1-9]/.test(s.nr) && s.nr.split('.')[0].length === 3 && !/Eksemp/i.test(s.name) && s.nr[0] !== '8') // underskilt pugges i kombinasjon (skiltkombo.json)
 
 // Unique names per group (same name = same answer, keep first)
 const seen = new Set()

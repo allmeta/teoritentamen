@@ -6,6 +6,7 @@ export type Question = {
   answer: number // index into options
   explanation: string
   image?: string // path under /public, e.g. /skilt/202.svg
+  images?: string[] // hovedskilt + underskilt, vises over hverandre
   source?: string // URL to the rule (lovdata etc.)
   make?: () => Question // regnespørsmål: lager en ny variant med nye tall
 }

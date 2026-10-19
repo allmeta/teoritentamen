@@ -16,6 +16,17 @@ const fmtDate = (iso: string) =>
 // Situation photos (driver's view) fill the card; sign drawings stay small.
 const imgClass = (src: string) =>
   src.startsWith('/situasjon/') ? 'w-full rounded-lg' : 'mx-auto max-h-48 object-contain'
+// Ett bilde, eller hovedskilt med underskilt stablet som på en stolpe.
+const SignImages = (p: { q: Question; class?: string }) => (
+  <Show
+    when={p.q.images}
+    fallback={<Show when={p.q.image}><img src={p.q.image} alt="" class={p.class ?? imgClass(p.q.image!)} /></Show>}
+  >
+    <div class="mx-auto flex w-40 flex-col items-center gap-1">
+      <For each={p.q.images}>{(src) => <img src={src} alt="" class="w-full" />}</For>
+    </div>
+  </Show>
+)
 const NAME_KEY = 'teoritentamen.name'
 const readName = () => { try { return localStorage.getItem(NAME_KEY) ?? '' } catch { return '' } }
 
@@ -277,7 +288,7 @@ export default function App() {
                   </div>
                   <Card>
                     <CardContent class="pt-6 space-y-6">
-                      <img src={q().image} alt="" class="mx-auto h-56 w-full object-contain" />
+                      <SignImages q={q()} class="mx-auto h-56 w-full object-contain" />
                       <Show
                         when={checked()[idx()]}
                         fallback={<p class="text-center text-muted-foreground">Hva betyr skiltet? Svar for deg selv, og snu kortet.</p>}
@@ -321,9 +332,7 @@ export default function App() {
                     <CardTitle class="text-xl leading-snug">{q().text}</CardTitle>
                   </CardHeader>
                   <CardContent class="space-y-4">
-                    <Show when={q().image}>
-                      <img src={q().image} alt="" class={imgClass(q().image!)} />
-                    </Show>
+                    <SignImages q={q()} />
                     <div class="space-y-2" role="radiogroup">
                       <For each={q().options}>
                         {(opt, i) => (
@@ -432,7 +441,7 @@ export default function App() {
                         <CardTitle class="text-base leading-snug">{i() + 1}. {x.text}</CardTitle>
                       </CardHeader>
                       <CardContent class="space-y-3">
-                        <Show when={x.image}><img src={x.image} alt="" class={imgClass(x.image!)} /></Show>
+                        <SignImages q={x} />
                         <Show when={a().mode === 'skilt'}><p class="font-semibold">{x.options[x.answer]}</p></Show>
                         <div class="space-y-1.5" hidden={a().mode === 'skilt'}>
                           <For each={x.options}>
